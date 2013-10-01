@@ -1,0 +1,38 @@
+India.map
+
+	Note: this was one of the original campaign maps from
+Railroad Tycoon II (campaign pt. 13 - "Croissants or Crumpets", #13cro~1.map)
+
+
+  Changes:
+1)  removed the "CampaignChoice1To3=" and "CampaignDifficulty1To3=" events
+
+2)  removed the "IndustryInvestments" part of the goals... it just wouldn't
+	work in a stand-alone unless you have people set up their game
+	exactly, in the Custom section.
+
+
+  Goals (unchanged from campaign):
+Bronze - connect Panaji to Pondichery and Delhi by 1890
+Silver - Bronze plus connect to Calcutta by 1880
+Gold   - Silver plus connect to Kabul, and be the only surviving railroad
+
+
+
+				DISCLAIMER:
+
+	Use of this map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II" is copyright 1998 PopTop Software and
+	copyright 1998 Gathering of Developers
+
+	PopTop Software - http://www.poptopsoftware.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+the Roundhouse -- http://members.xoom.com/1_nightwolf/index.html
+June 30th, 1999

@@ -1,0 +1,62 @@
+Canadian Pacific
+Campaign Map #2 for Railroad Tycoon II TSC.
+version 2.0
+
+
+This is map two of the player built campaign map series.  It tells the history of the building of the Canadian Pacific Railway from 1881 to 1886 after the government of Canada gave it up to private enterprise.  The major players were president George Stephen, Prime Minister John A. MacDonald, general manager William Van Horne and many other supporting characters.
+
+Creating this map has been a labour of love for me, being based on my home country of Canada and my love of history.  Almost all events are based on actual events in the history of the building of the Canadian Pacific Railway.  Historical information is all from Pierre Berton's book The Last Spike.  For you history buffs, here are some events and where they are found in that book:
+
+p.6 - Passing of the Pacific Railway bill.
+p.50,51,325 - The monopoly clause.
+p.162,163 - Payment of the subsidy.
+p.19 - Hiring of Major A.B. Rogers to survey the western passes.
+p.19,108 - Choice of Kicking Horse Pass route.
+p.62 - Hiring of Van Horne.
+p.116 - Van Horne's promise to lay 500 miles of track.
+p.66-96 - Manitoba land booms.
+p.99-100 - Red River flood and Winnipeg bridge collapse.
+p.126,264 - Hiring of Michael Haney as superintendant in east and west.
+p.159-160 - Prime Minister's request to build in Superior section.
+p.52,161,497 - Buying of Quebec railway for access to Montreal and pressure to lease line to Quebec City.
+p.290.362 - Track-laying record set.
+p.256,263 - Hiring of Chinese coolies by Onderdonk.
+p.299-302 - Trouble in Blackfoot territory and Father Lacombe.
+p.323 - Request for government loan.
+p.359 - Sudbury mineral discovery.
+I'm sure there are many more that I've overlooked.
+
+Geographically speaking, the map was made from a pcx file created using GeoVu with coordinates of -71W to -131W longitude and 40N to 60N latitude.  I tried to add as many lakes and rivers as I could to make it more realistic, so I probably overdid it, but I like it that way.
+
+This map is dedicated to my family, some of whom I have named in features of the map where these exist in real life.  For fun, see if you can find these names: Carman (my dad), Christina (my mom), Lois, Steven, Gary, David, Corinne and of course Gross.  (Sorry to the others, couldn't fit you in :)
+
+For suggestions and feedback, send email to address below or visit my site and post on the forum.
+
+by David Gross
+feedback@riptrack.iwarp.com
+The RIP Track
+http://riptrack.iwarp.com
+
+Version
+--------------
+2.0 release version 27-Jan-2001
+
+There are quite a few changes from version 1.0, the initial test version.  Thanks to Steve, Steve M., CeeBee, JSS, rrnut, Frank Selter, Gwizz, Railnut and any others who posted suggestions for improvement at the RIP Track Forum. Some of the changes are as follows:
+
+- Changed the pass choice to the beginning of year 2 and added an event for a preliminary report from A.B. Rogers to assist with this choice and give time to evaluate the passes.
+- Improved ease of track laying in the mountains.  It should now be possible to click and drag track from Calgary to Kamloops in either direction and get a good profile under 3%.  Yellowhead Pass track is a little trickier, but you should be able to click and drag from above Kamloops to Jasper going east only.
+- There are additional incentives for choosing the Kicking Horse pass over the Yellowhead to offset the survey costs and avalanche danger.  I'll leave it to you to find out what these are.  Pass discovery timing is random but will happen no later than August 1884.
+- Lowered lease payments for Quebec and added help dialog for merger/buy rights choice.  This event now triggers in early 1886 or when half of expected track has been laid (>250 cells).  Quebec merger check also now functions properly.
+- Merging with a US company will now give rights to lay track in US.  But if this is done before the bronze connection the subsidy payments will stop.  This is all documented in the briefings.
+- The lumber/steel deliveries now give a 2% reduction for every load delivered so there is no minimum threshold.  Maximum discount is 30% or 15 loads in one year.  Discount recalculated each year based on loads delivered and applies to normal track laying, bridges, stations and improvements.
+- Added some additional news events with small effects on economy and/or production levels.
+- Flattened out the prairies and reduced vegetation to reduce track costs.
+- Red River flood will now only happen after 1885 and has a reduced chance of happening so should not occur so soon or often.  If it happens, you will be able to rebuild the connection towards Fargo in the US by special emergency arrangements. :)
+
+
+There are also a few Easter eggs and random events that you may or may never see.  If you want to keep them a surprise, then stop reading now.  But if you're the curious type, some of these are:
+
+- A bonus for bronze connection before 1886.
+- The Blackfoot event near Calgary has 4 possible outcomes, each with 50% random chance.  One outcome of each choice is good or bad with varying results.  The bad ones both confiscate track and/or deny access to that territory.
+- Disasters possible are a one-time Red River flood in March/April/May 1885 or later and one-time avalanche in Rogers Pass in Nov-April after track is laid in the pass.
+- If your company cash falls below -$500k before 1886 and completion of bronze connection, you will be given an option to take a government assistance loan.  To accept it, however, you must agree to complete the railway by 1886.
