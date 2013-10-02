@@ -1,0 +1,31 @@
+--- General Information ---
+Full Map Title: West Africa, 1960
+Author: Kees van der Griendt
+
+Copyright: None.
+Distribution: map can be distributed freely, as is, or modified
+
+Starting Year: 1960
+Start Range: 1920- (because of the borders)
+Map Size: 500 * 250
+Map Base: New Map
+Topography Base: West Africa, from Senegal to Cameroon
+Territories: Yes
+Player Pool: Europe
+Manager Pool: All
+Locomotive Pool: Europe
+Limitations: Connected Track only (any track)
+
+--- Single Player Data ---
+No scenario, sorry
+
+--- Multi-Player Data ---
+Multi-Player : Yes
+Highest Company Book Vallue after 30 years
+
+--- Extra Information ---
+I like to make maps. Because I only play multiplayer games nowadays, 
+I don't have the patience to make a scenario.
+Anyone who wants to make one, please feel free to do so under your own
+name...
+

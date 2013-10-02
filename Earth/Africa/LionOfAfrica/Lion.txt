@@ -1,0 +1,17 @@
+Lion of Africa
+Map for Railroad Tycoon II TSC.
+version 1.0
+
+The year is 1900.   The railroad has come to Africa.
+Develop Africa's industries and help your home
+country maintain control of her colonies.
+
+version
+-------
+ 1.0  Release version
+
+  
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii/

@@ -1,0 +1,21 @@
+South Africa
+version 1.1
+
+Return to South Africa after WWII
+and rebuild the railroad system.
+
+
+version
+-------
+ 1.1  Fixed bug in Gold Goal
+ 1.0  Released version
+ 0.1  Beta
+
+
+If you find errors in spelling or events let me know
+so I can fix them.
+  
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii/

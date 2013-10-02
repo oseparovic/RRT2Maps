@@ -1,0 +1,44 @@
+Cape Town.map
+
+	Note: this was one of the original campaign maps from
+Railroad Tycoon II ("Cape to Cairo", campaign pt. 18, #18Cap~1.map)
+
+
+  Changes:
+1)  removed the "CampaignChoice1To3=" and "CampaignDifficulty1To3=" events
+
+2)  fixed reserve cells here and there
+
+3)  set Spanish territory as buyable
+
+4)  set up Madagascar and Arabia as separate territories
+
+5)  added several 'connection' events - mainly territorial
+
+6)  added cities in Arabia
+
+
+  Goals (unchanged from campaign):
+Bronze - 
+Silver - 
+Gold   - Cape Town to Cairo & haul 8 loads between them by 1902
+
+
+
+				DISCLAIMER:
+
+	Use of this map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II" is copyright 1998 PopTop Software and
+	copyright 1998 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+the Roundhouse -- http://members.xoom.com/1_nightwolf/index.html
+June 26th, 1999

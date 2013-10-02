@@ -1,0 +1,21 @@
+This map is the first attempt at creating a realistic Africa.  In this first pass, as you will see, I have not done very well with the disbursement of industry.  It seems too crowded for Africa.  However, my next update will improve the disbursement of industry and it will be good.  You will enjoy this one anyway, I am sure.  The computer should have no problem getting started.  
+
+email any suggestions to jamesciv@ix.netcom.com
+
+
+Enjoy, 
+Jamie
+
+
+
+
+References:
+
+atlapedia.com is really helpful in getting accurate information on industry and such...the topographic map was found at noaa.gov I think?
+
+
+Fixes.
+
+1.0 Initial
+
+1.1 Fixed the land so that Alexandria can be connected.

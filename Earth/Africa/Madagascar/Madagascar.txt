@@ -1,0 +1,23 @@
+Madagascar
+Version 297.
+Created from the TerrainBase collection, converted to greyscale in GeoVu before being despeckled, blurred and resampled to 251x500 pixels in Photoshop 5. Because Madagascar elevations start at 119 feet, I had to manually add coastal areas, especially in the northwest, west, far northeast and far south west, as well as a coastal strip the length of the eastern coast. (Tip...when doing this, add key rivers in BEFORE adding coastlines, then you can clearly see where key estuaries are, AFTER you add land - not as easy as it sounds).
+
+Towns in the north and east and west coast are fairly accurate. The exact location of Tana, Antsirabe and inland towns are a bit more difficult (could do with a real map editor to be able to input towns by real co-ordinates).
+
+In time I hope to add more villages, especially in the south and south west, and events to create a proper scenario.
+
+Some map-editing tips (some will find these patronising; they would have been useful to me)
+*Do rivers early on to give a better 'grid' for positioning towns.
+*As contours can be difficult to see at a useful level, zoom out then 'dot' rivers roughly along their correct line (river valleys become much easier to see when you zoom out). Then zoom in and connect up the dots.
+*Regions took some getting used to. They work on a centre of gravity principle. So the very first region covers the whole map. It's a difficult concept to explain in text. Create a small island and then create four regions about the same distance OFF THE COAST in different directions. See how the island gets split up. You can then use these regions to dictate how much industry gets produced during the game.
+*It is easy to create too much industry 'manually' using the Add Building tool. Use it sparsely.
+*When adding new cities, reset the industries to zero rather than leave it at the 100 default, especially if you are trying to recreate a 'realistic' scenario. However, you will need to check to see that either you have the possibility of actaully using all the resources or you can export them.
+*Territories are tricky. You cannot actually bulldoze them or delete them, but you can negate the effects of a region by 'unnaming' it, making it invisible and remapping it to the  primary territory.
+*The first territory covers the whole map. Subsequent invisible territories can then be remapped to this #1 territory. When you run the cursor over a territory it 'lights up'.
+*The quickest way of learning how to do events is to see how others have done them!!! This is called plagiarism.
+*To encourage computer players to create companies, make sure there are some 'easy' (close) pairs of towns or cities. Then watch how the computer players become rich by transporting very little over short distances.
+
+e-mail comments, reviews, ideas, suggested events, inordinate sums of cash to me at 102214.1766@compuserve.com
+
+Mark
+PS: Sorry about all the inaccessible produce in the Comores.

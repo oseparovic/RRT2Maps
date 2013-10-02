@@ -1,0 +1,26 @@
+Full Map Title: Afrika2000	 (german Version)
+				Afrika2000_e (english Version)
+Author: Juergen May 
+
+Copyright info: 1999 
+
+Usuage Restrict: No restrictions
+
+Starting Year: 1820
+Start Range:   1800-1850
+Map Size:  	   500 x 500
+Map Base:  	   DEM-Picture
+Map Restrictions: Only One Company, only connected tracks 
+Special Restrictions: 
+Territories:   Yes
+Barred Industry: Nuclear Power Plant, Landfill
+Player Pool:   All
+Manager Pool:  All
+Locomotive Pool: All
+
+Single Player: Scenario
+Computer Players: max 2
+SP Gold Win: 1.000.000.000$ Company and Player Networth in 150 Years
+SP Silver Win: 900.000.000$ Company and Player Networth in 150 Years 
+SP Bronze Win: 800.000.000$ Company and Player Networth in 150 Years   
+SP Loss:  Don't complete bronze requirements.

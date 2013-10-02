@@ -1,0 +1,21 @@
+Morocco -- Rails Over the Atlas - version 1.0
+
+Although the Atlas Mountains are no higher than the Alps and the major passes are free of snow, no railway has ever crossed them, largely because the economic importance of the region south of the Atlas declined with the end of the caravan trade across the Sahara.
+This scenario is based accurately on Moroccan economic geography and loosely on Moroccan history.  It runs from 1956, the year of Moroccan independence, through 1980, under King Mohammed V and King Hassan II.  Passenger traffic is low after the first few years, but you can exploit the country's great natural resource, phosphate(chemicals) and trade for the raw materials that you lack.
+For a Bronze win, you must connect three cities south of the Atlas with the capital in the north, probably across the three major passes, and haul 150 loads north across the mountains.  As long as your railroad survives economically, this should be easy.
+For a Silver win, you must own $5M in industry, which will strain your cash, and you must develop the auto industry.  To get the needed raw materials, export chemicals for rubber and fertilizer for coal.
+For a Gold win you must play the stock market well enough to have a PNW of $10M and you must purchase rights in the North and in Algeria in order to connect three remote cities to the capital.
+Along the way, various ministers (coal, oil, steel) and power groups (hotel owners, Islamic clergy, marijuana growers) will set tasks that will cut your expenses once you achieve them.  Do all these things and you will pretty much connect up the whole country and be shipping all commodities.
+A few tips:
+1. If you can connect to Erfoud before the death of Mohammed V in 1961 it will pay off, but this is a big distraction from other goals.
+2. Passenger revenue is great during the first couple of years then falls off abruptly.  Get industry going early.  The best chain is chemicals->fertilizer->export for coal ->steel->autos.
+3. For some reason exporting chemicals for rubber in Casablanca works unreliably.  I had no problem in El Jadida.  Anyway, Casablanca is subject to traffic jams and you need to use other ports.
+4. Electrifying the main lines is probably a good idea, but you will need to build some long, sparsely used lines in the south for which electric is too expensive.  The scenario is winnable with diesel.
+5. To get oil before you have rights in Algeria, haul produce (dates) north across the Atlas and export it to get oil.
+6. Don't be too greedy in margin buying, or you'll get wiped out in a recession.
+
+The style of this scenario was heavily influenced by John Schwarz's Styria scenario, but there are fewer deadlines and less potential for total disaster.
+
+Please email your comments and suggestions for improvements to bamberg@tiac.net.  I hope to release a well-tuned version in early April.
+
+Paul Bamberg ("Dragon2")
