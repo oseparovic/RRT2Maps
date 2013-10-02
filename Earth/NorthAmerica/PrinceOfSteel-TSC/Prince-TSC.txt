@@ -1,0 +1,41 @@
+Prince of Steel II
+Map for Railroad Tycoon II - TSC.
+version 2.0
+
+The ultimate industrial strength TSC map.
+The period of America where steel is king.
+Starting Prince of Steel map is fairly easy. Everyone makes
+money hauling passengers.  But sooner or later this doesn't
+pay as well as it used to.   Use this early money to build
+rails to resources.  Resources are located realistically and
+may be far away from your starting location.
+Train speeds are increased (and revenue reduced) so you can 
+reach these locations within a lifetime.
+
+1.1  Coal Strike chance increased
+1.2  Added Ports to Great Lake cities, Size of territories slightly increased, 
+     meat packing added to several cities.
+1.3  Changed some of Lake Erie coastline and moved some great lake cities
+     a cell or two so ports can grow.
+1.4  Adjusted border of Chicago.  Added Iron mine at Erie.  This because there
+     was a great deal of iron shipped into the port at Erie, but the game only
+     allows one type of general port.
+1.5  Added events so that when computer or human starts a new company after the
+     New York relents notice they get free access to all restricted cities.
+1.6  Corrected playerid vs companyid mismatch.
+1.7  Major change:  
+     MP - Each human player receives a free buyin to the following territories 
+     depending on the order they form companies.  Chicago, Philadelphia, Detroit, 
+     Canada, New York, .. repeat.
+     SP - Human player recieves random free buyin for either Chicago, Philadelphia, 
+     Detroit or New York.
+
+2.0  Map re-done with TSC events and industries.
+
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii
+
+

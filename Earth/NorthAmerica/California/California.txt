@@ -1,0 +1,28 @@
+The California Map for Railroad Tycoon II.
+version 1.05
+The Golden State welcomes your railroad.
+See if you can win the gold medal.
+Beware though there is an earthquake event that can
+take your trains right off the tracks.
+
+The actual ground scale is about 3 miles per
+cell. (not the 10 as in RRT2)
+To relate on a smaller scale things like 
+track building, maintenance are decreased 
+by 50%.  (It may take some teaking to get
+all the scaling right so there could be
+more versions coming.)
+ver.
+  .01 Added ecomonic downturn after quake
+  .02 Long Beach fixed.  Corrected spelling
+  .03 researched a little more.
+      also no customs between states.
+  .04 The Gold and Silver were a little too high.
+      Lowered them.
+  .05 New References result in small changes in
+      resource locations.
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

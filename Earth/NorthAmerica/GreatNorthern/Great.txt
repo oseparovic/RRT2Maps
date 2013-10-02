@@ -1,0 +1,38 @@
+Great Northern
+Scenario Map for Railroad Tycoon II TSC.
+version 3.0
+
+In 1878 between the eastern most cities of United States and Canada and those of the
+Pacific Coast existed a vast undeveloped and untamed land.  This was the place they
+meant when they said "Go west young man." 
+
+Several railroads conquered this land, none was greater than the Great Northern.  
+The Great Northern was founded by James Hill, known and remembered as "The Empire Builder." 
+Throughout his years of creating, encouraging and directing, Mr. Hill's creed was development of the resources of the region the railway served. 
+
+version
+---------------
+ 3.3  Added a few more towns and labels.  
+ 3.2  Added Subsidy and counter for Kenora loads.  Forced AI to use good
+      Seattle passes.  Stopped some poor Canadian AI routes.
+ 3.1  Increase load values.  Improved passes near Seattle.
+ 3.0  Goals raised and point system simplified.  A few map modifications
+      and port changes.  3/10/2003.
+ 2.03 Minor changes in industry distribution.
+ 2.02 Added some labels and a few rivers.  A few cities re-sited.
+ 2.0  Increased the value of transcontinental loads.  
+      SP win levels increased.
+      Made a few city changes.
+      Made some mountain passes a little easier (for those who play with no pausing.)
+      Included a jpg that shows the location of key mountain routes.   
+ 1.2  AI no longer restricted to one country.
+ 1.1  AI no longer starts in Edmonton.
+      Changed SP win condition to check each month instead of start of year.
+ 1.0  Release version
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii/
+Map Archive
+http://members.nbci.com/rrt2maps/

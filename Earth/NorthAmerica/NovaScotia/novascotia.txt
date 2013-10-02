@@ -1,0 +1,5 @@
+   Nova Scotia Map
+   Version 2.0
+  
+
+There are several upgrades in this map including a bunch more cities, some industries have been fixed, more labels and trees. Special thanks to Andrew Howes for helping me out with this map.

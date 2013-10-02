@@ -1,0 +1,32 @@
+Wyoming v. 1.b1
+Wyoming - a map for Railroad Tycoon 2 - v1.05 - by John Kosh (jkosh@accessline.com)
+
+Compatible with both Macintosh & Windows versions of RRTII.
+
+Map size     : 300w x 260h
+Date Released: May 27, 1999
+
+Single Player: Yes
+Map Goals    : NOT YET (playability being tested)
+Map Events   : Yes
+Multiplayer  : Yes
+Max Players  : 4
+Max Total    : 4
+
+Default Start: 1850
+Earlier Start: 1830
+Latest Start : 1900
+Replay Value : High
+
+Wyoming, known for its cowboys and natural beauty, is a rough and tumble state. So, too is this map. Carefully created using USGS satellite maps and the latest national census (1990), the map is surprising accurate. All major cities, towns, villages and hamlets boasting over 300 in population have been  accounted for. Even some surprises like Muddy Gap, population 28, find their way on to this map.
+
+Wyoming industry is cattle, oil and more cattle. Uranium will become a vital industry at the start of the Cold War and continue into the present. Also, don't forget the coal rich mines of the state's Northeast corner. As for scenic beauty, nothing can beat the Teton Range and Yellowstone National Park.
+
+Note: Keep on good terms with the Native Americans. Getting rights to the reservations are key to successfully linking the east and west.
+
+Each player starts with a generous $500, 000. But watch out! With terrain like Wyoming's, you are going to need every penny during start-up.
+
+Remember, this is a beta and I look forward to all you comments and questions. Accuracy is my pride, here, so please note any irregularities or inaccuracies to me at jkosh@accessline.com.
+
+John Kosh
+May 27, 1999

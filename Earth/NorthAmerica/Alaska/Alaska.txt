@@ -1,0 +1,22 @@
+The Alaska Map for Railroad Tycoon II.
+version 1.03
+The Alaska map is very difficult.  The starting
+investment money is double that of most scenarios.
+
+In single player try either Anchorage or Juneau.  
+
+Note - The game does not support Choice Dialog 
+options in multiplayer mode. 
+
+1.01  Choice for single player only.
+1.02  Better placement of reserve cells and industries.
+1.03 New References result in small changes in
+      resource locations.
+
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii
+
+

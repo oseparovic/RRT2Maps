@@ -1,0 +1,32 @@
+The California II Map for Railroad Tycoon - TSC.
+version 2.0
+The Golden State welcomes your railroad.
+See if you can win the golden medal.
+Beware though there is an earthquake event that can
+destroy trains, tracks and stations.
+Also the historic 1905 flood that created the Salton Sea
+may also happen.  
+
+The actual ground scale is about 3 miles per
+cell. (not the 10 as in RRT2)
+To relate on a smaller scale things like 
+track building, maintenance are decreased 
+by 50%. 
+
+ver. 1
+  .1 Added ecomonic downturn after quake
+  .2 Long Beach fixed.  Corrected spelling
+  .3 researched a little more.
+      also no customs between states.
+  .4 The Gold and Silver were a little too high.
+      Lowered them.
+  .5 New References result in small changes in
+      resource locations.
+2.0 Califorina has it all floods, earthquakes, fires.
+    Well no fires but floods and earthquakes in this new
+    TSC version.
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

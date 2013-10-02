@@ -1,0 +1,203 @@
+OREGON AND EMPIRE
+
+A pseudohistorical scenario by N. S. Bennett
+
+VERSION 1.0 - June, 2000
+
+
+WARNING:  You may want to play through the scenario once or twice before reading this all the way through, as it contains some spoilers.
+
+
+OREGON AND EMPIRE is set in what is today the Pacific Northwest of the United States.  The year, however, is 1840, and the political destiny of the region is not yet settled.  The British call the area the Columbia River District of the Hudson's Bay Company; the Americans call it the Oregon Territory.  Both nations have designs upon Oregon -- at first, the hope was that the Columbia River could be exploited as a highway to the continental interior, but in the early 1800s it was learned that the Columbia was too wild to serve as an efficient artery of commerce.  The attention of the Brits and the Americans then shifted to Puget Sound, as both empires wanted a deep water port on the Pacific coast.  (Spain, and then Mexico, controlled San Francisco Bay at the time, but that's another story...)
+
+It's your job to secure the British claim to the Oregon Territory despite the opening of the Oregon Trail in 1843, when hundreds of American settlers crossed half of the North American continent in covered wagons and settled in the Willamette Valley, south of Fort Vancouver.  Historically, the Americans organized a Provisional Government in 1843 and took control of the Oregon Territory by sheer weight of numbers -- thousands of American settlers arrived in the following years.  By the time Oregon was officially annexed by the United States in 1849, the British Empire had recognized the reality of the situation and elected to settle "the Oregon question" diplomatically.
+
+If you meet the initial conditions and secure the British claim to Oregon, you will be radically changing history.  The events which follow are a mixture of this "alternate history" of the American west and actual historical events.  A reasonably complete accounting of which events are true and which are fictional is included in this document.
+
+
+
+
+Win Conditions
+
+Connect Fort Vancouver, Oregon City, Astoria, and Seattle by January 1, 1850 or the Americans will take over and you lose.
+
+BRONZE: Connect to Fort Hall and ship ten loads of passengers and cargo between Fort Vancouver and Fort Hall by January 1, 1865.  If you fail to move the required ten loads, you will win Bronze but won't be allowed to continue playing for the Silver or Gold wins.
+
+SILVER: In addition to the Bronze win condition, you must connect Vancouver (the city in British Territory, not the fort where you begin in Oregon) to Sacramento and Salt Lake City by 1880, and you must buy out both competing railroads.
+
+GOLD:  In addition to fulfilling the Bronze and Silver win conditions, you must show both a Personal Net Worth of at least $150,000,000 and at least $1,500,000 in company revenue from subsidiary industries for two consecutive years.
+
+
+Version History
+
+0.1 B    First draft foiled by the apparently bug-ridden editor in the Mac version of Railroad Tycoon II.
+
+0.2 B    First draft map in Railroad Tycoon II Gold Edition for the Mac.  The editor seems to be more or less bug-free...
+
+0.3 B    First test runs.  Adjusted industry balance and town sizes.  Added the Cayuse Indian Nation.
+
+0.4 B    Completed and playtested events through 1850.  Discovered I couldn't simultaneously test for CompanyVariableX and PlayerVariableX in a single event trigger, so the political event tree had to be somewhat simplified.
+
+0.5 B    Completed and playtested events through 1880.  Had to abandon initial plan to forbid mergers and force the player to drive California Pacific RR into bankruptcy.
+
+0.6 B    Added second AI company (Deseret Rail) and noodled around with different AI personalities.  Found that the event which crashes the stock market from boom times to depression was prone to bankrupting financially aggressive AI personalities.  Serves 'em right, I suppose, but bankrupting the AIs made life too easy during playtesting.
+
+0.7 B    First beta release.  Playtesting by JSS and CeeBee - thanks, gents.
+
+0.8 B    Added event to keep the economy booming in order to encourage rapid growth in cities served by railroads.  Added events relating to the gold rush on Nez Perce lands.  Changed win conditions (again!).  Continued beta testing.
+
+1.0      Initial public offering.
+
+
+
+Fact vs. Fiction
+
+In the interest of full disclosure, here's a rundown on which of the events in the scenario are historically accurate (more or less) and which ones aren't...
+
+1841 - Death of Ewing Young
+This actually happened, and the Probate Government organized to dispose of his estate was an important first step toward American rule of the Pacific Northwest.  However, a legitimate heir did eventually show up, so the Probate Government didn't really end up doing much.
+
+1842 - Wolf Meeting
+This is true.  The meeting was called to discuss how to control predators in the Willamette Valley and "vermin worse than wolves" -- a veiled reference to the British.
+
+1842 - Bribery Scandal
+This is fictional.  The real Chief Factor of Fort Vancouver, Dr. John McLoughlin, was an entirely honorable man.
+
+1843 - Independence Movement
+There actually was a pro-slavery independence movement among the American settlers, but its leaders (among whom was the infamous Lansford W. Hastings) certainly never would have approached Dr. McLoughlin for support, financial or otherwise.  It looked for a time as if the independence movement would triumph, but in the end the pro-American faction won out.
+
+1843 - The Great Migration
+This is accurate.  About 800 Americans, mostly farmers and their families, made the journey to the Willamette Valley in covered wagons back in 1843, and Dr. McLoughlin did, indeed, foresee the possibility of a famine unless he helped the new arrivals start farms.  He helped those who were truly needy and offered jobs to many of the other emigrants.  It's interesting to note that the official annals of the Hudson's Bay Company hardly acknowledge the existence of Dr. McLoughlin, but in Oregon he was, some years after his death, designated "The Father of Oregon" by the state legislature.
+
+1844 - Elections
+George Abernethy of the Whig Party was the first person to be elected Governor of Oregon, but he wasn't actually elected until 1846, I believe.  The original constitution of the Provisional Government was a bit eccentric, and it called for a three-man executive committee in the place of a chief executive.  It also called for the government to be supported by voluntary contributions instead of taxing the local citizenry, but that didn't work out too well, either.
+
+1844 - Consequences
+The various events resulting from the formation of the Provisional Government are all fictional.
+
+1845 - President Polk
+Polk actually did declare that the United States had "clear and unquestionable title" to the Oregon Territory in his inaugural address.  The alternate event, in which Polk asserts that the United States views the new Republic of Oregon favorably, is hooey.
+
+1845 - Support California Rebellion?
+This event is fictional.
+
+1846 - Donner Party
+True, but it can be avoided depending on the choices the player makes during the game.  Score yourself ten bonus points if you know why.
+
+1846 - Mexican War
+This is true.  In Europe, the "forgotten war" of the Nineteenth Century is the Franco-Prussian War; in North America, most people don't know that the United States once conquered Mexico.
+
+1846 - Bear Flag Revolt
+Actually, the American settlers in California overthrew the Mexican authorities with the aid of the U.S. Pacific Fleet and a small Army expedition under the command of John C. Fremont, but that's just way too much to get into within the confines of the game...
+
+1847 - Fall of Mexico City
+True.  Where do you think the Marines got that line about the Halls of Montezuma, hmm?
+
+1847 - Fall of Oregon's Provisional Government
+False, but the Provisional Government has to go away so the U.S. can relinquish its territorial claims.
+
+1847 - Whitman Massacre
+True.  Peter Skene Ogden of the Hudson's Bay Company ransomed the hostages taken from the mission a few weeks later.  If you're curious, "waiilatpu" is said to mean "place of rye grass."
+
+1847-49 - The Cayuse War
+There actually was such a thing, but I make no claims as to the accuracy of the events described within the scenario.
+
+1848 - Gold!!!
+News of the gold strike at Sutter's Mill reached Oregon quickly, and the settlers there got a head start on the rest of the world.  When the Forty-Niners rushed to California the following year, most of the Oregonians who'd headed south to make their fortune in '48 had already gone back home.  Not many struck it rich, but most dug out enough gold to have made the expedition more or less worth their while.
+
+1849 - The Cayuse Five
+True.  One or two of the five warriors hung at Oregon City may have been in on the murders at the Whitman Mission, but it has been speculated that the Indians simply offered up five volunteers so the white settlers could exact some properly adjudicated revenge and put the matter to rest.
+
+1850 - Willamette University
+This and the subsequent events are entirely fictional, though there actually is such a place in the state of Oregon.  I just liked the name.
+
+1850 - Dynamite
+This is accurate except for the timing, I think.
+
+1850s - Buy Into Nez Perce Nation?
+Fictional, obviously.  Historically, the Nez Perce didn't like the British very much, as the Brits supported their enemies, the Blackfeet.  Thus the bitter irony of the legendary flight of Young Chief Joseph...
+
+1851 - U.S. Threatens Mormons
+This is fictional, so far as I know.  It's included here to establish the poor state of relations between the United States and the Mormon settlers in the area of the Great Salt Lake.  The history of religious persecution which the Mormons faced, and hoped to escape from, back in the U.S. -- to say nothing of the, shall we say, cultural quirks which were sanctioned by the LDS Church hierarchy of the period -- is too much to get into within the confines of the game.
+
+1853 - Gadsen Purchase
+This is historically accurate.
+
+1854 - Republican Party Organized
+This is true, as well.
+
+1855 - Transcontinental Telegraph Funded
+True.
+
+1856 - Mississippi River Bridged
+This and the subsequent event about the SS Effie Afton are both true.  The case went all the way to the Supreme Court, where a lawyer by the name of Abraham Lincoln argued successfully on behalf of the Chicago & Rock Island RR.
+
+1856 - Whig Party Collapses
+This might be accurate.  I believe the Whigs were unable to field a candidate in the '56 elections, but I don't know if the political infrastructure of the party actually imploded then or if it shambled on for a time.
+
+1857 - Mountain Meadows Massacre
+This is quite true, sadly.  The Mountain Meadows Massacre was the bloodiest, most terrible episode of violence ever visited upon the overland emigrants of the 1800s, and though it was perpetrated by Indians, they were under the leadership of a clique of Mormon settlers -- an alliance born out of a mutual desire to keep other, non-Mormon whites out of the Great Basin.  As I understand it, Brigham Young sent word that there was to be no harassment of the emigrants passing through Mormon territory, but his instructions arrived too late.  After a siege of several days' length, the Indian war party embarked upon the brutal, premeditated massacre of over a hundred overlanders who had surrendered and been promised safe passage.
+
+1857 - Mormons Repel Federal Troops
+In reality, Mormon forces burned two supply trains, but that wasn't quite enough to deter the Army troopers en route to Salt Lake City.  For a little while, there, it looked like there'd be a shooting war, but cooler heads prevailed and the Federals marched in peacefully.
+
+1859 - Harper's Ferry
+True.  John Brown's raid on the arsenal at Harper's Ferry, Virginia, was a dismal failure -- he had hoped that the slaves in the area would rally around him and fight to liberate their brothers and sisters -- but it galvanized many of the southern states into building up their militia forces, which heretofore had been of no military consequence.
+
+1859 - Deseret Declared
+Fictional.  Brigham Young and the Mormon leadership hoped to establish such a place, but events passed them by.
+
+1860 - Lincoln Elected
+True.
+
+1861 - Lincoln's Inaugural Speech
+Also true, oddly enough.
+
+1861 - Civil War Begins
+True.
+
+1862 - U.S. Recognizes Deseret
+Fictional.  Duh.
+
+1863 - Gettysburg/Vicksburg
+True.
+
+1863 - Battle of Texas
+Wildly fictional.  In reality, the Indians out west mostly supported the Confederacy, as they'd already had plenty of unpleasant experiences dealing with the U.S. Army by the time of the Civil War.  However, the Mormons had even stronger ties to some of the western tribes -- as noted above, the Indians who did most of the actual killing at the Mountain Meadows Massacre were led by a small group of Mormons -- so I figured if the Union and Deseret could come to terms, the Indian tribes would go with the flow and throw in with the Federals.
+
+1864 - Union Wins at Cold Harbor
+Fictional.  The Battle of Cold Harbor was a costly loss for the Union, but it was a near thing at one point during the battle.  If the Federals had pulled it out, Richmond probably would have fallen.  Robert E. Lee, by the way, survived the war.
+
+1864 - Slave Rebellion
+Fictional, though as the war turned against the Confederacy, there was serious dialogue in some circles regarding the prospect of arming slaves.
+
+1865 - Atlanta Falls, War Ends
+Just so no hapless young person plays this scenario and screws up on a history test the following day, Atlanta was never the capital of the Confederacy, and the war ended when Lee surrendered to Grant in Virginia.
+
+1866 - Grand Treaty of America
+This is the "happy ending" of my little alternate timeline.  Note also the dog that didn't bark -- there's no "President Lincoln Assassinated" event.
+
+1867 - Hudson's Bay Company Buys Alaska
+Fictional.  Russia sold Alaska to the United States.
+
+1867 - Dominion of Canada Formed
+True.
+
+1869/70 - Nez Perce Gold Rush
+Fictional.  Until gold was discovered on their land, the Nez Perce seemed to be on the road to surviving the Oregon Trail era more or less intact.  Since the U.S. Army isn't around in this scenario to force the Nez Perce onto a reservation, they get to keep their ancestral lands.  If the tribal elders invited the Hudson's Bay Company RR into the Nez Perce Indian Nation during the 1850s, you get to keep running trains; if you didn't get invited and had to buy your way in, you lose everything.
+
+1872 - Block Signals Invented
+True.
+
+1877 - Queen Victoria Declared Empress of India
+Irrelevant, but true.  This event is the "two minute warning" of the scenario.
+
+January 1, 1880 - Game Over
+
+
+
+I hope you enjoy OREGON AND EMPIRE.  If need be, you can e-mail me at nsb@teleport.com with bug reports and other observations.
+
+
+
+N. S. Bennett - June 11, 2000

@@ -1,0 +1,25 @@
+December 1, 1998
+
+A Greased Landing Creation
+
+Windsor Detroit v 1.1
+
+Try your hand at making huge profits from the auto industry.
+What the heck, you may as well make some money too.
+
+This is my first released map - 2nd version. If you
+have the first version place it where it belongs ...
+in the trash. 
+I haven't completely tested it, that is I haven't
+accomplished all the different win conditions. 
+If you find an error or want to suggest
+improvements, email me at 
+	
+	realtor@cgocable.net.
+
+Changes in this version
+
+Fixed
+Problem after year 1
+Typo errors in startup window
+Events at end of game

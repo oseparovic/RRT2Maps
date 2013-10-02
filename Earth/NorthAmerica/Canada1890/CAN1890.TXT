@@ -1,0 +1,86 @@
+SCENARIO NOTES: Canada 1890
+
+The premise is that the Canadian Pacific Railway never succeeded 
+in building the transcontinental link.  The human player begins
+in the west, but faces competition from railroads in both eastern
+Canada and the central United States.
+
+I've tried to inject a sense of history into this scenario.  Look
+for Gold Rushes, the Prairie Wheat Boom, and World War One as
+significant events.
+
+
+VICTORY CONDITIONS:
+===================
+The human player must gain at least four "victory points by the
+end of 1925.
+     Gold - Six points
+     Silver - Five points
+     Bronze - Four points
+
+One point is earned for the each of the following.
+     Having the highest net-income during 1925
+     Having the highest book value during 1925
+     Completing each of the four missions.
+
+
+MAP CHANGES:
+============
+This scenario uses a modified version of the Canada map which is
+included in the game.  Some sections of the map were not assigned 
+to provinces, and were considered "Canadian" territory.  These 
+sections have been assigned to the correct territories.
+
+Ports produce small quantities of food.  This is an attempt to
+introduce fish as a resource.  On the west coast, this would be 
+canned salmon and on the east coast, canned tuna.
+
+Several villages have been added to British Columbia and the Yukon
+Territory.  These are intended merely to flesh out the province
+and they have little impact on game play.
+
+The town of Nelson is featured in the (1982?) movie "Roxanne" (Steve
+Martin, Daryl Hannah).  This town is EXACTLY as shown in the movie.
+Fly in from Vancouver, then rent a car and drive back to Vancouver
+through Kelowna and other points of interest.
+
+
+GOLD RUSHES:
+============
+Gold rushes are designed to distract and amuse the human player
+during the first few years of the game.  After 1900, gold rushes
+end and the player begins focusing on missions.  Expected net
+return (EV) is calculated for each gold rush, since outcomes
+are determined at random.  Carmacks gets a little more complex.
+
+ MacKenzie Gold Rush - Player may invest $20,000 with a 90% chance
+  of receiving $100,000 within the next year.  EV = $90,000
+
+ Atlin Gold Rush - Company may invest $50,000 plus track and station
+  costs with a 50% chance of a $1,000,000 payoff.  This section of
+  track may also be helpful in completing the Carmacks Gold Rush.
+  EV = $250,000 (estimated net of costs)
+
+ Dawson Gold Rush - Player may invest $50,000 with a 25% chance
+  of receiving $500,000 within the next year.  EV = $125,000
+
+ Carmacks Gold Rush - Company may build route with variable costs
+  in excess of construction possible.
+
+   50% $250,000
+   25% $100,000
+       $500,000 estimated construction costs
+
+   High Road (Pay upgrades)     Low Road (Don't pay upgrades)
+   10% $6,000,000 payoff
+   23% $2,000,000 payoff        25% $2,000,000 payoff
+   17% $1,000,000 payoff        25% $1,000,000 payoff
+
+   Exp costs:  $  650,000       $  500,000
+   Exp payoff: $1,218,750       $  687,500
+   Exp profit: $  568,750       $  187,500
+
+
+SCENARIO DESIGNER:
+  Craig Murray
+  CraigMurray@BC.Sympatico.CA

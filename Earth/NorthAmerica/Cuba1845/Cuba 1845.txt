@@ -1,0 +1,25 @@
+CUBA 1845, version 1:
+
+Cuba is the biggest of the Caribian Islands. Its economy is mainly based on sugar cane and other agricultural products, 
+Such as tobacco, cotton produce and cattle. In the southern part of the island, there are some nickel (in this game bauxite) 
+and some iron. There is no coal in Cuba, and only a few oil wells is placed in the northern part of the country.
+
+I sugest the player to start with a small railway from Habana, just the same that happened in the real world. It will take 
+some years to consolidate your company, but soon the expansion will escalate. By 1910 or so, the whole system should be 
+built, and by this time it will take approximately 90 trains to run it. Note:: No electric or diesels are avaiable before 
+1957. By this time there are no more steam engines for sale.
+
+PORTS:   IMPORT:                    EXPORT:        OTHER DATA: RRT2, The second Century  with    
+          Coal                       Iron ore       option for multiple companies.  Start year 1845.                          
+          Goods                      Coffee         Limited engine avaibility.                                                                                                                                                                                                                                                                                
+          Grain                      Sugar          Start economy: 100%. Groth: 0,6% per year. 
+          Goods: 1 unit per dock.
+
+By  drawing this map I have built all railway lines with a maximum gradient of 2%, and replaced them with reserve cells. 
+When finished the map I have liqudated the company and then tested the game by playing it 2 times.
+Personally I prefer to simulate a minor railway system with pretty landscape, without any disturbing competition or too 
+many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate all traincrashes. 
+I really hope that Top Pop will reintrouduce (short) tunnels in the next version of RRT!!!
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk).
+Last update: 1999-08-08.

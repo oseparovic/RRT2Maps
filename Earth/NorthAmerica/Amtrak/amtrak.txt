@@ -1,0 +1,23 @@
+This is a TSC map. It is really a single player game, in that the victory conditions are
+not very meaningful for more than one player. There are at least 3 pairs of cities that you
+can connect at the  beginning and go on to win, so it is reasonably balanced. 
+I haven't tested it as a multiplayer map.
+
+I've tried to make this map a challange for a single player, so it is a bit different than
+many of the player created maps. I don't think you'll ever run more than 50 trains or find 
+your company with more cash than you know what to do with. I've left out many small towns
+and cities in order to make the game more difficult.  I also thought it would be interesting
+to see how a map works when an AI company clogs up the major cities. I'm afraid the victory
+conditions don't always work perfectly, in that the AI is occasionaly pathetic and the Gold
+condition (Amtrak goes bankrupt) sometimes happens with no player intervention whatsoever, 
+and so is as easy to get as Silver. 
+
+The terrain comes from the USGS 30" Terrain Base. I've tried to make the industries reasonably
+accurate, within the limitations of the game. 
+
+This is basically the same map as "B&O 2" which I made ages ago and which still should be 
+posted on the UK Railroad Express site. I've cleaned up the terrain a bit and completely 
+redone the industries and events. 
+
+Comments to:
+b.e.sauer@sussex.ac.uk

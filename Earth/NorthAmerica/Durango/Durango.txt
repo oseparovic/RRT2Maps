@@ -1,0 +1,33 @@
+Durango
+Map for Railroad Tycoon II TSC.
+version 1.2
+
+The Silver Rush is on.   Let your railroad form the backbone
+of this industry high in the Rockies.
+
+Single player mode only.  There is not enough normal cargo for
+both you and the AIs.   But there are unique and lucrative ways
+to earn your fortune. 
+
+Watch out if you try the 'stop your trains trick' to crash company 
+stock prices.  High negative company cash and low revenue and not 
+hauling loads will in some cases have the right-of-ways in Denver
+taken from
+
+
+version
+-------
+ 1.2  Added a few towns.  Changed game extention events to display on
+      Annual report.
+ 1.1  Just fixed scenario ending date display and steel mills in SW corner.
+ 1.0  Release version
+ 0.1  Beta
+
+
+If you find errors in spelling or events let me know
+so I can fix them.
+  
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii/

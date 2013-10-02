@@ -1,0 +1,48 @@
+Minnesota for TSC 
+Version 1.3
+A Railroad Tycoon II, The Second Century Scenario
+by Dick Knisely based on an RRT2 Scenario by Pete Cangialosi
+
+Requirements:
+-------------
+This is a single player scenario which requires Railroad Tycoon II by PopTop Software and the RRT2 expansion disk, The Second Century.  Because it uses a number of features that were added in TSC, it cannot be played without the expansion disk.
+
+Using the scenario:
+-------------------
+You should have two files:
+Minnesota_TSC.txt (this file)
+Minnesota_TSC.mp2 (the map/scenario file itself)
+
+After unzipping the package that these came in, just copy the .mp2 file into the TSC maps subdirectory on your hard drive.  Put this readme file where you want it but it can also go in with the maps.  Then run TSC and select single player, new scenario and pick the Minnesota_TSC map.  
+
+You can change the start year for the scenario in the range from 1855 to 1895.  The scenario is 30 years in length at the most.  You can select from 2-4 opponents and whatever difficulty level you like.  However, selecting the expert level for the economy is highly recommended and the scenario was balanced using difficulty settings in the 80-120% range.
+
+Objectives
+-----------
+See the scenario briefing.  This scenario basically attempts to recreate a portion of the rapid expansion of railroads during the period 1850-1900 that occurred in the upper Midwest United States.  In this case, I've concentrated on the state of Minnesota and the immediately surrounding areas.  Your goals are spelled out in the scenario but the general idea is that you're trying to build a large and prosperous railroad with Minneapolis-StPaul as its hub. You'll be encouraged to support the key industries of farming, timber and iron mining.  All victory levels involve a requirement to make yourself and your investors wealthy.  The specifics of each victory level are contained in the opening briefing.
+
+Getting Started
+---------------
+You can actually start anywhere on the map, HOWEVER, you can't achieve victory without at least one station inside the territory that contains what will become the Minneapolis-St. Paul metropolitan area.  All connection goals are tied to that territory, and if you don't start there, one of the computer players will -- its possible to still win but its a major handicap.
+
+Special features and notes
+--------------------------
+In your company report at the end of the year, the Status page will track your progress towards the victory conditions.  Monetary and connection goals will be listed.
+
+There are a large number of events in this scenario. Some are there for the fun of it and some have a more serious purpose--obvious or not. Depending on when you start, some of them will be bypassed, so starting in the 1855-1860 period is a bit different from a start around 1870 and both of those are different from starting in 1890-1895. And since several are at least in part random, one game should be a little different from the next.
+
+Pay particular attention to the actions of ports in this scenario and notice that there are ports used at the two connection points (south and east) that represent connecting your railroad to those farther east and south or southwest.  That gives these connection points will have some demands which simulate importing and exporting cargos.
+
+Credits and thanks.
+-------------------
+This scenario is based heavily on an RRT2 scenario, Minnesota, by Pete Cangialosi--thanks Pete for a great place to start on this one.  This one should not be thought of as replacing his, they're similar in some ways but quite different in play.  If you don't have TSC/Gold Edition (why not?!) then I'd recommend Pete's map to you until you get the expansion pack.
+
+Thanks also to:
+** Chuck, CeeBee, Barkman (persweb.direct.ca/cbarkman/html/rr2.htm),
+** master map maker, Steve Lorenz (home.earthlink.net/~rrtii/),
+** and John Schwarz
+for again helping me with the playtesting of this scenario.  Their input was much appreciated.
+
+Hope you enjoy it!
+Dick
+dknisely@erols.com

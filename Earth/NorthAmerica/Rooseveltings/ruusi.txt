@@ -1,0 +1,11 @@
+Map for RRT2 Classic and higher.
+
+Made from original campaign map
+
+1-5 players
+No goals because i am not too good with triggers
+Coupla events
+Mainly directed to passenger traffic,cargos are in to keep cities alive.
+
+Exctract it to your maps folder
+

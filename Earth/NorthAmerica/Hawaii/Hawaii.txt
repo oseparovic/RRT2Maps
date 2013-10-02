@@ -1,0 +1,20 @@
+Hawaii
+Map for Railroad Tycoon II.
+version 1.0
+
+This is a fairly simple map of Hawaii.  The key to success is
+to employ the ports well.  Various exported goods will bring
+in needed freight.  Some of these can be used locally and
+re-exported.
+
+At start you have to buy rights from the local government.
+In 1898 the US annexes Hawaii and you are permitted to
+build anywhere you please.
+
+version
+-------
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

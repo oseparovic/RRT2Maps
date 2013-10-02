@@ -1,0 +1,41 @@
+Dominican Republic Map Data 
+----------------------------------
+
+--- General Information ---
+Full Map Title : Dominican Republic
+
+Author : Emilio Guerra (egue1968@bellsouth.net)
+
+Copyright: None
+Distribution : Totally free
+
+Usage Restrict. : None
+
+--- Vital Statistics ---
+Starting Year : 1913
+Start Range : 1913 only
+Map Size : 300 * 300
+Map Base : New Map 
+Topography Base :  Dominican Republic
+Territories : Yes (2) 
+Map Restrictions: Unconnected track laying, Assume chairmanship of other companies.
+Special Restrct.: None.
+Barred Industry : Coal, Paper, Chemicals, 
+Player Pool : N. America 
+Manager Pool :  Custom 
+Locomotive Pool : N. America 
+
+--- Single Player Data ---
+Single Player : Scenario  
+Computer Players: Yes 
+SP Gold Win : Outliving a dictator (sounds simple, huh?).
+SP Silver Win : None 
+SP Bronze Win : $100,000,000 net worth
+SP Loss : Not holding a company in 1962.
+
+
+--- Extra Information ---
+Known Bugs : None 
+Other Notes : Based on a relief map. There are bonuses by connecting to the highlands, towns in the border and a special connection, all duly indicated during the course of the game.
+TIPS: Stick to the sugar industries in the east and take it from there.
+

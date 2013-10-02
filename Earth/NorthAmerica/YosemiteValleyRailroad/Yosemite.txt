@@ -1,0 +1,7 @@
+This scenario was created by John Schwarz, who did the map, and Paul Bamberg, who modified the original map and added events.  It attempts to model the economics of the real Yosemite Valley Railroad.
+
+At one end of the map, in the San Joaquin Valley, are a complete set of agricultural resouces that can be exploited to provide an economic base.  At the other end is El Portal, on the border of Yosemite National Park.  This city will never have any industry, but it demands passengers and and other things that people want.
+
+In between you will not find much except some logging camps in the mountains. The challenge is to deliver people, food, goods, and alcohol to El Portal and bring back lumber to Merced in the San Joaquin Valley.
+
+Breakdowns and crashes, though no more frequent than usual, are a real annoyance on this map.  You can reduce them by connecting Merced to El Portal as early as possible.

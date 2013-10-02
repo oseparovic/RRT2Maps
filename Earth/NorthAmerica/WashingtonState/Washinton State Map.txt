@@ -1,0 +1,11 @@
+Washington State Map
+
+
+This is a complete map of the state of Washington with cities, towns, mountains, rivers, and ocean. It can be started from 1870-1999. I decided not to make winning-losing conditions but rather make it somewhat historical by adding railroad events that happened over time in the state. I also have promotional $$$ for first to connect Seattle to Portland and Seattle to Spokan.
+
+Please feel free to expand on this map as you see fit. Just don't try and use it to make money for yourself.
+
+-EW
+
+Eric Weber
+h.lai@usa.net

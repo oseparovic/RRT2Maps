@@ -1,0 +1,10 @@
+We want to thank everyone that supported Railroad Tycoon 2 and helped make it the huge success it is. As a sign of our appreciation, we offer up this free map.
+
+This is a map named Heartland and covers the U.S. Midwest from the Appalachian Mountains to the Eastern edge of the Plain States (East to West) and from Thunder Bay, Canada to the Tennessee Valley (North to South). 
+
+This scenario spans the years 1935 to 1960, but can be configured for any date. The campaign can be played in single or multiplayer mode (up to 10 players). The single player goal is to achieve $80 million in company net worth in 25 years, and in multiplayer mode players try to achieve the highest company worth in 25 years. 
+
+Simply download "heartland.zip" and extract the file "heartland.MAP" into the MAPS directory of RT2.
+
+PopTop Software
+http://www.poptop.com/

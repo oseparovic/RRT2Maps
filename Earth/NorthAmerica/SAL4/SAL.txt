@@ -1,0 +1,38 @@
+Full Map Title:  SAL4 (Seaboard Air Lines) Silver Meteor
+Author:  Philip Dampier  dampier_s@popmail.firn.edu
+
+Copyright info:  February 16, 1999
+
+Usuage Restrict: Use the map anyway you like.
+
+Starting Year: 1940
+Start Range:  1935-1945
+Map Size:  400-300
+Map Base:  Southeastern U. S. from the editor
+Map Restrictions: Can't start companies, Can't start multiple companies, Must connect to company track.
+Special Restrictions: No Customs at Border
+Territories: Yes, all on original map plus 5 on rivers and 2 for cities.
+Barred Industry: No industries available
+Player Pool:  N. America
+Manager Pool:  All
+Locomotive Pool: Custom, primarily diesels
+
+Single Player: Scenario base on Seaboard Air Line's Silver Meteor and Silver  
+               Comet service.
+Computer Players: No
+SP Gold Win:  All of Silver by 1957.
+SP Silver Win:  All of Bronze plus connect Richmond to Birmingham and haul ten loads.
+SP Bronze Win:  Must connect all cities/town/villages between Richmond, VA and Miami, FL. Must have 10 loads between Richmond and Miami. Must be accomplished before July, 1967.
+SP Loss:  Don't complete bronze requirements by July, 1967.
+
+
+Notes:  
+
+1. If you do not connect every hamlet, village, and town you cannot win.  You must connect Petersburg before these towns.
+2. If one of your trains happens to be crossing a bridge when it is hit by a barge or a flood you will lose the train and have to pay to have the bridge repaired.  If your train is not on the bridge then you just pay to have the bridge fixed.  
+3. Percent revenue bonus is credited for connecting to small towns. 
+   They must be connected to win any way.
+4. The S-Line as it was called had single track only.  No double track is allowed in scenario. Game will end when double track is placed. 
+5. There is a credit rating penalty for issuing bonds. You may issue one but then a penalty is enacted that will take you a while to overcome. Issue two and its worse.
+6. Thanks to Kinner, CeeBee, MarshalN, and Dkr2 who tested this map and gave unselfishly of time and knowledge.
+

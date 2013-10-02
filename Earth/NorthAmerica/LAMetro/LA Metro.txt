@@ -1,0 +1,20 @@
+The LA Metro Map for Railroad Tycoon II - TSC.
+version 1.01
+The Los Angeles area needs a rapid transit train system.
+See if you can develop one for the city.  
+While this is a personal wealth game, your company will 
+receive bonuses for hauling the most loads. You can make
+money yourself for pleasing certain groups that let's just
+say will remain nameless.
+
+This is my first metro type map.  As I learn more about them
+I will update the map to newer versions.
+
+1.01 Cleaned up some single river cells.  Also added terminals to
+     two airports.  The terminals are what demands airport cars not
+     the tarmac.
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

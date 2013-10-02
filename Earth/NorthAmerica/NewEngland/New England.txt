@@ -1,0 +1,28 @@
+			The New England scenario
+
+This is designed for folks who like playing "robber baron" and connecting up the whole map.
+
+The setting is southeastern New England, extending west to the Connecticut Valley and New Haven and northeast to Portland, Maine.  The northwestern part of the map is annoyingly rugged.  In 1840, there is one railroad in each of the six New England states, run by a chairman who prefers building track to playing the stock market.  You start with a seventh company, based in metropolitan Boston, whose mandate is to unite all of New England.  Since you have a bit more cash than the AI players, it is a realistic goal to get control of all seven companies.
+
+Each state has one "key city" that needs to be connected to Boston.  These tend to be off at the corners of the map, and it is not a bad idea to let the AI build some of the track, since there is nothing wrong with having the connection be partially over foreign track.  For Bronze, you need only connect four of these cities to Boston.
+
+For Silver, you need to connect five key cities to Boston, and there is an additional requirement of hauling 25 loads between five of the six states and Boston.  In the case of Maine, Connecticut, and Vermont, this means a long trip.  This requirement creates a temptation to run every train through Boston, which can create colossal traffic jams unless you are careful.
+
+For Gold, you must connect all 6 cities, haul 25 loads between each of the six states and Boston, and reduce the number of companies to three or less.  Since the AI players, except possibly in Vermont, will run a fairly profitable operation, you will probably have to take them over briefly in order to wreck them enough to be able to afford a merger.  Once you have majority control of one of these companies, you can make it work toward your goals, but sooner or later you will have to merge with some of them.  Taking over all six companies is possible, but it is not required and may not be the best strategy.
+
+The potential for a nice export industry -- textiles for cotton and rum for sugar -- is there, but it doesn't fit very well with the loads-to-Boston goal.  For the most part, as with all early scenarios, you can do very well by hauling passengers and mail, and the required long runs into Boston generate enormous revenue. However, starting in 1845, you must haul at least one load of coal, iron, lumber, and paper every year in order to avoid extra running costs.
+
+There are lots of events that pop up at random times.  There is no intended "right" choice for any of them, but the opportunity to sponsor research at a local university is too good a deal to be passed up.
+
+A few tips:
+1. Once you get control of a company, take over as chairman.  Then use its excess cash to build rails toward Boston and to buy back stock.  Issuing bonds can help, but once you merge, that debt becomes yours!
+2. The most effective way to cripple a company is preparation for merger is to ruin its credit rating, issue some stock, bulldoze all its stations, and reduce its cash to zero.  Leave the track and trains, and keep a majority of the shares.   Soon you can merge cheaply.  After the merger, upgrade the engines on all the full trains and reroute them to Boston.  I have met the entire Maine loads requirement this way.
+3. Don't try actually running another railroad for more than a month at a time.  While you are doing that, the AI will be destroying all the cargo routes on your railroad, leaving a mess that is too big to clean up.
+4. Watch out for traffic jams.  Ideally, once you meet the loads-to-Boston requirement from a state, you should reroute all that state's trains away from Boston.
+5. The new engines that become available for free (American and Iron Duke) are big improvements.  You are also likely to get the opportunity to pay to make the Vulcan and the 0-4-0 AP available. You may well be profitable enough to replace every single one of your engines, and you probably should.
+6. You will have to buy on margin to win, and a good recession can easily wipe you out on a margin call. Once a boom is ending, get in there and manipulate the stock so that you can sell out!  The easiest way to do this is to pick a company in which the AI players own little stock, take over as chairman, issue a couple of bonds, and buy back stock as you are selling it.  You can sell almost all your shares at a high price and leave the company with a negative book value.
+7. None of the other railroads is going to help you build across the hills between Boston and Vermont.  If you are trying for a quick Gold, make this an early priority.
+
+Gold in 20 or even 15 years is possible, but you have to handle a lot of details well in order to achieve it.
+
+Please email bug reports and suggestions to bamberg@tiac.net.

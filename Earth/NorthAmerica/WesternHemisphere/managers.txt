@@ -1,0 +1,129 @@
+If I made any mistakes please let me know,my  email is jetrho9250@AOL.COM
+
+	Ames Oaks		station building	10% down
+				engine purchase		12% up
+				goodwill		10% up
+				credit			1 level up
+
+	Frederick Billings	company overhead	10% down
+
+	Eugene v. Debs		train safety		35% up
+				company overhead	25% up
+				passenger revenue	10% up
+				engine maint.		5%   up
+
+	John Work Garrett	elect track building	40% down
+				mountain track build	20% down
+
+	Robert Gerwig		bridge build		40% down
+				mountain track build	50% down
+				elect acceleration	10% up
+
+	Daniel Gooch		engine build		20% down
+				company overhead	5%   down
+				iorn revenue		20% up
+
+	Charles Melville Hays	track build 		40% down
+				company overhead	5%   down
+				train safety		5%   riskier
+
+	John Hopkins		passenger revenue	10% up
+
+	Theodore D. Judah	track building		15% down
+				company overhead	10% down
+
+	Charles f. Mayer	track building		40% down
+				bridge building		20% down
+
+	Oscar g. Murray		station turnaround	20% up
+				all passenger & cargo 	5%   up
+
+	George Nagelmacher	passenger revenue	15% up
+				car maint		10% up
+
+	William j. Palmer	coal revenue		30% up
+				track building		10% down
+
+	George Stephsenson	engine purchase		25% down
+				passenger revenue	5%   up
+
+	William Strong		station building	10% down
+				station revenue		5%   up
+				company overhead	20% up
+
+	Thomas Swann		goodwill		10% up
+
+	Richard Trevithick	speed			10% up
+				engine maint		15% up
+				engine purchase		15% down
+				
+	Ginnery Twichell	stock			15% down
+				goodwill		15% up
+
+	William C. Vanhorne	track building		15% down
+				mountain track building	20% down
+				station building	10% up
+
+	George Westinghouse	train safety		25% safer
+				passenger revenue	5%   up
+				car maint		5%   up
+
+	Roy b. White		track building		15% up
+				station building	20% down
+				station turnaround	20% up
+
+	Daniel Willard		fuel			10% down
+
+	Albert a. Robinson	track buildng		15% down
+				stock			10% down
+
+	Phillip Randolph	company overhead	40% up
+				passenger revenue	10% up
+				train safety		10% safer
+
+	Andrew Carnege		steel revenue		30% up
+				bridge building		30% down
+				station building	15% down
+
+	Rudolph Diesel		diesel engine  purchase	30% down
+				stock			10% down
+
+	Ben Holliday		mail revenue		10% up
+				company overhead	15% down
+
+	Bat Masterson		robberies (security)	50% fewer
+				passenger revenue	5%   up
+				station revenue		5%   up
+
+	Henry Boothe		car maint		10% down
+
+	Andre Chapelon		speed			10% up
+
+	Thomas Crampton		train speed		15% up
+				track maint		10% up
+				acceleration		10% up
+	
+	Dr. Robert Garbe	steam engine purchase	15% down
+				
+	Henry Gifford		company overhead	20% up
+				steam train speed	5%   up
+				engine maint		10% down
+
+	Allen Macnab		company over head	10% down
+				goodwill		10% up
+
+	George Pullman		car maint		20% up
+				station revenue		5%   up
+				passenger revenue	25% up
+
+	Dr. William Schmidt	steam traction		10% up
+				fuel			10% down
+
+	Ernst Siemens		elect engine purchase	30% down
+				
+	Robert Stevens		track build		25% down
+				track maint		10% down
+
+	John Wootten		engine maint		10% up
+				fuel			5%   down
+				steam fuel		25% down

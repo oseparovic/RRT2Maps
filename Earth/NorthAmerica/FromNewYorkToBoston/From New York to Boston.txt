@@ -1,0 +1,24 @@
+FROM NEW YORK TO BOSTON 1841 version 1:
+
+Welcome to New England! 
+The Northeastern part of the United States is a very dense populated area from New York to Boston. The railroad came early 
+to this area (1841 between Boston and Providence), and soon after a huge network was built, especially in Massa-chusetts. 
+Railroad history tells about famous trains as Yankee Clipper, Merchants Limited and The Colonial.
+I sugest the player to start with a railroad from Boston to Providence.  After a few years to consolidate your company, you 
+can start building the  trunk line to New York. In 1890 or so, the whole system should be built, and by this time it will 
+take approximately 150 trains to run it. Note:: From 1950 no  steam locomotives are avaiable.
+
+PORTS:	IMPORT:			EXPORT:		OTHER DATA: RRT2, The second Century
+	 Steel		(1)			 option for multiple companies.  Start year 1841.
+	 Cotton		(1)			 Engine avaibility: Typical North American.
+	 Aluminium	(1)			 Start economy: 75%. Growth: 1,0% per year.
+	 Diesel			 Wool
+Win conditions: BRONZE: 50 mill., SILVER: 75 mill., GOLD: 100 mill. of company book value within 25 years.
+By drawing this map I have built all railway lines with a maximum gradient of 2,5%, and replaced them with reserve cells. 
+When finished the map I have liqudated the company and then tested the game by playing it 2 times.
+Personally I prefer to simulate a minor railway system with pretty landscapes, without any disturbing competition or too 
+many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate all traincrashes. 
+NEW!!! I have made a couple of gorges so narrow, that they, when overgrown with trees, looks exactly like tunnels. 
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk).
+Last update: 2000 -02-03

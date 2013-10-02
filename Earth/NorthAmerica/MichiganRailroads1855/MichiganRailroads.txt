@@ -1,0 +1,24 @@
+MICHIGAN RAILROADS 1855 version 1:
+
+Welcome to Michigan!
+The Michigan Peninsula is booming with logs, automobiles and agricultural products.  Are you able to supply the industries 
+with the raw materials they need and prosper?
+I sugest the player to start with a small railway from Chicago or Detroit. After a few years to consolidate your company, 
+you can start building the  trunk line between the two cities via Kalamazoo and Ann Arbour. Chicago and Detroit  are a huge 
+urban centers, so there should be plenty of mail and passengers to carry to and from the provinces. By 1920 or so, the whole 
+system should be built, and by this time it will take approximately 175 trains to run it. Note:: From 1950 no  steam 
+locomotives are avaiable.
+
+PORTS:	IMPORT:				EXPORT:		OTHER DATA: RRT2, The second Century
+	 Rubber				 Steel		 option for multiple companies.  Start year 1855.
+	 Cotton				 Paper		 Engine avaibility: Typical North American.
+	 Aluminium			 Lumber		 Start economy: 90%. Growth: 1,0% per year.
+	 Goods: 1 unit per dock.
+Win conditions: BRONZE: 50 mill., SILVER: 75 mill., GOLD: 100 mill. of company book value within 45 years.
+By  drawing this map I have built all railway lines with a maximum gradient of 2,5%, and replaced them with reserve cells.
+When finished the map I have liqudated the company and then tested the game by playing it 2 times.
+Personally I prefer to simulate a minor railway system with pretty landscapes, without any disturbing competition or too 
+many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate all traincrashes.
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk).
+Last update: 2000 -01-14

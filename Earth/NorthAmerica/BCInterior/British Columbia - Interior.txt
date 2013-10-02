@@ -1,0 +1,23 @@
+British Columbia Interior V2
+Creator of the map — Ceebee
+
+
+This is a scenario involving the British Columbia Interior. I made this map by hand as I couldnt find a greyscale map of this area that was the right scale. The town of Chase is where I live, so I have tried to create a fairly representitve idea of this area. The land and water features, relative elevations and town locations are as close as possible to the real thing. The industries are matched as closely as possible to actual occurrence with some degree of randomness to allow replayability.  The map is playable on the expert level as well as the easy level.  
+
+Creator of the map — Ceebee 
+
+Map size            300x200
+Date released       Feb 5/99
+Single Player       yes
+Map goals           yes
+Map Events          yes
+Multiplayer         yes
+Max players         2
+Max total           2
+
+Default start       1896
+Earliest start      1881
+Latest start        1951
+
+This map has had some major changes.  With the assistance of Sirian, all the raw materials and houses have been switched from hand-placed to random occurances.  This should correct most oversupply problems inherent in the first version.  In addition, the game has been revamped for multiplayer.  2 extra ports have been added in order to allow players beginning at different edges of the map to have a more equal opportunity to build a workable railroad.  A series of events (actual historical occurances) has been added and will appear throughout the gameplay.  
+Thanks to Sirian for help in making this map a better one.

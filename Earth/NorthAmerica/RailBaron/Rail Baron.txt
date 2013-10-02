@@ -1,0 +1,36 @@
+Rail Baron
+Map for Railroad Tycoon II TSC.
+version 1.2
+
+Realistically by the 1920s you would not find many cities
+that were not connected by viable railroads.  So you
+must compete on an unfair footing with estabished companies.
+You are given a chance to open your own railroad line or
+invest in stocks.  
+
+
+The major step is to become CEO of one of the existing RRs.
+When this is done the final goal is much easier.
+It is possible to win. I won silver in under 10 years by
+taking control (on considerable margin) of Penn RR.  It was
+a matter of time before I win gold.
+
+If you find errors in spelling or events let me know
+so I can fix them.
+
+Hint:  Play the game several times but watch which railroads
+come out of the gate fast.  And which are slow but powerful
+giants.  I invested in a fast starter and took over a slow
+giant for my win.
+  
+
+version
+---------------
+ 1.1  Added better track crossings to busy intersections.  Now
+      trains can pass through each other.
+ 1.2  Changed the goals.  Some error in the flags.
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii/

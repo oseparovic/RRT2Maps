@@ -1,0 +1,59 @@
+THAT TODDLIN' TOWN
+
+version 1.03 - August 2000
+by N. S. Bennett
+
+
+Chicago, Illinois, has been a major rail junction since the 1860s. The city was first settled because there was an easy portage from the Chicago River to the Des Plaines River that allowed trade to flow between the Great Lakes and the Mississippi River system. When railroads came to prominence at the expense of boat traffic on the rivers, Chicago was already a significant center of commerce, and its location at the south end of Lake Michigan not only made it a logical place for a port, but the terrain also dictated that all east-west lines into the upper midwest had to come through Chicago on their way around the Great Lakes.
+
+THAT TODDLIN' TOWN begins in 1890, and the Chicago area is already thick with railroads. Your job is to make good on an idea that didn't quite work in the real world: a ring railroad serving the outlying communities of the Chicago area. The Elgin, Joliet, and Eastern really did flourish for a few decades around the turn of the Twentieth Century, but it is now reduced to a shadow of its former self. It does, however, retain the distinction of being the only railroad that has junctions with all the major railroads serving Chicago, and it turns steady business shunting freight from road to road.
+
+To avoid the fate that has befallen the real EJ&E, you'll have to invest heavily in profitable industries and establish a connection to Chicago. There are so many railroads doing business in the Windy City that it's probably not worth your while to try to capture passenger and mail traffic -- the idea is to exploit the city's pent-up demand for food, alcohol, and other commodities manufactured by the EJ&E's subsidiary industries.
+
+As the Chicago market is already saturated, you cannot start a new company, though you can get yourself fired if you're not aggressive enough. The AI companies are presumed to connect to cities beyond the edge of the map and therefore receive a sizable annual "subsidy" above and beyond the revenue they generate from the trains you can see. This is actually counterhistorical, as a lot of railroads went broke in the 1890s. Even some of those represented in this scenario flirted with bankruptcy, though they later made their marks on history to some degree or another.
+
+
+
+Win Conditions
+
+The EJ&E must be free of all debt to qualify for any medal win.
+
+BRONZE - connect Joliet to Elgin, Waukegan, Valparaiso, and Michigan City
+
+SILVER - convert the EJ&E from steam to electric power and show $1,000,000 in profits from subsidiary industries in a single year
+
+GOLD - gain access to Chicago and ship 100 carloads into the city
+
+
+
+Version History
+
+0.1B
+First draft had about half a dozen AI railroads running enough trains to slow my system to a crawl. Oops.
+
+0.2B
+Added historical event sequences.
+
+0.3B
+Changed win conditions to require a connection to Chicago.
+
+0.4B
+Playtesting. Fiddled with industry balance, changed town sizes to discourage AI expansion into Valparaiso.
+
+0.5B
+Final playtesting.
+
+1.0
+First public release.
+
+1.01
+Learned that the EJ&E still exists! Thanks, Superchief.
+
+1.02
+Changed medal trigger so loads shipped between stations within Chicago don't count toward the 100 that must be brought in. Changed Hull House event sequence so players only get right to run trains; permission to lay track must now be purchased.
+
+1.03
+Changed Hull House event sequence again. Implemented requirement that the EJ&E be free of all debt for any medal win.
+
+
+Suggestion, comments, and bug reports may be sent to nsb@teleport.com

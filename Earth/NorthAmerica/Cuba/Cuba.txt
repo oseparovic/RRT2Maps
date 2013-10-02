@@ -1,0 +1,30 @@
+Copy the file CUBA.MAP into your rt2/maps folder
+
+I worked on this map for a few days on a whim and 
+ended up being more work than expected. Especially
+the trigger formulas. For example, for gold the 
+message states one must connect all the cities but
+in reality there's no way to check more than a
+about 30 connections or so before one runs out of
+space. Still, the formula is done cleverly enough
+(I hope) that it should produce the desired
+effect.
+
+You may find this scenario to be pretty challenging.
+Since your own personal wealth is irrelevant per
+the goals on this scenario you may want to consider
+issuing more stock every year. Running up lots of
+bonds, spending the money and then declaring 
+bankruptcy should be a good idea too. Lastly, if
+you're so inclined, you can always mess around
+with the editor yourself or just play at an easier
+level.
+
+Anyway, I'm thinking of doing a couple other maps.
+My site, www.rasiel.com, should be up soon.
+Meanwhile, I'm at http://home.earthlink.net/~rasiel
+and email at rasiel@yahoo.com
+
+Happy railroading!
+
+Ras

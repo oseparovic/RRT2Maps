@@ -1,0 +1,44 @@
+"Railroad Tycoon 2: The Second Century"
+
+Scenario "amtrak west.mp2" (adapted from campaign part #10)
+
+
+Goals: (unchanged from campaign)
+
+	Bronze - connect San Francisco to Los Angeles and deliver 12
+			loads by 2005
+
+	Silver - by 2000
+
+	Gold - by 1995
+
+
+
+Changes:
+
+none
+
+
+
+
+
+				DISCLAIMER:
+
+	Please note that these changes have been authorized by PopTop Software
+	or Godgames (Gathering of Developers), though I do not work for either
+	company, nor am I being compensated in any way for this campaign fix.
+
+	Use of this fixed map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II: The Second Century" is copyright 1999 PopTop Software
+	and copyright 1999 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+August 10th, 1999

@@ -1,0 +1,19 @@
+This map takes over where the first campaign game leaves off.
+You more or less have the choice of recreating the Pennsylvania
+or the Baltimore and Ohio. I've tried to make a slightly historical 
+east coast scenario by forcing you to build east/west rather than 
+north/south. There's big money to be made hauling products from the
+midwest to the east coast.
+
+I've also tried to have a mix of terrain, although it matters
+much more if you chose a late start year and have a choice of
+locomotives. It's an easy map on which to win bronze but 
+difficult to win gold, especially starting in 1833 as train 
+speeds are so pathetic. 
+
+This is really a single person game. I haven't tried to put in 
+multiplayer victory conditions. The Civil War events aren't all 
+I hoped for; maybe someday I'll get around to improving them.
+
+Benjamin Sauer
+b.e.sauer@sussex.ac.uk

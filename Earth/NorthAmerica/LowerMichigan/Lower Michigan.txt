@@ -1,0 +1,30 @@
+--- General Information ---
+Full Map Title : Lower Michigan
+Author : Eric J. Boone
+Copyright Info. : 1999, Eric J. Boone   Distribution : Anyone may download, use, and/or modify this map file.	
+
+--- Map Description --
+	Can you provide for the automobile industry in southeast Michigan and the furniture industry in northern 
+and western Michigan?  Can you be the first to connect the two major cities of Chicago and Detroit?
+	My philosophy while building this map was to use small villages to place industry.  Rarely do you see 
+industry without at least a small town around it.  The nice little side benefit is that your home town is more likely to 
+be present.  This map file is bigger than most because of this, but I think you will like what I have created.
+
+--- Vital Statistics ---
+Starting Year : 1855
+Start Range : 1840 to 1900
+Map Size : 500 x 350
+Map Base : New Map
+Topography Base : Lower Michigan
+Territories : Yes (5)
+Map Restrictions: None
+Special Restrct.: None
+Barred Industry : Bauxite, Coal Mine, Coffee Farm, Cotton Farm, Iron Ore Mine, Nuclear Plant, Rubber Farm, 
+	Sugar Farm, Uranium Mine
+Player Pool : Custom
+Manager Pool : All
+Locomotive Pool : Custom
+Minimum / Maximum Human Players:  1 / 12
+Minimum / Maximum Computer Players:  2 / 15
+Minimum / Maximum Total Players:  3 / 16
+

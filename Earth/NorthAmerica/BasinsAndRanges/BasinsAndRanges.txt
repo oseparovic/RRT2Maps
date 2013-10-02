@@ -1,0 +1,13 @@
+This map of the southwestern US is just the result of one weekends work.
+It's not a full scenario, because there are no events and no goals to
+reach. I just thought, it should be interesting, to build up a railway
+system, beginning at the pacific coast and aiming to the rockies.
+I'm shure, this map can be optimized, enhanced and made more realistic, 
+especially concerning the economic settings. Maybe there's somebody out 
+there, who would like to do that...
+
+I hope, you'll enjoy this map
+
+Eckhard Flor
+
+PS: Thank's to the USGS for their DEM-Data

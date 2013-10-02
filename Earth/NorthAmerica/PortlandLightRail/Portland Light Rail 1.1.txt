@@ -1,0 +1,2 @@
+Portland Light Rail 1.1.  This version is not quite so tough as the first version, and the 
+victory conditions are fixed -- I think.  Email comments and suggestions to ewallace@teleport.com

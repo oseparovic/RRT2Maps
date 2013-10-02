@@ -1,0 +1,30 @@
+Wisconsin Rails 
+Version 1.1
+A Railroad Tycoon II, The Second Century Scenario
+by Dick Knisely
+
+Note:  There is a background and designer's notes document that should be included with this scenario.
+
+Requirements:
+This is a single player scenario which requires Railroad Tycoon II by PopTop Software and the RRT2 expansion disk, The Second Century.  Because it uses a number of features that were added in TSC, it cannot be played without the expansion disk.
+
+Using the scenario:
+
+After unzipping the package that these came in, just copy the .mp2 file into the TSC maps subdirectory on your hard drive.  Put this readme and the background file where you want them but they can also go in with the maps.  Then just run TSC and select single player, new scenario and pick the Wisconsin Rails map.  
+
+You cannot change the start year for the scenario (well, not without using the editor) but you can select from 1-4 opponents and whatever difficulty level you like.  However, selecting the expert level for the economy is highly recommended and the scenario was balanced using difficulty settings in the 80-120% range.
+
+Objectives
+See the background document and the scenario briefing.  This scenario basically attempts to recreate the frantic expansion of railroads during the period 1850-1900 that occurred in the upper Midwest United States.  In this case, I've concentrated on the state of Wisconsin and the immediately surrounding areas.  Your goals are spelled out in the scenario but the general idea is that you're trying to satisfy the huge demand for transportation by connecting the cities and key industries of the region.  Last, but far from least, you need to make yourself and your investors wealthy by increasing the company net worth.
+
+NOTE: To earn any medal you need to make the following connections: Chicago-Milwaukee, Milwaukee-River Port, Chicago-Minneapolis/St.Paul.  In addition, to earn the Gold Medal you must connect Wisconsin to Minnesota, Iowa, Illinois, and Michigan. Connections to Chicago and Minneapolis do NOT count as connections to Illinois and Minnesota, they are separate territories, so you must build at least one station somewhere else within that state (territory) and connect it to track leading (directly or indirectly) to Wisconsin.
+
+Getting Started (See the background document)
+You may find revenue rather thin at first if you carry nothing but passengers and mail.  Success in this scenario depends more on carrying freight than passengers--there weren't many big cities here, especially at the start, but resources were abundant.  The potential for huge industrial expansion was there, it just needed the transportation infrastructure, mainly railroads, to make it happen.
+
+I found the easiest place to start was to run a line from Milwaukee to either the Racine-Kenosha area or one at Lake Geneva.  An aggressive but feasible start is Milwaukee-Madison. I began my expansion by going after whatever freight was available in the immediate area, followed by expansion across the region.  It isn't difficult to start in several other areas of the map, but if you have more than one computer opponent there's a very good chance he will start in the Milwaukee area if you don't.  That's not fatal but it will make things more of a challenge because you'll have to work around him to get access to the area later (or buy him out).
+
+Special features and notes
+In your company report at the end of the year, the Status page will track your progress towards the victory conditions.  Key cargo and the connections that are demanded will be noted.
+
+As is explained in the background document, oil is being used to represent the lead and zinc mines that were very important to the early development of railroads in this area.  No refineries will appear in the scenario and the only oil wells that will appear on the map are the ones you'll find at the start.  This lead/zinc resource was processed at or near the mines and then shipped out of the area, mainly on riverboats down the Mississippi.  Therefore, the only demand for oil is at the river and Great Lakes ports.

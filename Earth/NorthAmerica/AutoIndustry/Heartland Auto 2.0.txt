@@ -1,0 +1,33 @@
+Heartland Auto Industry (version 2.0, August/2000)
+------------------------------------------------------
+
+This is the PopTop RT2-TSC "Heartland, USA" map altered to provide novel single-player and multi-player win conditions. All other features of the scenario are unchanged.
+------------------------------------------------------
+SINGLE-PLAYER GAME
+
+Recommended play: "Expert" with 5 opponents.
+
+The objective is to meet a strenuous automobile delivery schedule while also meeting minimum levels of company book value, industry investments and industry profits. Gold requires this for 3 companies simultaneously, regardless of ownership. 
+
+After first gaining control of several companies, you must develop relentlessly, leaving the companies in the hands of your managers for that high income they earn, except for frequent dropins to expand, buy and develop industries, reschedule trains, etc.
+
+You get a real feeling for the chaos the AI can occasionally create in some areas while being quite benign elsewhere. Its like real life. It is an experience everyone should go through.
+
+"Expert" is recommended as it provides an incentive to let the AI run all 3 companies. This scenaro definitely takes effort and is very different and surprisingly enough somewhat satisfying to complete. And a relief!
+
+------------------------------------------------------
+MULTI-PLAYER GAME
+
+This is a co-operative game for stand-alone or team competition. Players must work together to deliver at least 36 autos and 36 food each. Each of the following resources can be delivered for cash by one company only: coal, iron, rubber, grain and cattle. There is no time limit in the scenario except to beat your previous time and/or the time of other teams. 
+
+Standard settings for the team competition: "Hard", standard start year, game speed 2. The game may be paused only at the start to examine the map, assign resources and plan strategy, but no action should be taken at that time. 
+
+Play for fun: Whatever you want.
+
+The team competition is for the earliest completion date. Results may be E-mailed to me or posted at the cyberrail forum under the thread entitled "TEAM COMPETITION". It would be nice to include team or player pseudonyms along with team size and win date.
+
+------------------------------------------------------
+Comments, ideas, etc. to: steven.martineau@3web.net
+------------------------------------------------------
+
+ 
