@@ -1,0 +1,40 @@
+
+
+--- General Information ---
+Full Map Title : The Pampas
+Author : Santiago A. Rocha
+
+
+
+--- Vital Statistics ---
+Starting Year : 1857
+Start Range : 1853/1870
+Map Size : 300*500
+Map Base : New Map
+Topography Base : Argentina
+Territories : Yes (4)
+Map Restrictions: None.
+Special Restrct.: None.
+Player Pool : All
+Manager Pool : All
+Locomotive Pool : All
+
+--- Single Player Data ---
+Single Player : Scenario
+Computer Players: No 
+SP Gold Win : N/A.
+SP Silver Win : N/A.
+SP Bronze Win : N/A.
+SP Loss : 
+
+--- Multi-Player Data ---
+Multi-Player : No
+
+
+--- Extra Information ---
+Known Bugs :  None
+Other Notes : This is my first scenario. I tried to represent 
+the semi-industrialised Argentine economy.
+A note for the ecologists: Argentina DOES NOT export nuclear 
+waste. It represents domestic traffic to/from the areas not 
+represented in the map.

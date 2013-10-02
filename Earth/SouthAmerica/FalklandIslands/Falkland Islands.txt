@@ -1,0 +1,60 @@
+--- General Information ---
+Full Map Title : Falkland Islands - Iles Malouines
+Author : Bernard GUILLAUD-SAUMUR (bernard.guillaud-saumur@wanadoo.fr)
+Version: 1.0
+
+Copyright Info. : none (April 25, 1999)
+Distribution : as you want
+Usage Restrict. : none
+
+--- Vital Statistics ---
+Starting Year : 1830 
+Start Range : 1829 - 1982 
+Map Size : 500 x 325
+Map Base : New Map 
+Topography Base : France - Alps region
+Territories : No
+Regions: Yes
+Map Restrictions: None.
+Special Restrct.: None.
+Barred Industry : Those unkown on these islands.
+Player Pool : Europe
+Manager Pool : All
+Locomotive Pool : World
+
+--- Single Player Data ---
+Single Player : None
+Computer Players: Yes (0 to 7 opponents)
+SP Gold Win : N/A.
+SP Silver Win : N/A.
+SP Bronze Win : N/A.
+SP Loss : N/A.
+Included Story of 1982 War
+
+--- Multi-Player Data ---
+Multi-Player : Yes (max 8 players)
+MP Gold Win : N/A.
+MP Silver Win : N/A.
+MP Bronze Win : N/A.
+MP Loss : N/A.
+Included Story of 1982 War
+
+--- Extra Information ---
+Known Bugs : None 
+Other Notes : I have found a Falkland Islands map on the Net.
+I have put levels of grey according to the altitudes
+then made a .PCX file before to import it inside the map editor
+and adapt it by hand to be more realistic and enhanced.
+During 1982 War on Port-Stanley, I hear BBC radio to know more
+about this war, because in France where I lived, media TV were not
+so developed like today.
+Major ports will send wool and farmers have sheeps and cows.
+When the territory will be kept by Argentina on 1982 April 2nd,
+each player will pay $1,000,000 to survive. This money will be back
+plus 50% after date June 15th when UK troopers will win the Port-
+Stanley battle.
+In 1995, the announcement of oil fields discovered north of Falkland
+Islands area has been done. Reality or virtuality ? In my game, the
+reality has been chosen and oil production will increase.
+Have a funny game and send me comments to my Email address above.
+See my new maps on http://perso.wanadoo.fr/bgs/rt2/

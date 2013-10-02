@@ -1,0 +1,33 @@
+Mapa do Brasil em Português - versão 1
+Autor: Rodnei Pereira Coutinho
+E-mail: rpc007@bol.com.br
+Ano de criação: 2003
+
+Mapa contendo todos os atuais Estados Brasileiros.
+
+Ano Inicial: 1854
+Tamanho: 500 x 500
+Acesso a territórios: Apenas o Rio de Janeiro
+Industrias: Todas que estão no Brasil
+Locomotivas: Todas
+Gerentes: Todos
+Jogadores: Todos
+
+Cidades: + de 130 com as seguintes convenções relativas a sua população:
+Vila:<50.000
+Aldeia:>=50.000 e <100.000
+Cidade:>=100.000 e <1.000.000
+Metropole:>=1.000.000 e <10.000.000
+Megalopole:>=10.000.000
+
+Jogadores do Computador: 2
+
+Condições de vitória:
+Bronze: Dinheiro do jogador>=$50 milhões até o final de 1917
+Prata: Condição anterior + Valor da empresa>=$200 milhões até o final de 1916
+Ouro: Valor da empresa>=$200 milhões + Jogador com a maior fortuna até o final de 1914
+Derrota: Não conseguir o Bronze
+
+Do mesmo autor: Estado de São Paulo e State of São Paulo.
+
+Rodnei Coutinho - Mauá - São Paulo - Brasil - 16 de junho de 2003.
