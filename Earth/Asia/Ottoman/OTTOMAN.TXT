@@ -1,0 +1,26 @@
+Ottoman Empire 1885-1915
+Scenario for Railroad Tycoon II
+Version 1.0 [2002]
+
+Author: Joseph Abbate
+
+The Ottoman Empire at the end of the 19th Century - Can you bring it into the
+modern world?
+
+Start Year: 1885
+
+
+Multi-player: Highest Net Worth after 30 years
+
+Single Player:
+
+      Gold: Net Worth of 20,000,000
+      Silver: Net Worth of 12,000,000
+      Bronze: Net Worth of 8,000,000
+
+
+
+Ottoman Empire is based on Kees van der Griendt's map Middle East with a large
+number of changes, additions and deletions to fit the period and scenario.
+
+

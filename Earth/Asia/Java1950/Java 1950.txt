@@ -1,0 +1,28 @@
+Full Map Title:  Java 1950
+Author:  Indra Krishnamurti  keretapi@lycos.com  http://keretapi.tripod.com
+
+Copyright info:  December 18, 2003
+
+Usage/Distribution Restriction: None
+
+Starting Year: 1950
+Start Range: 1950 
+Map Size:  500*160
+Map Base:  Globe Project
+Map Restrictions: Starting companies, starting multiple companies, getting fired as chairman,  resigning, assuming chairmanship, personal stock market activities (selling/buying stock), issuing bonds.
+Special Restrictions: No customs
+Territories: 6, all allowed
+Barred Industry: Aluminum Mill, Auto Plant, Bauxite Mine, Cannery, Coal Mine, Cotton Farm, Dairy Farm, Dairy Processor, Iron Ore Mine, Nuclear Plant, Produce Orchard, Rubber Farm, Sheep Farm, Steel Mill, Tire Factory, Textile Mill, Tool and Die Factory, Uranium Mine
+Player Pool:  Jawaharlal Nehru
+Manager Pool:  All
+Locomotive Pool: Custom, certain locomotives allowed by events
+
+Single Player: Rebuild the Javan railway system
+Computer Players: None
+SP Gold Win:  200 loads per year before 1965
+SP Silver Win:  150 loads per year before 1970
+SP Bronze Win:  100 loads per year before 1975
+SP Loss:  Don't complete bronze requirements by 1975.
+
+Notes:
+See http://keretapi.tripod.com for history of Indonesian railways.

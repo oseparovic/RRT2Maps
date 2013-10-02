@@ -1,0 +1,45 @@
+"Railroad Tycoon 2: The Second Century"
+
+Scenario "trans-siberian.mp2" (adapted from campaign part #5)
+
+
+Goals: (unchanged from campaign)
+
+	Bronze - deliver 100 loads of steel to Omsk by 1966
+
+	Silver - also, connect Omsk to Vladivostock, and have at least
+		$10 million in lifetime company profits
+
+	Gold - also, haul 20 loads of cargo between Omsk and Vladivostock,
+		and have $20 million in lifetime company profits
+
+
+
+Changes:
+
+none
+
+
+
+
+
+				DISCLAIMER:
+
+	Please note that these changes have been authorized by PopTop Software
+	or Godgames (Gathering of Developers), though I do not work for either
+	company, nor am I being compensated in any way for this campaign fix.
+
+	Use of this fixed map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II: The Second Century" is copyright 1999 PopTop Software
+	and copyright 1999 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+August 10th, 1999

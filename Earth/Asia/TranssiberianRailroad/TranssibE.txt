@@ -1,0 +1,110 @@
+Railroad Tycoon Map Data Transsib.map
+
+Table of Contents:
+1) General Information
+2) Vital Statistics
+3) Single Player Data
+4) Multiplayer Data
+5) Extra Information and sources
+6) About map creation
+
+1)--- General Information ---
+Full Map Title: Transsiberian Railroad Scenario
+Author: 1999 Christian Schwerdtner, Berlin; e-mail: schw@zedat.fu-berlin.de
+
+Usage Restrictions: The map includes historical events, events which define win conditions 
+		    and events which restrict companies. If you don't like them, erase them.
+		    The events are created to guide you in a single or multiplayer game through
+		    Russian history and the building of the Transsiberian Railroad. Within the game
+		    you will receive certain missions at a certain time in which you can gain "winning points" or be thrown out of game.
+		    The player with the most winning points wins in 2002. There is no silver or bronze.
+		    Start in 1840, otherwise the economy (especially cities will be very small) is bad balanced and it may not be possible to fulfill the missions and the territory-access will be a bit different.
+		    If you start later, set the economy-start-level in the editor to about 100%.
+
+2)--- Vital Statistics ---
+Starting Year: 1840
+Start Range: 1840 - 1945
+Map Size: 500 * 251
+Map base: new map based on sattelite Digital 3D elevation map of Asia (see below for more)
+Topography base: tried to get as much topographical and geographical info about the region and put it in. For sources see below.
+Territories(in order of ID):Japan, Russia, Ukraine, Moldavia, Finland, Belarus, Estonia, Latvia, China, Kazakhstan, Mongolia, Usbekistan, Turkmenia, Polar-Circle, Aserbaidschan, Georgia, Romania, St. Petersburg, Moscow, Province of Amur, Maritime Provinces, Chechenia, Wladiwostok
+Map restrictions: None
+Special Restrictions: None
+Barred Industry: Coffee, Rubber and Sugar
+Player Pool: Europe
+Manager Pool: 29 out of 40
+Locomotive Pool: Europe
+
+3)--- Single Player Data ---
+Single Player: Scenario
+Computer Players: up to 9
+SP Gold Win: Most Winning Points
+SP Silver Win: N/A
+SP Bronze Win: N/A
+SP Loss: See events in scenario
+
+4)--- Multi-Player Data ---
+Multi-Player: up to 10 players
+MP Gold Win: Most winning points
+MP Silver/Bronze Win: N/A
+MP Loss: See scenario events
+
+5)--- Extra Information ---
+Known Bugs: None, I tried to every event in different conditions and made some single-player test-games. If you find bugs please send me an e-mail.
+Other Notes: PCX-picture Source: 	GLOBE Project: Gallery of Images http://www.ngdc.noaa.gov/seg/topo/globegal.shtml (you can find all areas of the world, but just very large scale)
+	     historical map source: 	FEEFHS MAP ROOM-Russian Empire Maps http://www.dcn.davis.ca.us/~feefhs/maps/ruse/mapiruse.html This site contains historical maps of certain regions from around 1880
+				    	Russia and the Former Soviet Republics Maps at http://www.lib.utexas.edu/Libs/PCL/Map_collection/commonwealth.html (geographical information like coal, petroleum deposits, industry, land use,...)
+				    	Taiga maps at http://www.sll.fi/TRN/taiga/nature/maps.html (for forest cover)
+				    	
+                                    
+	     Russian history:		Bucknell University Russian Studies Department http://www.departments.bucknell.edu/russian/index.html	
+					A history of Russia homepage at http://www.execpc.com/~gmsprob2/
+					
+	     Transsib history or today:	Transsib Fareast at http://www.transsib.fareast.ru/
+		(have a look at some	Trans-Siberian railroad - historical review http://www.geocities.com/MotorCity/Speedway/4283/dates.htm
+		of these excellent	Steam engine at http://gamayun.physics.sunysb.edu/RR/CP1251/
+		pages !)		Russia / Exploring Siberia / The Trans-Siberian Railway at http://www.interknowledge.com/russia/trasib01.htm
+and last but not least my good old geographical atlas.			
+
+
+6)--- About map creation (realistic maps) ---
+Now the point you sure waited for. How to create your own map and in which order.
+First find an area of the world which you are interested in and try to find a DEM (digital elevation map) in greyscale and if possible not in 3-dimension or with shadow effects.
+If you find just one with 3D or shadow effects you have to do more work to correct the wrong elevations these effects create by loading the picture into the editor.
+Mostly you find the map as picture in GIF or JPEG. Try to find one with high resolution and decent scale to get also a got resolution when you cut out and enlarge the region you are interested in. If the resolution is bad from the beginning you will not get the right elevations or not good ones.
+Cut out the area you are interested in and then think about the scale you want to use in the RT2 map. It will be then easier to place cities, rivers, mountains,...
+For example you say one grid in the RT2 map should be 10 kilometers. You know the area you like to cover is 5000*2000 km so you need a map of 500*200 grids.
+Befor you load the map in the editor it might be good to work a bit on it. Play around with brightness and contrast so that sea level is black (or close to) and the elevation differences are not to big. Otherwise the map could be very rough. This problem will especially occure in maps with 3D or shadow effects: The mountains are white and the valley beside is black. 
+The elevation difference will be very big in the editor and you will have to correct this manually (hard work), better to try a bit smoothing now.
+If you try to smooth these large differences in the contrast-setting in the editor when you load the map, you will smooth out the low hills and have large plains. Such a map is boring.
+OK, now you smoothed the differences a bit and you think the map will look good in the editor. Now save the map under a new name as True-colour 24 bit in PCX format. The editor can only read this.
+In the editor menu you will be asked about the size of your map (enter the grid numbers you figured out above by thinking about the scale) and the contrast (Elevation scale).
+I figured out, that a trying values around 50 or a bit higher makes a good smoothing, without smoothing out every little hill. Nevertheless, you will have to do some smoothing yourself in the high-mountain regions. They will remain very steep sometimes.
+Now you see the raw map and you also like the elevations. Now fill the sea with sea-area at the right level. You now have coastlines, islands,... as orientation and first check, whether your map is right.
+You will recognise, that land-level is not close to sea-level in coast-regions (at the beach). There will be a little elevation and you have to smooth this out if you like it very realistic. The beach is at sea level, otherwise you would always have to jump down a cliff to take a swim. 
+Next point is to smooth the high-mountain-areas a bit. All this smoothing is best done manually with the elevation brush and not with the bulldozer-like (but it needs some time of practice). The bulldozer will smooth too general and makes the landscape too boring.
+In this phase you can already place lakes, rivers, regions, territories and towns. Use an atlas, a ruler and a bit of calculation to place them in the right place on your map.
+By placing towns you can also give them the size and industry you think they should have. Same for Territories. Care about the fine-tuning later.
+You can also begin to paint the terrain-types on your map, but the map is easier to edit when it is just green. Paint the terrain-types after smoothing and setting rivers and towns.
+In the last stage you plant the forests. The forests cover everything and take away the overview, that's why they come last.
+Try to gather as much geographical information as possible about the area you like to create. It will help you by deciding what to place where.
+By making territories you should refer to the events you like to create. If nothing happens within a special territory you don't need to create one (just if you want companies to buy access).
+Now you have your map, settings and everything.
+The crown of your map are the events, but they are also the hardest part to create I think. They take a lot of testing and figure out, what went wrong in the trigger you created.
+It took me half of the time of map-making to create the events and balance the map (industry, cities, regions).
+
+It's a bit short, but I don't like to write a book of map making and I hope you got some useful tips. If you have any questions just send me an e-mail and I will try to answer it.
+If you find any bugs or have suggestions don't hesitate to tell me.
+There is also a German Version which I will send you on demand.
+
+The next map will be one about Berlin and it will be a campaign, when I get the expansion pack. It will ship in July in Germany, so the next map will appear in ???? (I don't know).
+
+Have fun !!!
+
+Yours
+Christian Schwerdtner
+schw@zedat.fu-berlin.de
+ICQ: 5128826
+June 27th, 1999
+
+

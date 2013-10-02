@@ -1,0 +1,37 @@
+--- General Information ---
+Full Map Title: South East Asia 1.01
+Author: Kees van der Griendt
+
+Copyright: please mention me somewhere in your readme.txt
+Distribution: map can be distributed freely, as is, or modified
+
+Starting Year: 1900
+Start Range: 1980- (borders are more or less accurate until 1950)
+Map Size: 500 * 400
+Map Base: New Map
+Topography Base: South East Asia: Indochina, Thailand, Birma, Malysia and surrounding territory.
+Territories: Yes
+Player Pool: Europe
+Manager Pool: All
+Locomotive Pool: Europe
+Limitations: Connected Track only
+
+--- Single Player Data ---
+No scenario, sorry
+
+--- Multi-Player Data ---
+Multi-Player : Yes
+Highest Company Lifetime Income after 30 years
+
+--- Extra Information ---
+I like to make maps. Because I only play multiplayer games nowadays, 
+I don't have the patience to make a scenario.
+Anyone who wants to make one, please feel free to do so under your own
+name...
+
+--- Disclaimer ---
+
+Any errors with borders or geographical names on this map are 
+unintentional.
+No political meaning should be read in to them, I appologize for any 
+offences...

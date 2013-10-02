@@ -1,0 +1,71 @@
+
+
+--- General Information ---
+Full Map Title : Warlord China v1.0
+Author : abaumler@yahoo.com
+
+ Copyright Info. : Do whatever you want with it
+Usage Restrict. : see above
+
+--- Vital Statistics ---
+Starting Year : 1907
+Start Range : 1907
+Map Size : 500*350
+Map Base : New Map 
+Topography Base : China
+Territories : 8
+Map Restrictions: None.
+Special Restrct.:  None.
+Barred Industry : None
+Player Pool :  Custom
+Manager Pool : All 
+Locomotive Pool :  All 
+
+--- Single Player Data ---
+Single Player : Scenario 
+Computer Players: 1-9
+SP Gold Win : Connect Xuzhou, Changsha and Shanghai, book value>30mil
+SP Silver Win : Book Value > 25 mil
+SP Bronze Win : Book Value 20mil
+
+
+--- Multi-Player Data ---
+Multi-Player : Yes 
+MP Gold Win : Highest book value
+
+
+--- Extra Information ---
+Known Bugs : None (pick one)
+Other Notes : 
+Warlord China v1.0
+1907-War with Japan 
+
+  This should be fun. It is a bigish map with a lot of events, so it may run slow on some 
+computers. It runs fine on my 350Mz K6. The geography is a little haphazard. The elevations 
+were taken from a map at, GLOBE but the rest was done by hand. The dates for the events are 
+also off on occasion, as I wanted to reduce CPU use by checking yearly rather than monthly. 
+The war with Japan is not random, it starts when it did historically. If you don't remember 
+when that was, you should have stayed awake in history class.  
+  My basic idea was that I wanted there to be plenty of money-making opportunities so that
+ players would have the margin to deal with the many events. Not all of the events are bad, 
+but this was not a period when it was easy to run a railroad. It should work well as a 
+multi-player game, as there are several distinct regions where you can make money. I have had 
+more trouble getting the computer-controlled railroads to be competitive, since I tend to be
+ a cargo person and thus created a situation with lots of opportunities to run cargo and not 
+as much passengers and mail. 
+  This is my first attempt at a map, so it is probably unbalanced somehow. Suggestions can
+ be sent to abaumler@yahoo.com or you can fix it yourself.
+
+-Read more about it-
+	This is a very interesting period of history, which unfortunately has been given little
+ attention in English. Besides the relevant sections of Spence The Search for Modern China you 
+might also look at 
+
+Marie-Claire Bergere Sun Yat-sen Stanford U.P. 1998 -Best general history of the period to 1925 
+Lloyd Eastman Abortive Revolution Harvard U.P. 1973 -Deals with Chiang Kai-shek and his 
+government 1927-1937
+Keith Schoppa Blood Road:The Mystery of Shen Dingyi in Revolutionary China. -Fascinating story 
+of a man who was murdered because...well, it's complicated. Read the book.  
+Bonovia, China's Warlords
+Brian Martin The Shanghai Green Gang -Drugs, murder, money. What more could you want?
+There are lots of other books, of course. A good bibliography is Hayford China Clio Press World Bibliographic Series 1997 

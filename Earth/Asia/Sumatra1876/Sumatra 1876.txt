@@ -1,0 +1,28 @@
+Full Map Title:  Sumatra 1876
+Author:  Indra Krishnamurti  keretapi@lycos.com  http://keretapi.tripod.com
+
+Copyright info:  December 18, 2003
+
+Usage/Distribution Restriction: None
+
+Starting Year: 1876
+Start Range: 1876
+Map Size:  300*300
+Map Base:  Globe Project
+Map Restrictions: Resigning, starting multiple companies, getting fired as chairman, short selling, buying on margin, issuing bonds.
+Special Restrictions: No customs at borders
+Territories: 8 territories, all allowed
+Barred Industry: All except Bakery, Coal Mine, Coffee Farm, Grain Silo, Housing, Logging Camp, Lumber Mill, Oil Refinery, Oil Well, Paper Mill, Port and Produce Orchard
+Player Pool:  Custom
+Manager Pool:  All
+Locomotive Pool: Custom
+
+Single Player: Construct railway line in South Sumatra and West Sumatra
+Computer Players: 2
+SP Gold Win:  Tandjoengkarang connected to Palembang and Loeboeklinggaoe, and Padang connected to Fort de Kock and Sawahloento, and company net worth at least $ 20 million by 1885
+SP Silver Win:  Tandjoengkarang connected to Palembang and Loeboeklinggaoe, and Padang connected to Fort de Kock and Sawahloento by 1887
+SP Bronze Win:  Tandjoengkarang connected to Palembang and Loeboeklinggaoe by 1890
+SP Loss:  Don't complete bronze requirements by 1891.
+
+Notes:
+See http://keretapi.tripod.com for history of Indonesian railways.

@@ -1,0 +1,28 @@
+Full Map Title:  Java 1870
+Author:  Indra Krishnamurti  keretapi@lycos.com  http://keretapi.tripod.com
+
+Copyright info:  December 18, 2003
+
+Usage/Distribution Restriction: None
+
+Starting Year: 1870
+Start Range: 1870
+Map Size:  500*160
+Map Base:  Globe Project
+Map Restrictions: Resigning, starting multiple companies, getting fired as chairman, unconnected to any track laying, short selling, buying on margin, issuing bonds.
+Special Restrictions: No customs
+Territories: 9 territories, all allowed
+Barred Industry: All except Bakery, Coffee Farm, Grain Silo, Housing, Logging Camp, Lumber Mill, Oil Refinery, Oil Well, Paper Mill, Port, Produce Orchard and Sugar Farm
+Player Pool:  Custom
+Manager Pool:  All
+Locomotive Pool: Custom
+
+Single Player: Construct railway line between Batavia and Soerabaja via the southern route, and build branches to Merak (West Java) and Banjoewangi (East Java)
+Computer Players: 2
+SP Gold Win:  Batavia, Soerabaja, Merak and Banjoewangi connected by 1885 and more than 100 loads hauled in one year.
+SP Silver Win:  Batavia, Soerabaja, Merak and Banjoewangi connected by 1887
+SP Bronze Win:  Batavia and Soerabaja connected by 1890
+SP Loss:  Don't complete bronze requirements by 1891.
+
+Notes:
+See http://keretapi.tripod.com for history of Indonesian railways.

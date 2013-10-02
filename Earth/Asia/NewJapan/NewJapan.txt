@@ -1,0 +1,25 @@
+New Japan Scenario for RRT2-2nd Century
+
+Feedback is requested regarding playability of this scenario.
+
+I lived in Japan from 92-97. During this time JNR was
+privatized. One of the biggest problems the new company faced 
+was the inefficiency of its lines. This had been exacerbated over
+the years by politicians seeking Shinkansen (Bullet train) lines
+in their districts. Massive amounts of government money would
+then flow into the region for the construction of the extremely
+expensive lines - filling the coffers of contractors who would
+then pass on favors to the politician. Since the demand was not 
+there to pay for this construction, JNR began to accumulate massive 
+amounts of debt.
+
+My thinking behind this scenario is that the player should strive
+to maximize the efficiency of the trains. I threw in Mao Zedong as
+an example of the competition to JNR by private lines like Hankyu
+and Keihan. Due to the limitations of RRT I was unable to faithfully
+render this aspect of JNR's problem. However I still found the scenario 
+to be enjoyable. I hope you do too.
+
+JSK 102199
+
+jskirwin@yahoo.com

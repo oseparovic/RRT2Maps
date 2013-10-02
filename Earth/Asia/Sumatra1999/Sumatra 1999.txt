@@ -1,0 +1,27 @@
+Full Map Title:  Sumatra 1999
+Author:  Indra Krishnamurti  keretapi@lycos.com  http://keretapi.tripod.com
+
+Copyright info:  December 18, 2003
+
+Usage/Distribution Restriction: None
+
+Starting Year: 1999
+Start Range: 1999
+Map Size:  300*300
+Map Base:  Scratch
+Map Restrictions: Resigning, starting multiple companies, getting fired as chairman, short selling, buying on margin, unconnected to any track laying
+Special Restrictions: No customs at borders
+Territories: 10 territories, 9 allowed
+Player Pool:  Custom
+Manager Pool:  All
+Locomotive Pool: Custom
+
+Single Player: Connect Bandarlampung in South Sumatra to Banda Aceh in Aceh
+Computer Players: 0
+SP Gold Win:  Bandarlampung connected to Banda Aceh and 24 loads delivered by 2010
+SP Silver Win: Bandarlampung connected to Banda Aceh and 16 loads delivered by 2012
+SP Bronze Win: Bandarlampung connected to Banda Aceh and 12 loads delivered by 2015
+SP Loss:  Don't complete bronze requirements by 2015.
+
+Notes:
+You start with practically no money and a $2,500,000 debt

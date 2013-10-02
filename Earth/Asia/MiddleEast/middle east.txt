@@ -1,0 +1,30 @@
+--- General Information ---
+Full Map Title: Middle East, 1880
+Author: Kees van der Griendt
+
+Copyright: None.
+Distribution: map can be distributed freely, as is or modified
+
+Starting Year: 1880
+Start Range: 1870-1890 (because of the borders)
+Map Size: 500 * 400
+Map Base: New Map
+Topography Base: Middle East and North East Africa
+Territories: Yes
+Player Pool: Europe
+Manager Pool: All
+Locomotive Pool: Europe
+
+--- Single Player Data ---
+No scenario, sorry
+
+--- Multi-Player Data ---
+Multi-Player : Yes
+Highest Personal Net Worth after 25 years
+
+--- Extra Information ---
+I like to make maps. Because I only play multiplayer games nowadays, 
+I don't have the patience to make a scenario.
+Anyone who wants to make one, please feel free to do so under your own
+name...
+
