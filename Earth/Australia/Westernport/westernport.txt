@@ -1,0 +1,30 @@
+Westernport - version 2 (January 2003)
+
+Author: Peter Bennet - Melbourne, Victoria, Australia
+email: bennet.peter.j@edumail.vic.gov.au
+
+Starting year
+Min: 1880
+Default: 1880
+Max: 1920
+
+Map size: 400 x 300
+Location: Westernport Bay, south-east of Melbourne, Victoria, Australia
+Map base: from a satellite photo found on the web
+Version: TSC
+
+Restrictions: based on a government rail system, so no stockmarket trading or shenanigans
+SP/MP: designed for single player
+
+Win conditions (in 30 years)
+Bronze: connect Melbourne to Morwell
+Silver: as above, plus connect Melbourne to Sorrento and carry 20 loads between; no debt
+Gold: as above, plus connect Melbourne to Wonthaggi and carry 20 loads between; no debt
+Loss: none of above in 30 years
+
+Version 2 notes: A lot of changes, including making the medals work (!). 2 versions of the game, selectable in the initial window: an easy one beginning in 1880, and a somewhat harder version beginning in 1920 and restricted to electrical traction (there is extra startup cash to compensate for higher tracklaying costs). The original version was much too easy, so this one has been tightened up a lot - eg no borrowing, you have to earn it! More extensive reporting through status window, too, and more events. Found out some interesting things, such as that logging camps only appear if you plant certain types of trees (the piney-looking ones). Thanks to people who gave feedback!
+
+Version 1 notes: This is my first map ... it's moderately realistic, although some of the terrain is deduction from road maps as I couldn't find a suitable topographic map (the original satellite photo was coloured by land-use, so there were some funny effects when it was imported). It's not too hard - just remember it's a largish map, so it will take a lot of time for those 20 loads to get through.
+The order of the game is pretty much determined by the goals; start in the NW corner, then go for Morwell, then Sorrento, then Wonthaggi. You can start either at the default date, or in the 20s when electric power becomes worthwhile; carrying coal to the power stations at Morwell reduces the cost of electricity to run trains. Connect in plenty of time - it takes ages to get from corner to corner! There are several alternative paths available for the long-distance routes. The steel mill at Long Island is a good little earner, although not required to meet goals.
+
+Feedback welcome!

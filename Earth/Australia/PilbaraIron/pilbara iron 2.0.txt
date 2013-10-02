@@ -1,0 +1,52 @@
+Pilbara Iron 2.0 (March 2003)
+
+Author: Peter Bennet - Melbourne, Victoria, Australia
+email: bennet.peter.j@edumail.vic.gov.au
+
+Starting year: 1964 (compulsory)
+
+Map size: 381 x 500
+Location: Pilbara Ranges, north-west coast of Western Australia
+Map base: topographic atlas (traced in Photoshop)
+Version: TSC
+
+Restrictions: 
+Issuing stock
+Becoming chairman of another company
+Starting multiple companies
+Penalties for company debt (including cash) over $2M.
+
+SP/MP: designed for single player
+
+Win conditions (in 30 years)
+Bronze: 2 victory points, no debt at end, $5m company book value
+Silver: 4 victory points, no debt at end, $20m company book value
+Gold: 6 victory points, no debt at end, $40m company book value.
+Loss: <2 points or <$5m CBV or debt at end; losing control of company or becoming bankrupt
+
+Victory points: as in reality, you have to build the 3 iron routes:
+	Pannawonica to Wickham
+	Tom Price to Dampier
+	Newman to Port Hedland
+Each earns $1m and 2 victory points - half on completion of line, and the rest when 200 loads have been transported between the terminal territories. Any order.
+There are benefits from carrying lots of iron ore, as well as sundry penalties and bonuses as the game proceeds.
+
+Notes - V1: Topography should be reasonably accurate, although the rivers were a bugger! The events follow history with some accuracy. Transport of iron ore in the Pilbara is one of the biggest rail movements in the world, with 3 separate companies each running dedicated lines (2 recently merged to capture some obvious savings by reducing duplication) over hundreds of kilometres to the coast. Equipment is mostly US loading gauge and pattern, and therefore incompatible with the more modest standards of the rest of the country - from which it is separated by vast empty (from an industrial/capitalist point of view) spaces. See good website at
+http://www.railways.pilbara.net.au/pilbararail.html
+
+
+Notes - V2.0: fixed up known bugs, better industry distribution, shortened game to 30 years, shifted timescale to cover more interesting real events, improved topography, dropped Perth connection for gold (but still there for $2M bonus if you don't know what to do with your money!). Improved events - watch out for cyclonic flood damage at river crossings, and other things which can remain surprises - but think in terms of the area's idiosyncracies.
+
+My vision for this scenario was about building and running a reasonably realistic iron ore transport system, so I've blocked, restricted or booby-trapped the robber baron stuff. If your company debt goes over $2M, including negative cash, you will pay. I suggest you don't change companies or go bankrupt ... try if you wish. But you have been warned!
+
+Industry distribution I have allowed to vary a fair bit; some combinations are easier than others. If it's not paying, try restarting - it helps a lot if you can produce food in that NW corner. There are worthwhile bonuses for large-scale iron transport.
+
+Design: I tried to remain faithful to the area's geography and history. There are a couple of glaring deviations: in reality no passengers or other goods are carried (had to leave them in to simplify making money) and the local industries had to be boosted (for profit and interest). Spent a lot of time trying to make said industries behave sensibly; the game interprets industry percentages very liberally, and I had to end up pre-building the ports to ensure they are present. Had a lot of fun with the events - I think they all work. Beware of river flooding and bridge damage.
+
+Many thanks to Mr Mathy for testing and constructive comments.
+
+Feedback welcome! Is it too hard, too easy, too boring? Anything didn't work?
+
+Have fun ...
+Peter Bennet
+bennet.peter.j@edumail.vic.gov.au

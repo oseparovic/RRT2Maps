@@ -1,0 +1,30 @@
+v2.0 fixes:
+Bringing this from testing to distribution I forgot to reset the following variables:
+>Players will now lose if their Player Net Worth dips below $10,000, instead of $100,000.
+>Players may now change the competition.
+
+This is an accurate map of Antarctica today.  All of the Topology, Geography, Elevations, Seas, Oceans, Research Stations, Ice Flows, and Dimensions are perfectly represented as they are in real life.  The Towns and Cities are based on the size of the actual Research Stations.  Pick up a Research Map of Antarctica, and you'll find everything in my RR2 map.
+
+To win the Gold, you need a Player Net Worth of $1 Billion & a Company Book Value of $1 Billion.  This may sound difficult, but if you start before 1850, it's attainable.
+
+This scenario depicts current day Antacrica in 1825, after the Hole in the Ozone has become so siginificant, that warming at the South Pole has moderated the weather.  All regions quite lush and green except at the highest elevations.
+
+Watch for the robbers, they're very unique!
+
+Check your competition.  If it is too difficult, change them to easier characters, or have less.
+
+Play at Expert Level!  You won't have as much fun if you don't!  There are lots of triggers, all very realistic.  Watch for them!
+
+Please try my other map "Antarctica - Real" for a much more difficult and much different experience.
+
+To install:
+Copy the .MAP file to your Railroad Tycoon II\Maps dirctory.
+
+FYI:  Over 70 hours went into the making of this map.
+Questions or comments:
+
+-Jeff Pinard
+-jpinard@voyager.net
+
+
+All rights reserved.  Distribute freely, but please credit my name where posted (Jeff Pinard or jpinard@voyager.net).

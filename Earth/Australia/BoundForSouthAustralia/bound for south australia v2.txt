@@ -1,0 +1,41 @@
+Bound for SOuth Australia: version 2 (january 2003)
+
+Author: Peter Bennet - Melbourne, Victoria, Australia
+email: bennet.peter.j@edumail.vic.gov.au
+
+Starting year
+Min: 1836
+Default: 1856
+Max: -
+
+Map size: 380 x 500
+Location: South Australia (centre & south-east of state)
+Map base: topographic map
+Version: TSC
+
+Restrictions: 
+SP/MP: designed for single player (but should suit multiple use)
+
+Win conditions
+Bronze: Have 50 game points at 40 years (see below), no debt
+Silver: Have 75 points at 40 years, no debt
+Gold: Gain 100 points anytime, no debt
+Loss: <50 points or debt at 40 yrs 
+
+Version 1 notes: Accuracy in topography and history was an important aim for me here. South Australia was settled by Europeans in the 1830s; the first railway was built in 1856, linking Adelaide (the capital) with its port (hence the game's start date). The State quickly became a major producer, first of wool and wheat, and then of minerals such as copper, silver, lead and zinc. A large number of immigrants from Germany began the now world-famous wine production industry, with the main areas reflected in the map. More recent history has seen the exploitation of uranium and oil resources as well, but you won't see those unless you play the game late.
+
+The game is based on this pattern of development. Game points are awarded as follows:
+* For each year in which at least 20 loads of minerals are hauled (iron, coal, gravel, bauxite, uranium, oil): 1 point
+* For each year in which at least 10 loads of wine (alcohol) are hauled: 1 point
+* For each year in which at least 10 loads of grain are hauled: 1 point
+* For each year in which at least 10 loads of wool are hauled: 1 point
+* For connecting Adelaide with each of these towns, 2 points: Leigh Creek South, Mt Gambier, Port Lincoln, Broken Hill.
+There are also bonus points for completing tasks during the game.
+
+You could of course just shift these loads to the nearest station ... but the intention is to take them to a legitimate destination! Wool and grain can be taken to ports for export, as well as to the normal destinations. There are lots of places you can start - try Whyalla/Port Augusta, Adelaide, Coonawarra. It can take a surprisingly long time to get the system busy enough to reliably deliver enough loads, so don't muck around! Watch out for bottlenecks, too. Have fun!
+
+Version 2 notes: A lot of fiddling with settings to make a challenging game. It's not hard to run a company or make money, but it is hard to keep enough of those loads rolling year after year. So the game is about running a large and above all EFFICIENT rail system.
+
+The biggest trap is bottlenecks. It doesn't take long to get enough trains and sources - but I often was dismayed to find dozens of trains stacked up waiting to get into a destination, and no loads getting through. So take care in planning your routes around ports, mills etc - you'll often need multiple stations and clever tracklaying. The AI isn't into this kind of thing so computer companies are little more than a nuisance.
+
+Feedback welcome!

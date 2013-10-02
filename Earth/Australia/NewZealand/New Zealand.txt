@@ -1,0 +1,41 @@
+Map: New Zealand
+Version: 1.0
+Creator: Veit Irtenkauf
+
+Welcome to New Zealand, one of the most beautiful countries on this planet!  I hope you
+will enjoy this map -- please provide me with feedback, esp. with suggestions -- I'm
+still learning!
+
+
+Please copy this map into the MAPS folder in your RRT2 directory
+
+
+This map is a pretty accurate map of New Zealand, with the geography and topography modeled
+as closely to the original as possible.  I also tried to place the right industries into the
+right regions.
+
+
+Victory conditions
+------------------
+Gold:  Get $20M in 25 years
+Silver: Get $10M in 30 years
+Bronze: Get $5M in 30 years
+
+
+Tips
+----
+You will find that it is very costly to lay track in this map.  Try to find flat parts
+and get your basic industries running before crossing the mountains and hauling freight
+over long distances.
+
+
+Upcoming releases
+-----------------
+Currently, you can go whereever you want -- there are no borders.  I'm currently working
+on a version with borders where you have to buy your ways into various territories.
+Starting your railroad in the right place will be more important than ever.
+
+
+For any suggestions, please email me at veit@nbn.com
+
+Check for updates to this map at http://www.veitland.com/rrt2

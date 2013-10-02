@@ -1,0 +1,42 @@
+Port of Melbourne V2.0: March 2003
+
+Author: Peter Bennet
+bennet.peter.j@edumail.vic.gov.au
+
+Starting Year
+Min: 1850
+default: 1900
+max: -
+
+Map size: 102 x 59
+Map base: scanned the street directory!
+Territories: no
+Restrictions: no bankruptcy 
+Players/managers/engines available: all
+
+Single player game
+COmputer players: min 0, max 4
+Gold: carry 100+ loads of products within a year, $10M in industry profits
+Silver: 75 loads, $5M industry profits
+Bronze: 50 loads
+Loss: <50 loads or debt at end
+All within 20 years; company must be debt-free at end.
+
+Multiplayer: not designed for MP
+
+Notes
+What I was after here was a smallish map that demands good coordination and an efficient setup. It's easy to run a successful company here - lots of supply and demand close together - but to move enough loads within a short space of time demands more careful thought!
+
+You get no points for moving raw materials, passengers or mail - though you still get paid and you'll have to start with the latter to get some money going. Credits are gained for carrying products - ie, timber (lumber!), steel (double points), goods, cars, tyres, cement, food, paper, fertiliser, aluminium, diesel, alcohol. 
+
+Your credit rating will suffer if you're caught owing more than $2M - including cash debt. I didn't design this with financial funny business in mind, so it might not work well playing that way.
+
+The map is tweaked to work well at the default year; it tends to get harder as you move earlier or later. In concept there are no competitors but they're handy for making it more challenging.
+
+The map is based on the real Port of Melbourne and the industries of the suburbs, although I had to be a bit liberal with placing raw materials and factories to get enough in. At the time the map is set rail was the only viable transport, and if you go to the older suburbs you can still see old rails set into streets and close to every factory. All now killed by economics, of course; a modern map would have to be based on bulk movement of just a few materials such as grain or steel.
+
+Playing tips: Loco choice can be crucial here, as speed is important but a breakdown on a busy artery can be fatal. Steel and/or aluminium are crucial because of the other products they enable, as well as they points they earn in their own right. Some stations will become very busy - if possible place them so that express through lines can be added later to bypass them. Don't forget to buy industries as they become profitable.
+
+Have fun; I'd be glad of any feedback. (Thanks to SB who hated it deeply but still made some pertinent comments.)
+Peter Bennet
+bennet.peter.j@edumail.vic.gov.au

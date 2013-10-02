@@ -1,0 +1,62 @@
+Victorian Railways V1
+
+Author: Peter Bennet
+bennet.peter.j@edumail.vic.gov.au
+
+Starting Year
+Min: 1845
+default: 1850
+max: -
+
+Map size: 500 x 306
+Map base: South-east Australia, topographic map
+Territories: yes (list at end of notes)
+Restrictions: no buying short and selling long (or is it the other way around?) 
+Players/managers/engines available: all
+
+Single player game
+COmputer players: min 0, max 4
+Gold: 60 points (see below)
+Silver: 45 pts
+Bronze: 30 pts
+Loss: <30 pts
+All within 30 years; company must be debt-free.
+
+Multiplayer: not designed specifically for MP
+
+Notes
+Victorian Railways did, of course, actually exist for over 100 years as the government-owned rail system for the Australian state of Victoria. In latter years it was known as VicRail and V-Line before being broken up and sold off to private interests in the 1990s. It is of little comfort to us now that this is not proving to be a very successful arrangement!
+
+This is a reasonably accurate map covering Victoria, a fair bit of New South Wales and a smidgin of South AUstralia. To get it I scanned a topographic map, traced the contours in Photoshop (using layers), filled them with shades of grey and blended the boundaries to get smooth transitions. A lot of work, but it makes a very satisfactory base for RRT maps. (A good trick is to trace the rivers with Photoshop's burning (darkening) tool - it's then dead easy to build the river along the resulting groove with the RRT editor, then level the banks to leave just a slight depression on either side.)
+
+Victoria's economic and historic development was very strongly centred on Melbourne, and the game models this. Your task is to build up the state's transport system and carry large numbers of loads between Melbourne and the rest of the state. You score points for doing this, with loads coming from greater distances scoring proportionately more value. For example, it takes about 44 loads between Melbourne and Geelong to earn a point, but only 4 between Melbourne and Sydney. It takes a while to build up, but later in the game they increase quite rapidly.
+
+Because of an apparent inability in the game's variables to cope with fractions, you actually get no points until you are over these threshold values. Be patient; as your load totals increase you get full credit!
+
+Points are accrued for loads between Melbourne and other defined territories. However, just so that things don't get out of balance, you need to build your system through country Victoria as well. You get no points for this, but you need the raw materials to support the industries in the territories.
+
+Watch out also for droughts, bushfires, depressions, ravening invertebrates, greedy governments and the rest. They can be nasty!
+
+Feedback welcome. Have fun!
+
+
+	Territory	Approx loads per point (to & from Melbourne)
+
+1	Victoria		-
+2	Melbourne		-
+3	Geelong			44
+4	Ballarat		29
+5	Bendigo			23
+6	Echuca			16
+7	Wodonga			11
+8	Mildura			7
+9	Bordertown (SA)		7
+10	Mt Gambier (SA)		8
+11	(not used)		-
+12	(not used)		-
+13	Sydney (NSW)		4
+14	Orbost			9
+15	NSW (except Sydney)	11
+16	South Australia		7
+17	Swan Hill		9
+

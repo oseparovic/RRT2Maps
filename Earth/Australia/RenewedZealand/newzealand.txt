@@ -1,0 +1,54 @@
+RENEWED ZEALAND
+
+Version 1.11 - July 2000
+by N. S. Bennett
+
+
+RENEWED ZEALAND is a short scenario, running from 2010 through 2025. You must help rebuild the nation following a major earthquake and a series of devastating tsunamis in 2008. Your goal is to move cargo to assist the reconstruction effort; passengers and mail are profitable, but they don't count toward the tonnage you must transport.
+
+As New Zealand Rail is a national railroad -- essentially a subsidiary of the government -- its stock is not publicly traded. You will not be able to play the market or raise money by issuing stock. There are no competing AI companies and you can't resign to start a new company, so you won't miss anything by not being able to buy and sell stock. You may issue bonds if need be, but all company debts must be paid off in order to qualify for any medal win.
+
+New Zealand boasts significant mineral reserves but no fossil fuels. While coal mines are thus arguably inappropriate for this scenario, they are included as a concession to the game's industry model (it was either that or use ports). Within the logic of the scenario, if you will, either circumstances demand that all the coal must be dedicated to powering cities and industries, or else it isn't really coal at all but instead represents some other mineral that's actually mined in New Zealand. Either way, the practical effect you must deal with is that New Zealand Rail is restricted to buying electric locomotives which can draw their power from those hydroelectric dams that survived the Big Shake of Aught-Eight.
+
+Note that there is no prohibition against laying unconnected track. If the distribution of industries at the outset of a game is unfavorable, you may find it advantageous to build simultaneously on both the North and South Islands.
+
+
+
+Win Conditions
+
+To win any medal, New Zealand Rail must be free of all debt.
+
+BRONZE - connect Auckland to Christchurch
+
+SILVER - transport a total of at least 400 loads of aluminum, coffee, concrete, diesel, food, goods, lumber, and steel
+
+GOLD - ship at least 20 loads of freight to each of the following cities:
+Taupo, Tikitiki, Hokitika, Christchurch, and Invercargill
+
+
+
+Version History
+
+0.1B
+My intent from the outset was to create a short scenario, but it was soon apparent that 20-30 years would probably be necessary for the average player to build up the necessary funds to expand throughout both the North and South Islands.
+
+0.2B
+In order to speed up the expansion of New Zealand Rail, events were slanted toward increasing revenue and providing major subsidies at several points during the game. Cranked up engine purchase prices to keep things from getting too lopsided.
+
+0.3B
+Noodled around with win conditions and industry distributions. Deleted a couple of extraneous events that needlessly broke into the Zen of watching over one's trains.
+
+0.4B
+New Zealand Rail's starting cash was upped to five million dollars to allow connections to multiple cities with multiple locomotives at the outset and make a Gold win less difficult. Final playtesting.
+
+1.0
+First public release.
+
+1.1
+Added requirement that NZR be free of all debt in order to win any medal. Reduced connection bonuses. Thanks to Steve M. for pointing out the need to include an incentive to run a profitable railroad!
+
+1.11
+Changed Silver from 400 loads of nonspecific freight to 400 cars of the eight loads named above, again in the name of encouraging the player to route freight in an efficient, profitable manner.
+
+
+Suggestions, questions, and comments may be sent to nsb@teleport.com 

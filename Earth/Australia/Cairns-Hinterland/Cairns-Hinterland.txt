@@ -1,0 +1,31 @@
+********************************************
+* New Scenery For Railroad Tycoon II Fans  *
+********************************************
+
+The accompanying Cairns-Hinterland.MAP file is an artistic reconstruction 
+(from local memory and knowledge of these lines and terrains) of the 
+infamous Kuranda Railway which is on the itinerary of nearly every 
+tourist who comes to that region.
+
+This map has been constructed so that you can only get inland 
+by going up the Kuranda Range from Redlynch to Kuranda to Biboorah to Mareeba.
+
+In this scene, there are certain places that you can only get across the river systems 
+because of the way the rivers are constructed.
+
+This is one of the challenges. Don't get frustrated but take things easily 
+and test, test, test those gradings.
+
+Also you should be able to construct the inland line from Redlynch 
+without using a grade over 4.0 . If you grade colour indicator 
+goes into the red, you know you are not on the intended rail routing.
+
+I would suggest that the coastal system be developed first, 
+as you will need some huge funds to construct this system to Mareeba and beyond.
+
+Enjoy!
+
+William Kolln
+Sydney, Australia
+(Born in Mareeba NQ)
+wkolln@cia.com.au
