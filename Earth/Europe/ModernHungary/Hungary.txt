@@ -1,0 +1,30 @@
+--- General Information ---
+Full Map Title : Modern Hungary
+Author : Boronkay,Gábor
+
+Copyright Info. : Boronkay Gábor 2001
+Distribution : Freeware, modify at your discretion (ie Multiplayer, Campaign, etc)
+
+
+Usage Restrict. : No Restrictions
+
+--- Vital Statistics ---
+Starting Year : 1920
+Start Range : 1846 to 2002
+Map Size : 500 * 307
+Map Base : New Map 
+Topography Base : Central Europe
+Territories : Yes
+Map Restrictions: None.
+Special Restrct.: Unconnected to any track laying, unconnected to your company lay tracking
+Barred Industry : coffee farm, cotton farm, rubber farm
+Player Pool : europe
+Manager Pool : All
+Locomotive Pool : individual restrictions
+
+--- Single Player Data ---
+Single Player : Scenario
+Computer Players: Yes (1 opponent)
+There is no goal
+
+Email feedback to boronkay.gabor@freemail.hu

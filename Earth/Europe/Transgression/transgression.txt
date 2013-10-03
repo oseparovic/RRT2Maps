@@ -1,0 +1,30 @@
+--- General Information ---
+Full Map Title: Transgression
+Version: 2
+Author: Valeriano Martin (dienbienphu@jazzfree.com)
+Date: April, 2000
+Usage Restrict: No restrictions
+
+--- Vital Statistics ---
+Starting Year : 1916
+Map Size : 500x420
+Map Base : Middle Danubian basin from USGS GTOPO30 model
+Territories : 10
+Map Restrictions: Connect to existing track, Amortize bonds, Buy back stocks, Remove president
+Special Restrct.: None
+Barred Industry : None
+Player Pool :  All
+Manager Pool : All 
+Locomotive Pool : All
+
+--- Single Player Data ---
+Single Player : Scenario  
+Computer Players: 1-10
+SP Gold Win : Bronze and silver requirements + Company value of 800 millions and personal value of 150 millions before 1986
+SP Silver Win : Bronze requirement + Company value of 500 millions before 1966
+SP Bronze Win : Highest company value before 1936
+SP Loss : Not achieving bronze requirement
+
+--- Multi-Player Data ---
+Multi-Player : N/A
+

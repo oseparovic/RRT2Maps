@@ -1,0 +1,36 @@
+Munich Metro.mp2
+
+	Note: this was one of the original campaign maps from
+Railroad Tycoon II: The Second Century (campaign pt. 11, #e11camp.mp2)
+
+
+  Changes:
+1)  removed the "CampaignChoice1To3=" and "CampaignDifficulty1To3=" events
+
+
+
+  Goals (unchanged from campaign):
+Bronze - company book value of $5,000,000 by 1999 and connect to downtown Munich
+Silver - company book value of $10,000,000 and an average lifetime track speed
+	     of 65 mph
+Gold   - Bronze + Silver, and personal net worth of $10,000,000
+
+
+
+				DISCLAIMER:
+
+	Use of this map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II" is copyright 1998 PopTop Software and
+	copyright 1998 Gathering of Developers
+
+	PopTop Software - http://www.poptopsoftware.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+the Roundhouse -- http://members.xoom.com/1_nightwolf/index.html
+July 13th, 1999

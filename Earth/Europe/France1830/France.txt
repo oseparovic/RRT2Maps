@@ -1,0 +1,43 @@
+An homage to France
+
+			   Daniele and Andrea's Scenario of
+		   _____  ______       __      __   _     ____     ______
+		  | ____| |  _  \     /  \    |  \ | |   / __ \   | _____|
+		  | |___  | |_|  |   / /\ \   |   \| |  / /  |_|  | |____
+		  | ____| |  _  /   /  __  \  | |\   |  | |   _   |  ____|
+		  | |     | | \ \   | |  | |  | | \  |  \ \__| |  | |____
+		  |_|     |_|  \_\  |_|  |_|  |_|  \_|   \____/   |______|
+
+Friday, 16 April 1999
+
+To make this Scenario we took a long time, as we wanted to create a whole new France, different
+from the map you find in the game.
+Initially we got the map from an Encyclopedia, then we transformed it into a grey scale image, 
+with 5 tones of grey; Spain, Italy and Germany weren't on the map, so we had to invent them by 
+getting the indications from an atlas. We also tried to follow the real geographic features and 
+the distribution of the resources. There are the industrial area of the Rühr, the farm area in 
+the Vallée de la Loire, the woods are in the Alpes and in the Pirenées and the mines are in the 
+Massif Central and in the Rühr.
+
+The scenario has also some elements of real history: the "Carlist" war in the Spanish Peninsula 
+will forbid building in Spain for six years; the 1948 revolution  will create problems in the 
+goodwill rate and so on.
+There are also some easter eggs, but we are not going to tell you. You surely are clever enough 
+to find them in the editor....
+
+This scenario has victory conditions: 
+Start: 1830
+Gold - Connect Marseille to Köln before 1850
+Silver - The same within 1860
+Bronze - The same within 1870
+
+We can tell you that the gold is really difficult to get if you set the game on the top levels 
+of difficulty.
+We hope you will enjoy playing this scenario; the next one should cover Central Italy (we are 
+Romans)
+
+This Scenario is FREE, don't pay who wants to sell it to you.
+
+Daniele and Andrea,
+E-mail: mcpepe@geocities.com
+Railroad Tycoon Site: http://www.geocities.com/Paris/Palais/1933/rt2/rt2.htm

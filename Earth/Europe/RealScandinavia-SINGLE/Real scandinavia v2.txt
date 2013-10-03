@@ -1,0 +1,39 @@
+                        Real scandinavia v.2
+
+
+This is my secound attempt to make scandinavia more realistic, and with more detajls. All major
+lakes,rivers and mountains are added. More than 250 towns and cityes are added.
+So, in this map it is a possiblity to have 9-31 oponents.
+The industri has been created allmost as it is in the real life.
+The new issue in this version its the events. 321 events(happenings) has been added to the map.
+The map has been like a champaign. But it is 70% more happenings here than it is at the whole rr2cd.
+All the events has been created as a history book. All the seriouse things who happend between 1814-(1996)2014 has
+been added.And all effects has been changed after the happenings.Eks: A general strike-all and productions stops!
+The first and second war its added with a high detaji news from the wars.
+The map will not be easy to win, and that was my ability. You must learn about the history, and manage
+your companyes visely. Not make the same mistake as many seriouse peouple did throw the history.
+
+The big challenge its to make a railroadtrack over the mountains in 
+the southern part of Norway, as it is in real life. Its many big mountains
+to cross, so its not gonna be easy. The real track goes from Oslo-Finse
+(highest station in the northern part of europe)-Bergen.
+
+Installation:
+
+Unzip the zip-file into your MAP directory in Railroad Tycoon2.
+Exs: C:\railroadII\maps
+Now you can start railroad2, and load the scenary.
+
+I hope you will enjoy it,and don't forget to vote on it!!
+
+Thanks to Terry Sohl, he created the picture i needed!!!
+
+Attention! This is not a multiplayermap! Please use the Real scandinavian v.1
+to play online!
+
+
+Einar H Bendigtsen
+ebendigt@online.no
+
+
+

@@ -1,0 +1,56 @@
+"Railroad Tycoon 2: The Second Century"
+
+Scenario "eastern europe.mp2" (Eastern Europe) - fixes
+
+
+1) un-disabled Tire Factory (and discovered there were already
+	several cities set up to have one)
+
+2) set for default European engines
+
+3) fixed computer starting cash (supposed to be +70K for all computer
+	opponents, was set for multiplayer only)
+
+4) undisabled Nuclear Plants, Uranium Mines, and Landfills, made sure
+	they were set up in the various regions and cities
+
+5) fixed various reserve cells
+
+
+
+
+   To use this fixed scenario map, simply copy it into your maps directory
+("\Railroad Tycoon II - TSC\maps") on your hard drive, overwriting the map which
+came with the game.  The filename is exactly the same, and your game should
+have no problems recognizing it. In order to use this updated map, you'll
+have to start it all over again - any save game of this map will not be fixed
+by this update.
+   I have play-tested this map, and it seems to run fine, no problems or errors.
+   Only those problems mentioned were fixed - nothing else has been done to
+the map; all territories, cities, and conditions are exactly as they are in
+the map that came with the game.
+
+
+
+
+
+				DISCLAIMER:
+
+	Please note that these changes have been authorized by PopTop Software
+	or Godgames (Gathering of Developers), though I do not work for either
+	company, nor am I being compensated in any way for this campaign fix.
+
+	Use of this fixed map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II: The Second Century" is copyright 1999 PopTop Software
+	and copyright 1999 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+August 9th, 1999

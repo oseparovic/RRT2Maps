@@ -1,0 +1,29 @@
+Map:			Iceland
+Author:			Thomas Ekwall
+type:			Scenario
+E-Mail:			ekwall@infomaniak.ch
+Time Spent:		about 5 hours
+Version:		1.0
+Game version used:	Railroad Tycoon II European version 1.03
+
+----------------------------------------------------------------
+
+Comments:	This map has been created from a real image of 
+		Iceland. Rivers, snow areas and grasslands have
+		been placed by myself trying to respect reality.
+		No city names have been invented. I have edited
+		victory conditions and events to give some spice
+		to the game.
+		If you encounter any problems during your
+		game, don't hesitate to mail me, thanx :)
+
+
+Copyright:	You are only allowed to reedit this map if you send
+		me a mail with a copy of the modified map. You are 
+		allowed to distribute this map as you wish, as long 
+		as it's in a non-commercial context.
+
+I hope you'll enjoy the game :)
+
+						Thomas
+ 	

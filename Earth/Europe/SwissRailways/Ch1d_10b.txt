@@ -1,0 +1,23 @@
+Die Schweizer Eisenbahnen.
+
+Diese Railroad Tycoon 2 Karte gibt einen historischen 
+Überblick über die Geschichte der Schweizer Eisenbahnen
+von vor der Gründung 1843 bis zur Gründung der SBB
+im Jahre 1898.
+
+75 Events, teils historisch begründet, teils weitläufig 
+an die Geschichte angeleht, lockern das Szenario auf.
+
+Die vorliegende Version 1.0 Beta wurde nur grob auf Fehler
+geprüft.
+
+Umstimmigkeiten oder Verbesserungsvorschläge bitte an
+Thomas.Roedel@munich.netsurf.de.
+
+Eine englische Version ist ab V 1.1 vorgesehen.
+
+Special Thanks to Carole, for the wonderful map
+Switzerland v 1.0.
+
+Viel Spass.
+TOM

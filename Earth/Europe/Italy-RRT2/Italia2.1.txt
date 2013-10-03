@@ -1,0 +1,49 @@
+ITALY.MAP
+
+by Alex Cucchiaro and Marco Stefanutti
+
+for info, remarks, ecc... contact us at: 	stefanutti@dgt.uniud.it
+
+We began Italy.map on the 3rd of January 1999. One on PC and the other on the atlas. We could work only at the weekends and... we didn't know it would take so much time!
+We used a 200 factor for elevating the mountains: that's the reason why you see very high mountains, and why we spend so much time in smoothing terrain! It will be very difficult to make the railways reach the Alps passes without overcoming a 2% slope! In fact in the past in the Alps a lot of the most long tunnels in the world were excavated.
+We introduced the most important cities of Italy and of the near nations, respecting the real industrial configuration. You may find that there are too many cities, but the criterion we used was to place all of the italian province chief towns according to this rule:
+
+	Population		Size
+
+	<25000			Village
+	<50000			Town
+	<200000		City
+	<1000000		Metropolis
+	>1000000		Megalopolis.
+
+Moreover we have enlarged many valleys in order to make the main railway lines pass; for this reason you can see that the nation boundaries aren't very precise.
+
+If you find serious problems in connecting two cities following a real path, please inform us. If you like to change some idea about Italy.map and RT2 in general, please contact us.
+
+We hope you enjoy Italy. Many people in the world would like to visit Italy: for them this map gives the occasion to see a simplified Italian landscape: from the snow on the Alps, to the cactus in Sicilia!
+
+We thank Slap for his advices, and all the RT2 fans who choose this map to play with.
+
+
+		Alex Cucchiaro & Marco Stefanutti
+
+
+
+History
+
+10/02/99 ITALY 1.0
+The first version of Italy is realased. There are more than 200 cities and 16 nations in this scenario. No particular events in this version: we are working to introduce and, most of all, to test some event concerning the history of italian railroads.
+
+17/02/99 ITALY 2.0
+This version includes lots of events concerning the history of Italy and of its railways. Read the newspapers! You may find occasions to gain some bonus, or you may understand the reasons why strange things in economy and in security are happening....
+Switzerland terrain has been improved and the location of some city has been corrected; some industrial configurations were fixed, thanks to the remarks somebody made us.
+Some valleys were enlarged or the terrain was lowered where it was too difficult to construct a railway.
+
+08/03/99 ITALY 2.1
+Since Italy.map has won for 4 times the Slap award as the most voted map in the world, we release an improved version: Italy 2.1.
+You can find more than 70 visible and invisible improvements, that make Italy more realistic and more playable. 
+Italy is very poor of mineral resources: however the probability of finding coal and iron mines has been increased in order to make it possible to produce steel more easily than in Italy 2.0.
+The production of ports has been fixed so that you may find what's missing in Italy (Rubber, Coffee, Oil, Cotton).
+In some places it's been necessary to level terrain because it was too difficult to build a railway line.
+A great bug in the year 1993 has been fixed (too many trains exploded!) and some event has been added.
+We thank all the players who contacted us and gave us suggestions to make Italy one of the best maps of RT2!

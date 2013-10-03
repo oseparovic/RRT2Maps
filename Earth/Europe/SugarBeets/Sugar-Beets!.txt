@@ -1,0 +1,27 @@
+Scenario "Sugar-Beets!" for Railroad Tycoon II - The Second Century
+Map by Lars Maischak, lama@zedat.fu-berlin.de
+
+General:
+The aim in this scenario is to transport sugar-beets on a small, privately owned railway in rural Lower-Saxony during harvesting time in 1985.
+
+Restrictions:
+In this scenario, time is counted by days, not years.
+Only a limited number of certain loads is available at some stations.
+Tracks and engines cannot be built/bought; you have to work with what you get in the beginning. Engines can crash.
+You may not go to the stock-market, but your shareholders can fire you. Make use of managers to keep your companies finances sound.
+
+Players:
+Single player only.
+
+Timeframe:
+September 15 through 30 (1985)
+
+Victory conditions:
+BRONZE:	Transport 60 loads of sugar to Eystrup by the end of September 30.
+SILBER:	Transport 70 loads of sugar to Eystrup by the end of September 30.
+GOLD:	Transport 80 loads of sugar to Eystrup by the end of September 30;
+	also, transport 4 loads of goods to Bruchhausen-Vilsen and Hoya.
+
+Remarks:
+You can find some remarks on the background of this scenario in the "briefing".
+For a strategy, remember that people in the countryside help each other, even if that does not pay off immediately.

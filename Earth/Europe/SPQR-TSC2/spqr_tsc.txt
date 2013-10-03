@@ -1,0 +1,53 @@
+"SPQR_tsc.mp2"
+
+Adapted for TSC from the original RT2 map "SPQR.map".
+
+Original "SPQR" map from RT2 done by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad -- http://home.earthlink.net/~rrtii
+
+
+Changes:
+
+1) Frequency - set to "Monthly (Beginning)" instead of "Scenario"
+
+2) checked capitalization on triggers
+
+3) changed name on "Zauces" territory to "Carthage"
+
+4) trigger - checked button for "Single Player"
+
+Note that these changes are necessary to run this type of map (letting the
+player choose which country to start in) in TSC... it runs fine as originally
+set up in RT2.
+
+
+Everything else is unchanged from the original.
+
+Thanks to Ronald Albrecht for pointing out the problems running this one in TSC.
+
+
+
+
+				DISCLAIMER:
+
+	Please note that these changes have been authorized by PopTop Software
+	or Godgames (Gathering of Developers), though I do not work for either
+	company, nor am I being compensated in any way for this campaign fix.
+
+	Use of this fixed map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II: The Second Century" is copyright 1999 PopTop Software
+	and copyright 1999 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+the Roundhouse -- http://members.xoom.com/1_nightwolf/index.html
+September 8th, 1999

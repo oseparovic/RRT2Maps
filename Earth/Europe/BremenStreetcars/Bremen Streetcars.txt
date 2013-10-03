@@ -1,0 +1,37 @@
+"Bremen Streetcars" - a map for Railroad Tycoon II - The Second Century
+By Lars Maischak, lama@zedat.fu-berlin.de
+
+
+General:
+The aim in this map is to build a streetcar network in the city of Bremen, Germany, at the beginning of the 20th century. The map represents the geography of that place more or less acurately.
+
+Restrictions:
+This is a metra-map.
+From the beginning, only electrical engines will be available.
+Track has to be connected to one's own line.
+
+Players:
+Single player + 2 computer players; or
+up to 3 players in multiplayer-mode.
+
+Timeframe:
+1900 - end of 1920
+
+
+Victory conditions:
+Single player:
+BRONZE:	Build a line and transport 200 loads into Downtown.
+SILVER: Also connect the airport and the suburb of Horn.
+GOLD:	Also connect the suburbs of Gröpelingen and Sebaldsbrück.
+
+Mutiplayer:
+GOLD:	Connect one of the suburbs Horn, Gröpelingen, or Sebaldsbrück, or the airport, with Downtown, and transport 20 loads between one of the above territories and Downtown.
+If no player reaches this aim by the end of 1920, the player whose company has transported the most loads will get SILVER.
+
+Territories:
+In SP and MP games, you will get access to Downtown only once your company has hauled 200 loads. In MP, access to Downtown then can be bought; in an SP game, it will be free.
+Access rights to all other territories have to be bought.
+
+Remarks on the history of streetcars in Bremen:
+The Senate (i.e. the State Government) of the Free and Hanseatic Town of Bremen was initially opposed to building a streetcar line Downtown. They feared that the mediaeval city-scape would be disfigured by the intrusion of modernity in the guise of overhead wire.
+This conservative notion was especially odd since on the other hand, Bremen had been the site of a world exhibition in 1890, where a prototype streetcar line had been operated between the main railway station and the commons.

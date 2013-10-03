@@ -1,0 +1,25 @@
+Black Sea Basin
+Map for Railroad Tycoon II TSC.
+version 1.1
+
+
+The Black Sea has been drained.
+Now with your meager investment you must dominate
+the railroad industry.
+
+Yes, you only start with 75k of investment.  The computer
+players get a jump on you.  Now you must come back.
+
+
+version
+-------
+ 0.0  Beta
+ 1.0  10/23/99  First Release
+ 1.1  10/24/99  Added port city to Turkey plus added port possiblities
+      for other Turkish cities. 
+
+  
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

@@ -1,0 +1,24 @@
+Map "German-American Trade" (English translation of "Amerikahandel") for Railroad Tycoon II - The Second Century
+By Lars Maischak, lama@jhu.edu
+
+General:
+The aim in this map is to build a railway from Bremen to Bremerhaven and Hannover, in the 19th century.  Additionally, you have to transport a certain amount of specific loads to various places.
+
+Restrictions:
+Floods can wash out bridges, which can be rebuilt after one or two months.
+You begin in Bremen and have to connect to exisiting track.  You cannot be fired by your stockholders, there are no AI players, there is no access to the stock market.
+
+Players:
+Single player only
+
+Time frame:
+18 years, for example 1830-1847 or 1844-1861.
+Start years are 1830, 1834, 1835, 1839, 1840 or 1844.
+
+Aims:
+BRONZE: Connect Bremen and Bremerhaven, and haul 16 loads of sugar or coffee to Bremen (all loads hauled to the TERRITORY of Bremen count, including the town of Vegesack).
+SILVER: Additionally, connect Hannover and Bremerhaven, and haul 16 loads of cotton to Hannover (all loads hauled to the CITY of Hannover, not the KINGDOM of Hannover, count).
+GOLD: Additionally, have a company book value of $20.000.000, and haul 48 loads of passengers (emigrants) and 24 loads of mail to Bremerhaven (all loads to the TERRITORY of Bremerhaven count).
+
+Remarks:
+This map is based on actual historical events.  Please refer to the briefing for information.

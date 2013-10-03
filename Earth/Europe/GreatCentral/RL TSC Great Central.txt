@@ -1,0 +1,63 @@
+RL TSC Great Central
+--------------------
+
+RAILROAD TYCOON MAP DATA
+
+--- General Information ---
+Full Map Title : RL TSC Great Central
+Author : RWMJ  (Richard Lally)
+Copyright Info. : n/a
+Distribution : unrestricted
+Usage Restrict. : none
+Usage guidelines. Not suitable for multiplayer use.  
+ 
+--- Vital Statistics ---
+Starting Year : 1890
+Start Range : between 1885 and 1895
+Map Size : 350 * 350
+Map Base : TSC England
+Topography Base : n/a
+Territories : yes
+General Restrictions : you cannot resign or be fired
+Special Restrictions : no customs
+Barred Industry : Aluminium, Autos, Bauxite, Coffee, Cotton, Nuclear, Oil Wells, Rubber (can be imported), Uranium.
+Player Pool : selected European
+Manager Pool : all except T W Garrett, Gerwig, van Horne, Diesel, Siemens
+Locomotive Pool : selected
+
+--- Single Player Data ---
+Single Player : Scenario 
+Computer Players: Yes (4 to 9 opponents)
+SP Gold Win : Company Book Value of $25m and Most Loads to London by the end of 1900.
+SP Silver Win : Company Book Value of $25m and Most Loads to London by the end of 1907.
+SP Bronze Win : Company Book Value of $25m and Most Loads to London by the end of 1914.
+SP Loss : Failure to achieve a Bronze Win by the end of 1914.
+
+--- Multi-Player Data ---
+Multi-Player : No
+MP Gold Win : N/A
+MP Silver Win : N/A
+MP Bronze Win : N/A
+MP Loss : N/A
+
+--- Scenario Conditions ---
+none
+
+--- Options ---
+Choice 1 : company cash +200,000 OR Choice 2
+Choice 2 : speed & acceleration +5%, safety +10% OR fuel costs -20%
+
+--- Parameter Usage ---
+CompanyVariable1 = temporary usage
+GameVariable1 = Met/CLC profit sharing flag
+
+--- Ports ---
+Goods demanded, Food supplied
+Steel demanded, Oil supplied
+Coal demanded, Cotton supplied
+Rubber supplied (2 per year)
+
+--- Extra Information ---
+Known Bugs : None (yet).  You can mail me: richard.lally@virgin.net
+Other Notes : 
+The building of the Great Central's London extension is one of the most romantic episodes in British Railway history.  I hope this scenario captures some of the flavour of that remarkable achievement.

@@ -1,0 +1,18 @@
+"Russia", v.2
+
+	This is map from the original campaign (part 12,
+"When Walls Come Down"), saved as a stand-alone scenario
+ -- he's cleaned it up a bit, and added a few more industries
+and cities, but essentially it's the same map, with most of
+the same goals.
+
+	I fixed the river at Istanbul, but that's all I've
+done to it.
+
+	It's a fairly easy-to-play map, in the modern world.
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+July 14th, 1999

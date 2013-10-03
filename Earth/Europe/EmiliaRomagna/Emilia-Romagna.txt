@@ -1,0 +1,67 @@
+EMILIA-ROMAGNA
+
+by Marco Stefanutti & Alex Cucchiaro (stefanutti@dgt.uniud.it)
+
+Map for RT2 classic (and for TSC of course)
+
+Alesso - Udine - Italy - April 2000
+
+The sixth map about Italian regions is ready now: it represents Emilia-Romagna, 
+a region in the North of Italy.
+
+Emilia is the land of Parmigiano cheese and of Parma ham. 
+Romagna is full of very crowded beaches.
+
+As in the other maps of Italian regions there's no scenario: you may play starting in the 
+year you want, with the number of competitors you desire, with RT2 classic or with the new engines and 
+the new game strategies of TSC,...
+
+Enjoy this map, enjoy Italy!
+
+Have fun,
+
+		
+		Marco Stefanutti
+
+
+P.S. As in all the maps I made all the industries and resources are based on real economic
+data.
+
+TECHNICAL INFORMATION
+
+EMILIA-ROMAGNA MAIN LINES
+(Milano)-Piacenza-Parma-Reggio Emilia-Modena-Bologna
+Bologna - (Firenze)
+Bologna - Forlì - Cesena - Rimini - (Ancona)
+Bologna - Ferrara - (Padova)
+Bologna - (Verona)
+
+If you need info about italian railways, please write me.
+
+
+Other maps I created by myself or with Alex Cucchiaro:
+
+	Italy 1.0
+	Italy 2.0
+	Italy 2.1
+	Italy 3.0
+
+	New Eden
+
+	Switzerland - Heart of Chockolate
+	
+	Burinia
+
+	ITALIAN REGIONS:
+	
+	Friuli-Venezia-Giulia 1.0 - RT2
+	Friuli-Venezia-Giulia 1.0 - TSC
+	Friuli-Venezia-Giulia 1.1 - RT2
+	Friuli-Venezia-Giulia 1.1 - TSC	
+ 	
+	Veneto & Trentino-Alto Adige
+	Lombardia
+	Piemonte & Valle d'Aosta
+	Liguria
+
+	

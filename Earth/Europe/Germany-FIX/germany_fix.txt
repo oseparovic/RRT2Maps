@@ -1,0 +1,51 @@
+"Railroad Tycoon 2: The Second Century"
+
+Scenario "germany.mp2" (Germany) - fixes
+
+
+1) added 'Difficulty Choice' event, fixing industry profit problem
+
+2) fixed goals to reflect difficulty choice
+
+3) fixed various reserve cells
+
+update: various reserve cell fixes
+
+
+
+
+   To use this fixed scenario map, simply copy it into your maps directory
+("\Railroad Tycoon II - TSC\maps") on your hard drive, overwriting the map which
+came with the game.  The filename is exactly the same, and your game should
+have no problems recognizing it.
+   I have play-tested this map as part of the campaign, and it seems to run
+fine, no problems or errors.
+   Only those problems mentioned were fixed - nothing else has been done to
+the map; all territories, cities, and conditions are exactly as they are in
+the map that came with the game.
+
+
+
+
+
+				DISCLAIMER:
+
+	Please note that these changes have been authorized by PopTop Software
+	or Godgames (Gathering of Developers), though I do not work for either
+	company, nor am I being compensated in any way for this campaign fix.
+
+	Use of this fixed map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II: The Second Century" is copyright 1999 PopTop Software
+	and copyright 1999 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+August 4th, 1999
+updated August 26th, 1999

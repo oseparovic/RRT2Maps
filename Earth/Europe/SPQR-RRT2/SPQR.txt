@@ -1,0 +1,28 @@
+SPQR
+Map for Railroad Tycoon II.
+version 1.1
+
+The Senate and People of Rome.
+The ancient empires now have railroads.
+How well do they do against one another.
+
+You are a Centurion building your kings royal railroad.
+You must make it the greatest railroad in the known world.
+Personal wealth means nothing to you.  The railroad
+comes first. (or does it?)
+Computer player restricted from your home territory.
+
+Multi-player.   The order you start your company is
+the order that you are assigned a territory.  Goes in
+order: Rome, Carthage, Macedonia, Parthia, Egypt, Hispania.
+Computer player is restricted to its own territory for first
+4 years then can go anywhere.
+
+version
+-------
+  1.1  Improved the areas for station placement on a few cities in the eastern Med.
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

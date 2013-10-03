@@ -1,0 +1,63 @@
+LOMBARDIA
+
+by Marco Stefanutti (stefanutti@dgt.uniud.it)
+
+Map for RT2 classic (and for TSC of course)
+
+Alesso - Udine - Italy - February 2000
+
+The third map about Italian regions is ready now: it represents Lombardia, the most "european"
+region in Italy. Milano is a metropolis of about 2 million inhabitants and it is surrounded by many 
+factories. There are lots of railways in Lombardia. I have placed the most important cities, towns and 
+other villages where there are important railway junctions.
+As in Veneto & Trentino-Alto Adige map there's no scenario in this map: you may play starting in the 
+year you want, with the number of competitors you desire, with RT2 classic or with the new engines and 
+the new game strategies of TSC,...
+
+Enjoy this map, enjoy Italy!
+
+Have fun,
+
+		
+		Marco Stefanutti
+
+
+P.S. As in all the maps I made all the industries and resources are based on real economic
+data.
+
+TECHNICAL INFORMATION
+
+LOMBARDIA MAIN LINES
+
+Milano - Treviglio - Brescia - (Venezia)
+Milano - Monza - Como - (Zürich - Schweiz/Suisse)
+Milano - Rho - (Torino)
+Milano - Gallarate - (Domodossola) - (Bern - Schweiz/Suisse)
+Milano - Pavia - (Genova)
+Milano - Lodi - (Piacenza) - (Bologna)
+
+
+If you need info about italian railways, please write me.
+
+
+Other maps I created by myself or with Alex Cucchiaro:
+
+	Italy 1.0
+	Italy 2.0
+	Italy 2.1
+	Italy 3.0
+
+	New Eden
+
+	Switzerland - Heart of Chockolate
+
+
+	ITALIAN REGIONS:
+	
+	Friuli-Venezia-Giulia 1.0 - RT2
+	Friuli-Venezia-Giulia 1.0 - TSC
+	Friuli-Venezia-Giulia 1.1 - RT2
+	Friuli-Venezia-Giulia 1.1 - TSC	
+ 	
+	Veneto & Trentino-Alto Adige
+	

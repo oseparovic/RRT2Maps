@@ -1,0 +1,28 @@
+Scenario "Lenin"
+English-language version (March 2000)
+Author: Lars Maischak, lama@zedat.fu-berlin.de
+
+Start Date: 	March 24, 1917
+Map: 		Based on Poptop's campaign map "When Walls Come Down" from the 1st Century 		Campaign.
+Objective: 	Get Lenin's train from his Zurich exile to St. Petersburg.
+
+Victory Conditions:
+Gold:		Get Lenin's train to St. Petersburg by April 2
+Silver:		           - " -                    by April 6
+Bronze:		           - " -                    by April 10
+
+
+Particular features of this scenario:
+The human player's company owns one train, and no track. The only countries for which you will initially have train access rights are Switzerland and Germany. You start your train at Zurich. In order to get to St. Petersburg, you will have to meet various (historical or invented) persons in several European cities. They will provide you with help and information. Eventually, you will gain access to other countries, depending on whom you talked to and what route they recommended. Gold should be easily attainable with different strategies and routes.
+
+There are gaps in the track between the Russian railway system and those of Germany and Austria. These gaps stand for the need to switch the equipment from standard- to broad gauge when traveling into Russia. In addition to that, the frontline between Russian and Axis forces in WW I interrupted the railway connections.
+When you get nearer to that front, you will be granted the right to fill the gap by building the missing track, if you have talked to the right people along the way.
+
+Be warned that some events offer choices that will lead you onto a wrong trace. You might even find yourself prematurely loosing the game. There are also some random events that might cost you the gold. I tried to build some features of a role-playing adventure into this scenario. Feel free to change events in the editor if you do not like that.
+
+
+Remarks on the historical, political, etc. background:
+In the original game, "Railroad Tycoon" by Microprose, the Russian revolutionary V.I. Lenin was one of the possible presidents of A.I. companies - as was Benito Mussolini, the Italian fascist leader. While I was glad to see the latter dropped from the cast of game character's in RT2, I have been missing Lenin. I regretted his absence for two reasons:
+First, Lenin was one of the most famous train passengers in history. This scenario tries to reenact the most famous journey of his. Since Lenin is no longer a possible player character in RT2, and since Ben Kingsley played both Lenin (in "The Train") and Ghandi (in "Ghandi", I think), I thought Nehru would be the aptest company chairman.
+Second, the campaign scenario world of RT2 displays a sensitivity for the plight of the disadvantaged which RT1 lacked. In the older game, you could transport troops into Africa while exploiting the natural resources freely, in the manner of a European colonialist. In RT2, however, you get to lay tracks for the betterment of conditions in third-world places such as China, Africa, and India. Lenin, who changed the old phrase "Proletarians of the world, unite!" into "Proletarians and oppressed peoples of the world, unite!" has been a central protagonist in the fight of third-world nations to shake off colonial dependence.
+Feel free to disagree with my take on Lenin. Hope you enjoy the scenario, anyways.

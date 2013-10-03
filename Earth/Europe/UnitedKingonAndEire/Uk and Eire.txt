@@ -1,0 +1,21 @@
+United Kingon and Eire Map for Railroad Tycoon II
+
+This is my first attempt at a map for Railroad Tycoon II,
+and whilst it has been a fair bit of work I have enjoyed
+creating and testing this map.
+
+This map is probably best used as a multi-player map as
+the computer players do not seem to get the hang of buying
+access rights to allow them to build railways to the big
+cities.
+
+
+Let me know how you get on, and if anyone wants to change
+the terrain (hills and mountains), or possibly alter the
+rivers, to make them that little bit more correct for the
+geography of the two islands let me know.
+
+
+Rob Shelton (December 1998).
+rshelton@innotts.co.uk
+http://www.innotts.co.uk/~thecopse/rob/

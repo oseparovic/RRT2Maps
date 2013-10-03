@@ -1,0 +1,23 @@
+Switzerland Map v1.0 for Railroad Tycoon II
+
+Created by: Carole
+Email: tio@rust.net
+Last Updated: Nov. 21, 1998
+
+Size: 400 x 275
+
+Overview:
+This map of Switzerland features lots of lakes, rivers, hills and mountains, but also a fair amount of plains. The land is rich in ore, wood, cattle, sheep and milk, among other scattered industries.
+
+Special Features:
+- Low cost on electric engines.
+- Has to be connected to own tracks.
+- Buyable rights to foreign territories.
+- Regions with different types of random industries. 
+
+Notes:
+I have not added any AI players or win/lose conditions to the map at this time. The human player starts with a company named CFF (which stands for "Chemins de Fer Federaux" in French -- the Swiss railroad company's name). Feel free to tweak the map's options in the editor, because I mostly concentrated on making a very nice-looking (I hope) and diversified map. Elevations were done by hand, so they're not 100% accurate.
+
+Feel free to email me if you have any suggestions/comments.
+
+Enjoy! :)

@@ -1,0 +1,57 @@
+Europe (1919)
+Map for Railroad Tycoon II TSC.
+version 1.5
+german version
+
+The Great War is over.  Europe must be back on its
+feet and to the business of feeding and clothing itself.
+The railroads have suffered from wear and neglect.
+You must re-rail Europe.  And make your self rich in the
+process.
+
+There a some interesting engines during this time period 
+we generally overlook.   Take time and study them.
+
+Things to note:
+Industry purchase price may differ from that in the 
+dialog box.  You will have to look at the company books 
+(ctrl-A) Status page to see the adjustment.  Multiply the 
+dialog price by this to find the true price.  
+(Franz has told Phil about this not showing correctly.)
+
+The adjustment varies depending on the year ending economy.
+
+Choosing a nationality will lock the AI players out for 
+10 years, except Austria.  For Austria the AIs are 
+locked out for the entire game. 
+Everyone can go into Russia after 12 years, (weather permitting).
+AI are also locked out of random countries to make it more fair.
+
+Even so, Beware. The AIs love this map.  They are very strong here.
+
+Watch out if you try the 'stop your trains trick' to crash company 
+stock prices.  High negative company cash and low revenue and not 
+hauling loads will in many cases result in your railroad being nationalized
+by local governments.
+
+version
+-------
+ 1.5  France - SP Paris track was taken when cash fell below -500k as the
+      loads were checked monthly instead of at the end of the year.
+ 1.4  Multi-player goals now include ways to win with PNW and CBV.
+      Instant cash win is set lower to $45 million.
+ 1.3  Minor spelling errors corrected.  Open Poland to AI in 1940.
+      Resets English, German credit rates. Correct some border areas
+      in the Alps.
+ 1.2  Fixed error in Task 6 (Paris to Athens) connection flag.
+ 1.0  Release version
+ 0.1  Beta
+
+
+If you find errors in spelling or events let me know
+so I can fix them.
+  
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii/

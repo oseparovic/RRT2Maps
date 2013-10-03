@@ -1,0 +1,21 @@
+Notes for UK1850 Version 1.3
+
+
+This map is an altered version of the Britain map, adjusted mainly for local knowledge.
+
+Several things should be pointed out:
+
+Building costs begin much higher than normal to reflect high land costs.
+
+Borrowing will be difficult to start with as railways are still a new thing.
+
+Because railways in Britain use good use of viaducts and cuts to level rail gradients, traction is better. This also contributes to the costs above.
+
+Victory conditions.
+A map without these is like kissing your sister: it don't count.
+However they are "blind". To find out how to win you must carefully read the clues in the game, such as newspaper events and rumours.
+Basically you need to gain the respect of the Royals and the Government.
+
+Have fun
+
+Gwai_Lo

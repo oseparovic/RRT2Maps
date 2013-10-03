@@ -1,0 +1,12 @@
+This is a single-player scenario about Swiss railways.
+You will have to build up the whole Swiss railway network, but the St. Gotthard line
+(from Basel over the St. Gotthard Pass to Chiasso) and the Glacier Express line
+(from Zermatt, the Matterhorn town) over the Furka and the Albula Pass to St. Moritz
+(the famous resort in the Engadin valley) will have an especially high priority to win the
+scenario.
+The map uses the maximum size and is made after accurate GIS data of Switzerland;
+it includes all major towns, lakes and mountains; industries are put together as
+near to reality as possible.
+
+Thomas Nussbaumer
+nussbaumer@echo.ch

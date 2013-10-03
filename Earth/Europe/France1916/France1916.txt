@@ -1,0 +1,141 @@
+SCENARIO NOTES: France 1916 (v 1.1)
+
+The premise is that the human player will manage the French national 
+railroad with the objective of preserving the state.  Personal wealth
+is not a factor.  The scenario begins halfway through World War I.
+
+I've tried to inject a sense of history into this scenario.
+Players can predict most major events (Armistice, Great Depression,
+rise of Nazi Germany, etc.) but they might not realize the impact of
+some of history's footnotes.  I've also taken some liberty with the
+scope.  French railroads probably wouldn't have single-handedly beaten
+Germany in 1940, but I think it gives a greater sense of purpose.
+
+IMPORTANT NOTE:  This scenario must be played using the full
+financial model.
+
+VICTORY CONDITIONS:
+===================
+The human player achieve one of the following before 1941 or the
+Nazi invasion of France in 1940.
+     Gold - Invest $10,000,000 in industry AND prevent the Nazi
+            invasion of France.
+     Silver - Invest $10,000,000 in industry.
+     Bronze - Invest $5,000,000 in industry.
+
+
+Halting the Invasion:
+=====================
+Winning the gold medal means averting the Nazi invasion of France
+in 1940.  This is accomplished by accumulating "Bonus Points".  Four
+points are awarded in 1920, and the remainder are earned by
+completing certain tasks.
+
+Bonus point totals determine the actual month of invasion.  If a 
+player accumulates 7 bonus points, then the invasion will occur
+during the 8th month (August) of 1940.  If 12 or more bonus points
+are earned AND $10,000,000 is invested, then the invasion is averted.
+If 12 or more points are earned but less than $10,000,000 is invested,
+then the invasion will occur at the end of 1940.
+
+Points are earned as follows:
+	4 pts	Awarded automatically in March 1920.
+
+	1 pt	Awarded when Strasbourg is connected.
+	1 pt	If 12+ carloads are delivered to Alsace-Lorraine in 1925.
+	1 pt	If 12+ carloads are delivered to Alsace-Lorraine in 1926.
+	1 pt	If 12+ carloads are delivered to Alsace-Lorraine in 1927.
+	1 pt	If 12+ carloads are delivered to Alsace-Lorraine in 1928.
+	1 pt	If 12+ carloads are delivered to Alsace-Lorraine in 1929.
+
+	If bonus point total is 5 or higher in June 1934, then access will
+	be given to Luxembourg and the following bonuses become available.
+
+	1 pt	If 12+ carloads are delivered to Luxembourg in 1935.
+	1 pt	If 12+ carloads are delivered to Luxembourg in 1936.
+
+	If bonus point total is 6 or higher in April 1937, then access will
+	be given to Belgium.  No bonuses apply.
+
+	2 pts	If company hauls most carloads in 1939.
+	2 pts	If company has highest book value at the end of 1939.
+	1 pt	If company has most track cells at the end of 1939.
+
+Beginning in 1920, bonus point totals are announced each February.
+
+
+MAP CHANGES:
+============
+This scenario uses a modified version of the Western Europe map 
+which is included in the game.  Some of the borders have been
+modified to conform with conditions as at 1916.
+
+Several new sub-regions were created to reflect the changing
+borders during this time.  Alsace-Lorraine was permanently granted to
+France after World War I.  This region has a colourful history of
+flip-flopping between France and Germany.
+
+The actual Saar Valley region was about the size of Luxembourg.
+However, I've expanded this region to include everything west of the
+Rhine River.  This provides a greater chance that a valuable commodity
+will be found within it.
+
+Flanders is meant to represent the main WWI battle area.  The name
+was chosen because of the poem "In Flanders Fields" (written by a
+Canadian officer) which evokes such powerful images of the war.
+
+Poland represents post-WWI boundaries, with some simplifications, and
+Russia is completely ignored.  Austria-Hungary is left as one big 
+territory, even though it was partitioned via the Treaty of Versailles.  
+These regions never come into play anyways.
+
+The city of Clermont-Ferrand in central France is where the Michelin
+company arose.  Hence, tire factories should be found here.  Strasbourg 
+has been upsized to facilitate certain missions.
+
+
+NOTES:
+======
+Players may not terminate their companies and they may not acquire
+new territory, except as dictated by pre-set events.
+
+The human player begins with $2,500,000 in cash to build a railroad.
+This is meant to give players the flexibility to quickly emulate 
+50 years of railroad building in the blink of an eye.
+
+
+Tips:
+=====
+* Remember to invest wisely in industry early on.  Don't expect to
+  spend $10 million during 1939.
+* Don't build to the existing station in Strasbourg.  Build a new
+  terminal next to it.
+* Strasbourg and Luxembourg will ask for troops and armaments, but
+  you will receive credit for any cargos delivered.  Plan ahead
+  so that you get the most bonus points.
+* Don't get hung up on bonus points.  Your railroad must be
+  profitable enough to have cash to invest.  You can't prevent the
+  Nazi invasion unless you've invested $10 million.
+* Automobiles are fun to build, and the game is biased towards
+  auto plants, steel mills, and tire factories.  Rubber is available
+  at any port . . . but there aren't many of these.
+* If you're having trouble on HARD, consider adjusting the revenue
+  modifiers in the difficulty settings when you first start the
+  scenario.
+
+Release Notes:
+1.1	Fixed most of the runaway bugs, which let the game
+	continue beyond 1941.
+
+If you enjoyed this scenario, please visit Slap's Railroad Tycoon II Site 
+and vote for me.  (http://www.strategygames.net/ - go to the RRT2 section, 
+and look for the MAPS page.)
+
+Also, look for "Canada 1890", a scenario in which you try to build a
+transcontinental link before the Americans and the British take over
+Canada.
+
+
+SCENARIO DESIGNER:
+  Craig Murray
+  CraigMurray@BC.Sympatico.CA

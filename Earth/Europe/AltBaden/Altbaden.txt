@@ -1,0 +1,26 @@
+Full Map Title:  AltBaden	
+Author:  Erwin Hiesl (Oerf@aol.com)
+
+Copyright info:  March 07, 1999
+
+Usuage Restrict: No restrictions
+
+Starting Year: 1830
+Start Range:  fix
+Map Size:  400-300
+Map Base:  handmade
+Map Restrictions: Can't start companies, Cant start multiple companies
+Special Restrictions: You should play on experienced level
+Territories: Yes, 8 territories + 2 cities.
+Barred Industry: Coffee, Aluminium
+Player Pool:  Europe
+Manager Pool:  All
+Locomotive Pool: Custom
+
+Single Player: Scenario
+Computer Players: 3
+SP Gold Win:  All of Silver plus connection to all territories plus haul 50 loads to France
+SP Silver Win:  All of Bronze plus 50 Mio $ Company Net worth
+SP Bronze Win:  30 Mio $ Personal Worth before 1870
+SP Loss:  Don't complete bronze requirements by Jan. 1870
+

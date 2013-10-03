@@ -1,0 +1,60 @@
+FRIULI-VENEZIA-GIULIA.MAP
+
+This map represents the North-East part of Italy, including a part
+of the bordering countries. It's a very detailed map, more than Italy.map,
+of which we are authors.
+
+There are lots of cities and lots of valleys to explore. Events lead
+you through the history of this land where boundaries very often moved.
+In this map what was missing in Italy.map has been added: a sequence of chapters
+that define the victory conditions.
+
+We suggest you to be alone in this scenario, so that you may create historical railways
+without interferences. Prepare a notebook next to you and write down
+the conditions to gain victory when the dialogs appear.
+
+If you reach 4 of the 6 goals, you'll have the broze medal; 5/6 will give you the 
+silver medal, 6/6 the gold medal. These chapters are distributed in time from 1840 to 2020.
+In the beginning you'll be left free enough to construct some profitable line; then you'll have
+to connect Trieste to Villa Opicina, Udine to Villach, Udine to Gorizia and to Trieste; 
+you'll have to re-organize your company, develop electric lines to reduce pollution and finally, 
+extabilish a corridor between Italy and Austria towards East Europe and haul lots of cargos.
+In these events the attention is put in historical lines and in your railway network management.
+
+We wait for your questions and your remarks to make this map one of the best ones ever made in the
+world!
+
+Bye,
+
+		Alex Cucchiaro
+		Marco Stefanutti
+
+P.S. Friuli is the region where we come from. You can find even our village on this map! 
+P.S. There are two versions of this map:
+
+	FRIULI-VENEZIA-GIULIA-1-RT2 (for RT2 classic)
+	FRIULI-VENEZIA-GIULIA-1-TSC (for TSC)
+
+The TSC version can be played with the new engines and cargos: keep in mind that in Friuli
+there are lots of distilleries and of barracks!
+
+_____________________________________________________________________________________________
+
+15/8/99	
+
+	FRIULI-VENEZIA-GIULIA-1.1-RT2 (for RT2 classic)
+	FRIULI-VENEZIA-GIULIA-1.1-TSC (for TSC)
+
+The victory conditions of the single chapters have been balanced: after a deepened test some of the 6 goals seemed
+to be too easy or too difficult to reach. Some little landscape adjustments have been made too.
+
+Enjoy Friuli.map and... wait for our future maps... Switzerland and Burinia....
+Who knows when they will be ready!
+
+
+Bye,
+
+		Alex Cucchiaro
+		Marco Stefanutti
+
+Info: stefanutti@dgt.uniud.it

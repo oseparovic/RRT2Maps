@@ -1,0 +1,27 @@
+
+Thank you for using this Railroad Tycoon II map.
+
+
+Installation:
+
+Unzip this zip-file in the dirctory MAPS in your Railroad Tycoon2 Directory 
+( f.e. C:\railroad tycoon2\maps)
+Now start RRT2 and load this scenario.
+
+
+	This map is about Iberia (Portugal and Spain), it alsos includes a little bit of France.
+	I tried to make it as real as possible.
+	You can only start in 1848, date of the first train in Spain.
+	You can only build in Portugal in 1856, date of the first train in Portugal.
+	
+	The map events refer to the most important moments in the history of this countries and Europe. I tried to
+reproduce their impact in the economy.
+
+	I'm testing the map and already corrected some things, but I still haven't passed 1870.
+
+	Hope you enjoy it!
+
+
+
+
+	

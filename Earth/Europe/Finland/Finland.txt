@@ -1,0 +1,16 @@
+Scenario for Railroad Tycoon II: Finland.
+Completed 31/01/99 by Garner & Siren.
+
+Copy Finland.map to you RT-directory under maps.
+
+You have 30 years of time to complete this scenario, starting 1946 or 1950.
+
+Special conditions:
+- electric engines are available from the start, but they are not very
+effective until mid-60's.
+- strikes only have a minor effect as most of them last only one game month.
+- ports are marked by borders, but you don't have to pay customs.
+- when you have connected to a port, you should be informed about it.
+
+Enjoy this challenging scenario!
+

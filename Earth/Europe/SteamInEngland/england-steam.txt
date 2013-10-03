@@ -1,0 +1,18 @@
+Steam in England 1.0  Created in January, 2000 by CeeBee (Chuck Barkman)
+
+Type: TSC
+
+Goals: Bronze 12m CBV
+       Silver  20m CBV
+       Gold   40m CBV plus 20m PNW
+
+Features: No unconnected track laying
+          Steam engines only till 1946
+          No diesel engines
+          Cost breaks on steam
+          Wartime economy including higher prices for ammo and weapons
+          Food shortage
+          Electrification price breaks in 1946
+
+This is a reworked map of  England that was included on the TSC cd. I've changed it so that only steam locomotives are available till the end of WW2.  I found that due to the high cost of late era steam engines and the associated high cost of maintenance and fuel as well as unreliability issues I avoided the use of many of these engines when playing any map in this time period.  This map will force you to use steam till 1946.  I tweaked many of the costs associated with steam, but in 1946 you will still be required to make a critical decision- stay with steam or electrify.  I've also modified the goals slightly and made other minor changes. I hope you find this an enjoyable scenerio. I would like to thank DickK, JSS and Steve for testing this scenerio and for their comments and suggestions. Please send any further comments or suggestions to me at cbarkman@direct.ca 
+CeeBee ( Chuck)

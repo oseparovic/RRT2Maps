@@ -1,0 +1,19 @@
+Isle of Wight map v1.0
+
+Installation:
+
+Unzip this zip-file in the dirctory MAPS in your Railroad Tycoon2 Directory 
+( e.g. C:\railroad tycoon2\maps)
+Now start RRT2 and load this scenario.
+
+This map is my first serious attempt at making a map for RRT2. The Isle of Wight is quite a small island (approx. 37Km from East to West and 21Km from North to South.) The island is located south of England (If you look on Britain.map, SW of Portsmouth is the island.) About two thirds of this island is farmland and open countryside but for the purposes of Railroad Tycoon II I have included most industries. I have also included all of the towns and villages that are large enough to appear on a road map for your enjoyment. I have not included a goal but you can do that for yourself in the editor.
+
+
+
+
+Author: Richard Bullock
+
+
+Any comments/suggestions? Don't hesitate to e-mail me; bullock@mcmail.com
+
+If I receive enough suggestions, I may improve the map and make v1.1

@@ -1,0 +1,42 @@
+--- General Information ---
+Full Map Title : Ireland - A Nation Fighting for Freedom
+Author : Gareth Craig
+
+Copyright Info. : Copyright of game design / story implimentation is to Gareth Craig, March 1999
+Distribution : Distribute it freely and opnely, but If you modify it then let me know at gcraig@tcd.ie before you disperse the modification. 
+
+Usage Restrict. : The map can be freely used (and abused!) but any alterations to the existing should be checked and verified with me before they are
+distributed. If you want to wipe the map and start afresh on your own feel free - the base map was obtained from a guy, Terry Sohl, in the States for free.
+
+--- Vital Statistics ---
+Starting Year : 1845
+Start Range : 1800 to 1920
+Map Size : 200 * 200
+Map Base : New Map
+Topography Base : The Island of Ireland, Republic and Northern
+Territories : Yes (2 useable)
+Map Restrictions: Map Restrictions (take over of other companies as chairman)
+Special Restrct.: None.
+Barred Industry : Varies by territory, region and city.
+Player Pool : Europe
+Manager Pool : All
+Locomotive Pool : Europe
+
+--- Single Player Data ---
+Single Player : Scenario
+Computer Players: Yes (2 to 4 opponents)
+SP Gold Win : Have highest Company and Personal Value by June 1937
+SP Silver Win : Have highest Personal value and positive Company Value by June 1937
+SP Bronze Win : Have positive personal and Company Value by June 1937
+SP Loss : Be executed as a traitor, or fail the above criteria by June 1937
+
+--- Multi-Player Data ---
+Multi-Player : Yes (5)
+MP Gold Win : as above.
+MP Silver Win : as above
+MP Bronze Win : as above
+MP Loss : as above
+
+--- Extra Information ---
+Known Bugs : None
+Other Notes : The PCX was obtained over the net from a man called Terry Sohl, a carographer from the US. 

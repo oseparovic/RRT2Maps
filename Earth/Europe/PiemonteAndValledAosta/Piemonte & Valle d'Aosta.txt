@@ -1,0 +1,71 @@
+PIEMONTE & VALLE D'AOSTA
+
+by Marco Stefanutti (stefanutti@dgt.uniud.it)
+
+Map for RT2 classic (and for TSC of course)
+
+Alesso - Udine - Italy - March 2000
+
+The fourth map about Italian regions is ready now: it represents Piemonte and Valle d'Aosta, 
+two regions in the North-West of Italy. 
+
+Piemonte is the region where the unification of Italy began in the
+second half of the last century; in the chief town, Torino, there are the famous factories 
+of FIAT; in Vercelli's province there are lots of rice fields, while Monferrato hills are 
+rich of vineyards.
+
+Valle d'Aosta is a small montainous regions where people talk a dialect similar to French; 
+it is famous for the presence of the highest mountain in Europe: Monte Bianco (almost 5000 meters high).
+
+As in the other maps of Italian regions there's no scenario: you may play starting in the 
+year you want, with the number of competitors you desire, with RT2 classic or with the new engines and 
+the new game strategies of TSC,...
+
+Enjoy this map, enjoy Italy!
+
+Have fun,
+
+		
+		Marco Stefanutti
+
+
+P.S. As in all the maps I made all the industries and resources are based on real economic
+data.
+
+TECHNICAL INFORMATION
+
+PIEMONTE & VALLE D'AOSTA MAIN LINES
+
+Torino - Vercelli - Novara - (Milano)
+Torino - Asti - Alessandria - (Genova)
+Torino - Bardonecchia - (Lione)
+Torino - Cuneo - (Ventimiglia)
+Torino - Fossano - (Savona)
+Torino - Chivasso - Aosta
+
+If you need info about italian railways, please write me.
+
+
+Other maps I created by myself or with Alex Cucchiaro:
+
+	Italy 1.0
+	Italy 2.0
+	Italy 2.1
+	Italy 3.0
+
+	New Eden
+
+	Switzerland - Heart of Chockolate
+
+
+	ITALIAN REGIONS:
+	
+	Friuli-Venezia-Giulia 1.0 - RT2
+	Friuli-Venezia-Giulia 1.0 - TSC
+	Friuli-Venezia-Giulia 1.1 - RT2
+	Friuli-Venezia-Giulia 1.1 - TSC	
+ 	
+	Veneto & Trentino-Alto Adige
+	Lombardia
+
+	

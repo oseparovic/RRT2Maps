@@ -1,0 +1,67 @@
+"Railroad Tycoon 2: The Second Century"
+
+Scenario "central scotland v2.2.mp2" (adapted from the RT2 map by Neil Harrison)
+
+
+Goals:
+	Bronze - $10 million CompanyBook, $5 million PlayerNetWorth by 2000
+	Silver - $20 million Company, $10 million Player, 100 loads Alcohol
+		hauled lifetime by 2000
+	Gold - $50 million Company, $25 million Player, 200 loads Alcohol hauled
+		lifetime, 200 loads Wool hauled lifetime, connect Devonside,
+		Thornhill & Cumbernauld by 2000
+
+
+Changes:
+
+1) fiddled with regions, reserves somewhat
+
+2) disabled Rubber, Nuclear Plants & Uranium Mines
+
+3) added Aluminum and Mail to Ports
+
+
+	Update (v 2.1)
+
+1) added goals
+
+2) completed fixes of industries
+
+3) disabled Auto Plants & Tire Factories
+
+4) added restrictions (companies, no electric)
+
+5) added Status reports
+
+
+	Update (v 2.2)
+
+1) added Wool to Gold
+
+2) a couple of other reserve fixes
+
+3) straightened out the status reports
+
+
+
+
+				DISCLAIMER:
+
+	Use of this map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II: The Second Century" is copyright 1999 PopTop Software
+	and copyright 1999 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+Neil Harrison:  mnbvr@hotmail.com
+
+
+
+David Masters / MasterWorks, Inc. -- dmasters@jlc.net
+   MasterWorks @  http://www.jlc.net/~dmasters/index.html
+   Roundhouse Maps @  http://members.xoom.com/1_nightwolf/index.html
+   the Roundhouse @  http://roundhouse.8m.com/index.html
+September 2nd, 1999 / October 29th, 1999 / November 1st, 1999

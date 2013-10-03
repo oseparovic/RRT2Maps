@@ -1,0 +1,4 @@
+I am sending you a map of Portugal produced after a Digital Elevation Model using Geographical Information Systems/MGE tools at the National Center for Geographical Information (www.cnig.pt). I added many historical, political and economical events that really took place in the portuguese history since 1856 ( the starting date for trains in this country).Typical US engines like the American, were excluded. The game extends from 1856 to the Kosovo war and from now to 2020.The winner is just the fellow that makes more money at the end of the game (I was too tired to introduce more complex conditions).If you have any suggestions about this map and its triggers, they would be welcome.
+
+Luis Soczka
+lsoczka@esoterica.pt

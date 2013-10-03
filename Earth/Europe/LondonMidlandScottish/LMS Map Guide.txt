@@ -1,0 +1,63 @@
+   LMS Generic Data 
+   ----------------
+
+   --- General Information ---
+   Full Map Title : London Midland & Scottish 1923
+   Author : Lightnin' Bill French
+   Copyright Info. : Bill French, March 2000
+   Distribution : Any distribution, or update (provided acknowledgement
+                  of origin is made). 
+                  All donations gratefully accepted: no receipts will 
+                  be given!
+   Usage Restrict. : None 
+
+
+   --- Vital Statistics ---
+   Starting Year : 1923
+   Start Range : 1923 only
+   Map Size : 300 * 300
+   Map Base : RLs Britain 1830 map (modified)
+   Topography Base : Britain
+   Territories : No 
+   Map Restrictions: Several; basically no stock market; 
+                     No buying industry; 
+                     No starting/controlling other companies; 
+                     No computer players;
+                     No being fired or resigning;
+                     No dividends;
+                     No unconnected track laying.
+   Special Restrictions.: None.
+   Barred Industry : Aluminium plant, bauxite mine, coffee farm, 
+                     uranium mine, commercial, airport, geocore,
+                     rubber farm, nuclear plant, or residential.
+   Player Pool : Custom (modified Europe)
+   Manager Pool : Custom 
+   Locomotive Pool : Custom
+
+
+   --- Single Player Data ---
+   Single Player : Scenario 
+   Computer Players: No
+   SP Gold Win : CompanyCash minus CompanyDebt greater than 
+                 4 million, by 1948.
+   SP Silver Win : CompanyCash minus CompanyDebt greater than 
+                   2 million, by 1948.
+   SP Bronze Win : CompanyCash minus CompanyDebt greater than 
+                   1 million, by 1948.
+   SP Loss : Less than 1 million.
+
+
+   --- Multi-Player Data ---
+   Multi-Player : No
+
+
+   --- Extra Information ---
+   Known Bugs : Occasionally a train gets screwed. This is the big game
+                bug, where the tender appears before the engine, & it 
+                nevers earns any money. Solution is to retire it, & 
+                purchase a replacement.
+                Lifetime book figures are inaccurate, due to my 
+                inexperience in scenario creation. Not a problem.
+  Other Notes : Must be played with RRT2-TSC CD.
+                I have also done a separate LMS Readme. 
+                barmybilly@netscapeonline.co.uk

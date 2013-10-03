@@ -1,0 +1,67 @@
+"Railroad Tycoon 2: The Second Century"
+
+Scenario "hell and high water.mp2" (adapted from campaign part #15)
+
+
+Goals: (unchanged from campaign)
+
+	Bronze - deliver 60 loads of cement to Madrid by January 16
+
+	Silver - deliver 60 loads of cement to Madrid by January 13
+
+	Gold - deliver 60 loads of cement to Madrid by January 9
+
+	Just for fun - try to accomplish your mission before the 'dam'
+		at Gibralter is washed away
+
+
+Changes:
+
+1)  Added a station at Clermont-Ferrand... otherwise any trains in that
+	area run out of sand.
+
+
+
+
+	In an interview in "Gaming World", Phil Steinmeyer of PopTop
+stated that one of their favorite single-player scenarios to play was
+"Hell and High Water"... yet that doesn't exist as a stand-alone, only
+as part of the TSC campaign.  Maybe they've got it saved as a stand-alone
+over at PopTop, but it didn't come with the game, and it's not on the
+Web anywhere... so I decided to create it.
+
+	It's exactly the same as campaign #15 -- a terrorist group has blown
+up the GeoCore Plant near Madrid, and the volcanic gases leaking out of the
+fissure are causing massive flooding... you've got to deliver 60 loads of cement
+to Madrid to help seal the fissure.
+
+	The user choices in the campaign are set up at the beginning of each
+campaign part (the screen where you choose which campaign part you're going
+to do next, with the three choices at the bottom), but just aren't possible in
+a stand-alone scenario.  So I've gone ahead and written them in using the
+possibilities of scenario events... make your choices well.
+
+
+
+
+
+				DISCLAIMER:
+
+	Please note that these changes have been authorized by PopTop Software
+	or Godgames (Gathering of Developers), though I do not work for either
+	company, nor am I being compensated in any way for this campaign fix.
+
+	Use of this fixed map is at your own risk, and is not subject to any
+	liabilities.
+
+	"Railroad Tycoon II: The Second Century" is copyright 1999 PopTop Software
+	and copyright 1999 Gathering of Developers
+
+	PopTop Software - http://www.poptop.com/
+	Gathering of Developers - http://www.godgames.com/
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+August 10th, 1999

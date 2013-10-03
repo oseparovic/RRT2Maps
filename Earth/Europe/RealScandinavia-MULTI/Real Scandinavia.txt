@@ -1,0 +1,29 @@
+                        Real scandinavia
+
+This is my attempt to make scandinavia more realistic, and with more detajls. All major
+lakes,rivers and mountains are added. More than 200 towns and cityes are added.
+So, in this map its a possiblity to have as much opponemenst as you want.
+The industri has been created allmost as it is in the real life.
+
+The big challenge its to make a railroadtrack over the mountains in 
+the southern part of Norway, as it is in real life. Its many big mountains
+to cross, so its not gonna be easy. The real track goes from Oslo-Finse
+(highest station in the northern part of europe)-Bergen.
+
+Installation:
+
+Unzipp the this zip-file into your dirctory MAPS in your Railroad Tycoon2 Directory .
+Exs: C:\railroadII\maps
+Now you can start rairoad2, and load the scenary.
+
+I hope you will enjoy it,and don't forget to vote on it!!
+
+Thanks to Terry Sohl, he created the picture i needed!!!
+
+
+
+Einar H Bendigtsen
+ebendigt@online.no
+
+
+

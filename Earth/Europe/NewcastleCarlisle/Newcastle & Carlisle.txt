@@ -1,0 +1,28 @@
+Map Size: 500x200
+Date Released: 4.9.99
+
+Single Player: yes
+Multiplayer: yes
+Map Events: yes
+Map Goals: yes
+Max Players: 3
+Max Total: 3
+
+Default Start: 1829
+Earliest Start: 1829
+Latest Start: 1915
+
+The Newcastle & Carlisle map is loosely based on historical fact, a vague
+reenactment of the building of the Newcastle & Carlisle Railway beginning
+in 1829.
+
+Bronze: Connect Newcastle to Carlisle by 1840
+Silver: Connect Newcastle to Carlisle and have a company net worth of 
+        1,000,000 by 1840
+Gold:	Connect Newcastle to Carlisle and have a company net worth of 
+        1,000,000 by 1840 and have hauled 100 loads in that time.
+
+Please e-mail me with any suggestions of how to improve the map, and feel
+free to tinker with it as you will.
+
+Stan (then1ce@aol.com)

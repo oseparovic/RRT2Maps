@@ -1,0 +1,65 @@
+LIGURIA
+
+by Marco Stefanutti (stefanutti@dgt.uniud.it)
+
+Map for RT2 classic (and for TSC of course)
+
+Alesso - Udine - Italy - April 2000
+
+The fifth map about Italian regions is ready now: it represents Liguria, 
+a region in the North West of Italy.
+
+Liguria is a stripe of hills along Ligurian Sea. There are lots of ports, touristic centres,
+while flowers are cultivated on the hills.
+
+As in the other maps of Italian regions there's no scenario: you may play starting in the 
+year you want, with the number of competitors you desire, with RT2 classic or with the new engines and 
+the new game strategies of TSC,...
+
+Enjoy this map, enjoy Italy!
+
+Have fun,
+
+		
+		Marco Stefanutti
+
+
+P.S. As in all the maps I made all the industries and resources are based on real economic
+data.
+
+TECHNICAL INFORMATION
+
+LIGURIA MAIN LINES
+(Marseille)-Ventimiglia-Genova
+Genova-Busalla-(Milano)
+	      -(Torino)
+Genova-La Spezia-(Roma)
+Savona-S.Giuseppe-(Torino)
+
+If you need info about italian railways, please write me.
+
+
+Other maps I created by myself or with Alex Cucchiaro:
+
+	Italy 1.0
+	Italy 2.0
+	Italy 2.1
+	Italy 3.0
+
+	New Eden
+
+	Switzerland - Heart of Chockolate
+
+
+	ITALIAN REGIONS:
+	
+	Friuli-Venezia-Giulia 1.0 - RT2
+	Friuli-Venezia-Giulia 1.0 - TSC
+	Friuli-Venezia-Giulia 1.1 - RT2
+	Friuli-Venezia-Giulia 1.1 - TSC	
+ 	
+	Veneto & Trentino-Alto Adige
+	Lombardia
+	Piemonte & Valle d'Aosta
+
+	

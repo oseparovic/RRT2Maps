@@ -1,0 +1,37 @@
+                        Norwegian railroadhistory- made fore The secound century(the expansion pack)only.
+
+
+This is a single map/champaign, and it is a reconstruction of the Norwegian railroad(NSB). Part 1 its the 
+southern part of Norway(1853-1950). You have to build up the railroad step by step, as it was done
+in the old days.You will recive new orders each time a "real" connection has been made. 
+Part two its the middle part of Norway(Northern railroad (1921-1962). You have to build the northern railroad, step
+by step in the same way you did with the southern part. Part three(1963-2014) its the northern part of Norway.
+This part was planned, but the gouverment canceleted it, because it was 
+of leak of money, and the because of the population in the area. So the track was never build... 
+And the challange to you its to complete their old plan, and make the peouple happy!
+The last map, world war three leads you throw a new world war. The atmosphere its destroyed, so you have to fight against the
+water, and the enemy. Its a hard map to beat. You will lose trains before you even nows about it, and 
+if you failure to deliver the limit chargo one year, the water will raise! I have added a complete new history into that map.
+So its up to you now, to manage that the human rase will survive.
+ 
+I have made all the maps difficult to win. But it is a rank anyway:
+Part one its the easiest map to win. Map to difficult, and map three and four its allmost impossible to win.
+But they are all difficult maps, so you have much to do in the future.
+Many historic happenings has been adden, and many challenge to.
+
+Installation:
+
+Unzipp the this zip-file into the map directory in Railroad Tycoon2.
+Exs: C:\railroadII\maps
+Now you can start rairoad2, and load the scenary.
+
+I hope you will enjoy it!
+
+
+
+
+Einar H Bendigtsen
+ebendigt@online.no
+
+
+

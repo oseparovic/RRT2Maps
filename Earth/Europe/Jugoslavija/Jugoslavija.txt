@@ -1,0 +1,85 @@
+JUGOSLAVIJA v1 (in Spanish)
+by Valeriano Martin escambray@ctv.es
+
+--- General Information ---
+Full Map Title : Jugoslavija
+Author : Valeriano Martin (escambray@ctv.es)
+Copyright info:  August, 1999
+Usuage Restrict: No restrictions
+
+--- Vital Statistics ---
+Starting Year : 1845
+Start Range : 1845-1857
+Map Size : 420*280
+Map Base : USGS GTOPO30 (simplified) 
+Topography Base : Former Yugoslavia and surrounding countries
+Territories : 28
+Map Restrictions: Connect to company track, Amortize bonds,  Assume chairmanship of other companies, Buy stocks again
+Special Restrct.: None
+Barred Industry : None
+Player Pool :  Europe
+Manager Pool : All 
+Locomotive Pool :  Europe
+
+--- Single Player Data ---
+Single Player : Scenario  
+Computer Players: 0-10
+SP Gold Win : Only surviving company by the end of 1918 + Highest player net worth + Silver requirements + Bronze requirements
+SP Silver Win : Earn 50 points + Bronze requirements.
+		    Two points can be earned each year:
+			- One point if more than 175 carloads/year are hauled for two consecutive years
+			- Another point if your industry yields more than 1250000$/year for two consecutive years
+SP Bronze Win : Connect the following territories:
+			- Slovenija
+			- Hrvatska
+			- Dalmacija
+			- Slavonija
+			- Srbija
+			- Vojvodina
+			- Nis
+			- Kosovo
+			- Novi Pazar
+			- Bosna
+			- Hercegovina
+			- Crna Gora
+			- Macedonia Vardar
+			- Istra or Venezia
+			- Steiermark or Karnten
+			- Magyarorszag
+			- Valahia or Banat or Transilvania
+			- Bulgaria or Macedonia Struma
+			- Macedonia Egeo
+			- Shqiperie
+SP Loss : Not achieving any of the above by the end of 1918
+
+--- Multi-Player Data ---
+Multi-Player : N/A
+
+--- Extra Information ---
+Known Bugs :  None
+
+Jugoslavija is the first map I ever made. It is based on the railway development in Western Balkans from 1845 to WWI. 
+I´ve not found many info about this, so most events are fictitious. All the message texts are written in Spanish. 
+This scenario must be played using the full financial model.
+
+May be not possible to gather enough money to pay for access to all of the above territories, but some rights can be get
+freely in return of certain tasks done on time. These rights will be offered to you along the time, as follows:
+ 
+    Year                        Task                                          Reward                         Term to do
+-------------   ----------------------------------    ---------------------------------------------------    -----------
+First month     Connect Trieste-Graz                  Full access through Istra, Slovenija and Steiermark    Five years
+Variable        Connect Maribor-Klagenfurt-Villach    Full access through Karnten                            Five years
+Variable        Connect Rijeka-Buda                   Track access through Magyarorszag                      Five years
+Variable        Pledge to pay high taxes              Train access through Magyarorszag                      Inmediately
+1878            Connect Graz-Sarajevo                 Full access through Bosna and Hercegovina + discount   Two years
+                                                      for industrial investment
+1880            Connect Sarajevo-Novi Pazar(town)     Full access through Novi Pazar(territory)              One year
+1883            Connect Buda-Beograd-Nis(town)        Full access through Vojvodina                          Five years
+1889            Connect Beograd-Pristina-Pec + Money  Full access through Kosovo                             Six months
+1890            Connect Craiova-Bar                   Full access through Valahia and Crna Gora + Money          ---
+1892            Connect Craiova-Durres                Money                                                  Five years
+1906            Connect Buda-Thessalonike             No more taxes                                          Five years   
+
+
+Some offers are incompatible, so all of them will not be displayed in the same game. Generally a task unfulfilled make void
+all the remaining offers.

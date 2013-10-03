@@ -1,0 +1,62 @@
+VENETO & TRENTINO-ALTO ADIGE
+
+by Marco Stefanutti (stefanutti@dgt.uniud.it)
+
+Map for RT2 classic (and for TSC of course)
+
+Alesso - Udine - Italy - February 2000
+
+Many RT2 fans e-mailed me last year because they wanted to play on detailed maps
+representing Italian regions. Italy map had a great success since it has won Slap's award
+as the best map for 4 weeks. After that success, Alex Cucchiaro and I created the map of my
+ region: Friuli-Venezia-Giulia; it's time to create other regions now. Someone could think 
+it's late, but, as other map-creators know, the making of a detailed map requires time and 
+patience.
+
+The second map containing Italian regions is ready now: it represents Veneto (everybody knows Venice) and Trentino-
+Alto Adige (a region composed by a part in which the main language isn't Italian but German: in fact Alto Adige (Südtirol) became Italian after the Ist World War).
+Veneto and Trentino-Alto Adige are in the North East of Italy; there's no scenario in this 
+map: you may play starting at the year you want, with the number of competitors you desire, with RT2 classic
+or with the new engines and the new game strategies of TSC,...
+
+Enjoy this map, enjoy Italy!
+
+Have fun,
+
+		
+		Marco Stefanutti
+
+
+P.S. As in all the maps I made all the industries and resources are based on real economic
+data; there's an exception: the bauxite-mines and the cotton farms don't exist in these 
+regions. Nevertheless I had to introduce them to make the game function.
+
+TECHNICAL INFORMATION
+
+VENETO & TRENTINO ALTO-ADIGE MAIN LINES
+
+(Milano)-Verona-Vicenza-Padova-Venezia
+Venezia-Portogruaro-(Trieste)
+Venezia-Treviso-(Udine)
+Venezia-Padova-Rovigo-(Bologna)
+(Bologna)-Verona-Trento-Bolzano-Brennero-(Innsbruck)
+
+If you need info about italian railways, please write me.
+
+
+Other maps I created by myself or with Alex Cucchiaro:
+
+	Italy 1.0
+	Italy 2.0
+	Italy 2.1
+	Italy 3.0
+
+	Friuli-Venezia-Giulia 1.0 - RT2
+	Friuli-Venezia-Giulia 1.0 - TSC
+	Friuli-Venezia-Giulia 1.1 - RT2
+	Friuli-Venezia-Giulia 1.1 - TSC	
+
+	New Eden
+
+	Switzerland - Heart of Chockolate
+ 
