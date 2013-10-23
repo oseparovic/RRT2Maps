@@ -1,12 +1,12 @@
 RRT2Maps
 ========
 
-An open source repo of railroad tycoon 2 maps. Huge thanks to the guys from [The Terminal](http://theterminal.dune2k.com/?p=rrt2) for their support and for contributing their maps to this repo. For discussion on the topic see [this thread](http://forum.dune2k.com/topic/25994-idea-git-repo-of-all-rrt2-maps/). If you need to contact me for contributor access or if you have questions/comments, you can reach me on twitter: [@alexgophermix](https://twitter.com/alexgophermix)
+An open source repo of user made Railroad Tycoon 2 maps. Huge thanks to the guys from [The Terminal](http://theterminal.dune2k.com/?p=rrt2) for their support and for contributing their maps to this repo. For discussion on the topic see [this thread](http://forum.dune2k.com/topic/25994-idea-git-repo-of-all-rrt2-maps/). If you need to contact me for contributor access or if you have questions/comments, you can reach me on twitter: [@alexgophermix](https://twitter.com/alexgophermix), or through my site: [thegameengine.org](http://thegameengine.org)
 
 Purpose
 -------
 
-Railroad Tycoon 2 has had lots of community activity since its release, especially in terms of user made maps. This has led to many enjoyable scenarios in many different versions scattered throughout the web. The purpose of this repo is to create an easily accessible, community modifiable, and hopefully stable repository for as many maps as possible.
+Railroad Tycoon 2 has had much community activity since its release, especially in terms of user generated content. This has led to many enjoyable scenarios, albiet in many different versions, scattered throughout the web. The purpose of this repo is to create an easily accessible, community modifiable, and hopefully stable repository for as many maps as possible.
 
 Download
 --------
