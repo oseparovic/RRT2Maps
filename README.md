@@ -26,7 +26,7 @@ Both Windows and Mac/Linux installation is supported. With both you have a few o
 
 ####Windows
 - Manually copy the maps you want to play (`.MP2`/`.MAP` files) into your Railroad Tycoon 2/Maps directory **OR**
-- Run the `zip_all_maps.bat` script (WIP) via double click and extract the created `all_maps.zip` into your `Railroad Tycoon 2/Maps` directory to add ALL scenarios to your game.
+- Run the `zip_all_maps.bat` script via double click and extract the created `all_maps.zip` into your `Railroad Tycoon 2/Maps` directory to add ALL scenarios to your game.
 
 ####Mac/Linux
 - Manually copy the maps you want to play (`.MP2`/`.MAP` files) into your `Railroad Tycoon 2/Maps` directory **OR**
