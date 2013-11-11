@@ -1,0 +1,21 @@
+ARBORIA 1862 version 1:
+
+Welcome to Arboria! The Goverment has signed a contract with your company to build and run a railway system over a 30 year 
+period. If you fail, your company will recieve a fine of 2 mill.
+The main buisines is mining and logging industry.
+
+Note:  Space is reserved for quadouble track and bypasses around most of the big population centres  
+Average distance between stations are approximately 5-10 km, using a scale of 2 squares = 1 km.
+PORTS:   IMPORT:			EXPORT:		OTHER DATA: RRT2, The second Century  with    
+	 Sugar				Iron ore	 option for multiple companies.  Start year 1862,                              
+	 Goods				Pulpwood	 Alternative engine avaibility.                                                                                                                                                                                                                                                                                
+	 Food				Logs		 Start economy: 93%. Growth: 1,0% per year. 
+	 Cotton: 1 unit per dock.
+Win conditions: BRONZE: 50 mill., SILVER: 75 mill., GOLD: 100 mill. of company book value within 30 years.
+By  drawing this map I have built all railway lines with a maximum gradient of 2%, and replaced them with reserve cells. 
+When finished the map I have liqudated the company and then tested the game by playing it 2 times.   
+Personally I prefer to simulate a minor railway system with pretty landscapes, without any disturbing competition or too 
+many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate all traincrashes.  
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 1999-10-24.

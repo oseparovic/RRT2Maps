@@ -1,0 +1,33 @@
+AURELIA 1862 version 1:
+
+Welcome to Aurelia! This small kingdom has asked for your expertice to build a efficiant railway system to 
+bring supplies to the growing industry and to service the population with better comunications. At the West 
+Coast the economy is based on  agriculture, in the centre of the contry there are heavy industries based on 
+coal, iron, bauxite, lumber and gravel. 
+
+I sugest the player to start with a small railway from Kingston to Nunaton, to bring imported cotton to a 
+textile mill. After a few years to consolidate your company, you can start building the coastal trunk line 
+between Garrick and Southport. The Kingston/Newport area is a huge urban center, so there should be plenty 
+of mail and passengers to carry to and from the provinces. By 1910 or so, the whole system should be built, 
+and by this time it will take approximately 150 trains to run it. Note:: Until 1957 no diesel locomotives 
+are avaiable. In that year there will be a choise between      "second hand steam engines from a neighboring 
+country for a bargain prize until 1960" (scrap prize = 80% off), or an option to sign a 10 year contract with 
+General Motors for deliverance of 3 classes of  new diesels (15% off). From 1935 electric locomotives are 
+avaiable. Space is reserved for quadouble track and bypasses around most of the big population centres. Average 
+distance between stations are approximately 5-10 km, using a scale of 2 squares = 1 km.
+
+PORTS:   IMPORT:                       EXPORT:          OTHER DATA: RRT2, The second Century  with    
+          Goods                         Iron ore         option for multiple companies.  Start year >1849,1862,                              
+          Goods                         Bauxite          <1872. Alternative engine avaibility.                                                                                                                                                                                                                                                                                
+          Food                          Logs             Start economy: 90%. Growth: 1,1% per year. 
+          Cotton: 1 unit per dock.
+
+Win conditions: BRONZE: 30 mill., SILVER: 50 mill., GOLD: 75 mill. of company book value within 30 years.
+By  drawing this map I have built all railway lines with a maximum gradient of 2%, and replaced them with 
+reserve cells. When finished the map I have liqudated the company and then tested the game by playing it 2 times.   
+Personally I prefer to simulate a minor railway system with pretty landscapes, without any disturbing competition 
+or too many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate 
+all traincrashes.
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk).
+Last update: 1999-10-24.

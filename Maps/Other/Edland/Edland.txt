@@ -1,0 +1,39 @@
+Edland.map for Railroad Tycoon II 
+(Release 1)
+by
+Eddie Bangor
+eddie@worzel.force9.net
+
+--- Vital Statistics ---
+Starting Year : 1900
+Start Range : 1830 to 1950
+Map Size : 258 * 267
+Map Base : New Map
+Topography Base : Fictional World 
+Territories : Yes (13)
+Map Restrictions: Map Restrictions (Track laying to existing track only)
+Special Restrictions.: None.
+Barred Industry : None.
+Player Pool : Custom 
+Manager Pool : Custom
+Locomotive Pool : Custom
+
+--- Single Player Data ---
+Single Player : Scenario
+Computer Players: Yes (1 up to 4) 
+SP Gold Win : Be the only railroad.
+SP Silver Win : N/A (suggestions welcome)
+SP Bronze Win : Survive until 2020.
+SP Loss : None.
+
+--- Multi-Player Data ---
+Multi-Player : NOT TESTED. 
+MP Gold Win : N/A.
+MP Silver Win : N/A.
+MP Bronze Win : N/A.
+MP Loss : N/A
+
+--- Extra Information ---
+Known Bugs : Playing without AI players will produce Gold win after first year.
+Other Notes : This map started as an test case for the editor and then I got carried away. You will need to play against, at least, one of the four AI's to make it work. Better yet, play on "Expert" with all four AI's supplied. It's been designed for long play so the economics move slowly. 
+Oh, and watch your back. Things could get nasty.

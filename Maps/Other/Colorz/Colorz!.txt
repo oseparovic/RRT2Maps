@@ -1,0 +1,36 @@
+    Colorz!
+ by Bill Ingram
+  bing@csn.net
+
+This is a Map for the full version of 
+Railroad Tycoon II. It depicts a ficticious
+land where all the cities are named after
+colors. The Territories are similarly
+named after colors. The loads available
+and terrain are related to the Territory 
+color (i.e., Red has a lot of Mountains
+and contains most of the minerals on the
+map. Blue has a lot of Rivers and Ports).
+
+You start in the Territory of White,
+which has lots of Farms and Dairies,
+and can buy access into other Territories.
+The goals are related to the colors (i.e.,
+connect Red to Black, deliver from Green 
+to Brown). Many of the major cities in
+the game have special bonuses associated
+with them (i.e., the city of Gold gives a
+15% revenue bonus to the first player to
+connect to it).
+
+It's actually a very nicely designed map.
+Typically, you will build some milk runs
+(pardon the pun) in White to build up cash.
+Then buy your way into Blue or Green. After
+some more cash build up, expand into Red, Black,
+and Brown to win. Expanding into Purple or
+Yellow is optional, but profitable.
+
+Feedback is welcome.
+
+-- Bill

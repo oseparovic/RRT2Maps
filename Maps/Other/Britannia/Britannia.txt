@@ -1,0 +1,42 @@
+
+Welcome, and to those who know the ways of the Avatar, are familiar with the 
+Virtues, or who are arriving from the various shards, Hail!
+
+Installation: Uncompress archive and copy Britannia.MAP to your RRT2 map directory
+(usually c:/Program Files/Railroad Tycoon II/maps).
+ 
+There are two of us: one is a veteran of the Ultima series; the other a 
+late-comer, but a veteran of Ultima Online.  Our map "Britannia" represents 
+our efforts  to interpret the land of Britannia, a place familiar to any 
+adventurer who has ever booted up a program with the word 'Ultima' in the 
+title.  Because of the need for a larger number of towns and cities, we have 
+imported cities from a number of Ultima games.  You'll find cities from the 
+traditional Britannia, Serpent Isle, Pagan, and Mars.
+
+Before anything else, we acknowledge that words like "Ultima," "Ultima Online" 
+and probably a whole bunch of other stuff belongs to Origin Systems, Inc. or 
+Electronic Arts, Inc. and is protected under copyright and trademark laws.  
+We have only intended to make fair use of this material in providing a 
+"Railroad Tycoon interpretation" of it.  
+
+The map itself puts a premium on planning, especially with respect to laying 
+track, grading, and coordinating resources with destinations.  It is not cheap 
+in most places to lay track.  As to possible routes,  there are at least four 
+routes over or through the main range of mountains that can be built without 
+a single piece of grade 4.0 (or higher) track.  And yes, you can get to the 
+coal and iron mines on on the north side of the northernmost mountains in a 
+similar fashion if you really want to.
+
+We have found that the map works best starting in the late 19th century.  We 
+recommend 1880 (and the single player scenario is designed for that date) 
+although +/- 10 to fifteen years might also work.
+ 
+There are several "events" in both the multiplayer and single player versions.  
+Connecting to  locations such as the shrines or dungeons (or the spots that would 
+be shrines or dungeons in the Ultima games) provides rewards and perhaps some risks. 
+Watch the notes and newspapers carefully.  Be prepared for a surprise or two.  
+While we think the map has its challenges, getting to gold is quite possible. 
+ 
+We hope you will have as much fun playing this map as we have had putting it 
+together.  Please forward any comments or suggestions to jsylvest@texas.net 
+and/or gsbales@home.net.

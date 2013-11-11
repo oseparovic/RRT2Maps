@@ -1,0 +1,19 @@
+FANTASIA RAILWAYS, version 2:
+
+This railway system is based on a mainly agricultural economy in the southern hemisphere. The main industrial area is situated in the middle of the island with iron ore and some oil wells. In the North, the climate is more temperated., and 
+the industry there is mainly based on grain, sheep, cattle ,lumber, and some bauxite. 
+
+I sugest the player to start with a small railway from Kingston to Nunaton. It will take some years to consolidate your company, but soon the expansion will escalate. By 1910 or so, the whole system should be built, and by this time it will take approximately 100 trains to run it. Note:: No electric or diesels (with one exeption)  are avaiable before 1957. By this time there are no more steam engines for sale.
+
+PORTS:   IMPORT:               EXPORT:       OTHER DATA: RRT2, The second Century  with    
+          Coal                  Iron ore      option for multiple companies.  Start year 1860.                          
+          Goods                 Coffee        Some events with effects on the game will happen
+          Goods                 Oil           underway. Limited engine avaibility. Start economy:
+          Goods x1 per dock.                  100%, growth: 1% a year.
+
+By  drawing this map I have built all railway lines with a maximum gradient of 2%, and replaced them with reserve cells. When finished the map I have liqudated the company and then tested the game by playing it 2 times.   
+The average distance between stations are approximately 5-10 kilometres, using a scale of 2 squares = 1 km. I find it more realistic to build a railway of 275 km. with 32 stations, rather than a  1200 km railway between New York and
+Chicago with 10 stations. But ok! there are many ways to play rrt2! Personally I prefer to simulate a minor railway system with pretty landscape, without any disturbing competition or too many train crashes.
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 1999-07-25.

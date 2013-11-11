@@ -1,0 +1,56 @@
+The map was created using Linux version of RailRoad Tycoon II with
+the Second Century expansion pack installed.  The map is not located
+to any known region of the world.
+
+Here is some general information about the map.
+
+A new transportation vehicle, automobile, has been recently invented
+and the world is looking for sources of fuel to run its automobiles.
+Soon, mass production of automobiles is due to start opening new
+markets for shipping oil, diesel and automobiles.
+
+Kingdom of Bulvania has great potential in providing fuel to the
+global markets.  You, as a transportation engineer of the Bulvanian
+Petroleum Inc, are responsible for building transportation routes
+for shipping oil, diesel and automobiles.
+
+The Kingdom of Bulvania is a remote and mountaneous country with no
+oil fields of its own.  However, the kingdom is located by the sea
+and the most profitable oil shipping routes pass throught the ports 
+operated by the Kingdom of Bulvania.
+
+Currently the economy of the Kingdom of Bulvania is dependent on
+paper industry.  This is expected to change due to the ideal 
+location of the kingdom in the middle of the oil shipping route.
+It also is expected that the economy of the Kingdom of Bulvania 
+starts growing in trendemous rate once the oil starts pouring in.
+
+It should be easy to earn bronze and silver in this scenario.  The 
+gold, in my opinnion, is a more challenging goal.  Here are some 
+tips for striving for gold.
+
+Expand your track aggressively at the beginning of the game so that  
+you can start shipping oil early in the game.  Recall that an oil well 
+only produces three loads of oil per year and it may take quite a time 
+to deliver the loads.  Trains of the late 19th century are quite slow 
+and depending on the length of the route, they may take upto five years
+to deliver their loads.  If you are shipping all the oil a well may 
+produce, you may estimate that in ten years you should be able to ship 
+thirty loads of oil.  Again, let me remind you that it will take some
+time to deliver the first loads.  For the gold you must deliver at 
+least one hundred loads of diesel to the ports so be sure to start 
+shipping oil and diesel early in the game.
+
+Watch out for congestion.  In this scenario cities grow rapidly and 
+lucrative routes open up frequently.  However, the kingdom is a very
+mountaneous one and there are not so many good places to lay track on.
+When the diesel trains start pouring in, you will have lots of trains 
+running on the same pairs of tracks.  To accommodiate that, be sure to 
+build enough track for the trains running long routes.  If necessary,
+build a couple of stations to each major city and balance the traffic
+between the stations in order to avoid congestion near the station.  
+Moreover, select your locomotives right.  Fast locomotives do not
+typically climb well and they may even bring the whole system to a
+grinding halt if they stop on a hill.
+
+Toni Ronkko <toni.ronkko@uku.fi>

@@ -1,0 +1,21 @@
+Gateway to Paradise
+
+This map is a stand-alone scenario. I designed it originally with only the portion 
+labeled ‘Paradise’ as a way to teach myself how to manage high volumes of traffic. 
+This map was made on a Pentium II PC with RTII, TSC as the game program. If 
+you are concerned with your computer’s ability to handle the event load, then you 
+may wish to try ‘Paradise Light’ which is less computationally intensive.
+
+There are a variety of fictional territories on the map. The terrain is fairly gentle 
+and rolling. The challenge comes from the events. None of the territories really 
+care to be connected to each other. Of course, that is what it takes to win. You will 
+have to build at least two spanning bridges. Access to Paradise is not allowed 
+until ten years after the start of the game. 
+
+The technique I have used to win the game is as follows. The human player starts 
+a new company for each territory. When he or she finishes with a territory, the 
+player sets the company to maximum dividends. All of the companies after the 
+first are wholly human owned. When all of the territories are filled and 
+connected, start merging the companies together. There are other ways to win.
+
+Jerry Meyer was of great help in designing this map.

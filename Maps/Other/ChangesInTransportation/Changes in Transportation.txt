@@ -1,0 +1,9 @@
+Changes In Transportation
+By Brian Duarte
+
+The railroads main job is to compete with the canal and the roads being built in a contry. 
+The default start year is 1840. You can start the map between the years of 1830 to 1850. 
+The towns are spread apart and only contain housing. The industry is spread out around the 
+map. All of the events, except the ones that depend on money and economic conditions, will 
+happen before 1870. You can add event and change whatever you want. Feel free to change it 
+and repost it.

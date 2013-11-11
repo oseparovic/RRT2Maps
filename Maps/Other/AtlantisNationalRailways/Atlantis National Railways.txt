@@ -1,0 +1,14 @@
+Once upon a time there was a kingdom called Atlantis.
+
+With Atlantis National Railways, I have tried not to overdo with resources, but to run the 
+whole system it will take approximately 150 trains! Around the capital, "Wellington", and 
+the heavy industrial center around "Bloomington", there space reserved for quardruple track 
+in an attempt to separate local and long distance traffic. Again I have manipulated with 
+the RRT2 locomotive rooster. Exept two smaller electric locomotives for suburban traffic 
+(around " Wellington") there are only steam engines avaiable until 1956.
+
+The scale is 10 squares=5 km
+
+
+Anders Robert Pilgaard-Aarhus-Denmark.
+bx03638@post7.tele.dk

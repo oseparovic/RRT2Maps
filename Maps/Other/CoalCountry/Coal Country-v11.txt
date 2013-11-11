@@ -1,0 +1,61 @@
+Coal Country - a map for Railroad Tycoon 2 - v1.1 - by Sirian
+
+Map size     : 240 x 240
+Date Released: January 25, 1999
+
+Single Player: Yes
+Map Goals    : Yes
+Map Events   : Yes
+Multiplayer  : Yes
+Max Players  : 4
+Max Total    : 7
+
+Default Start: 1904
+Earlier Start: 1869
+Latest Start : 1969
+
+
+Coal Country is an industrial map. The towns and cities are generally 
+small, and passenger traffic has been set to low levels. There are 
+plenty of industries on the map, carefully balanced, and you will have 
+to achieve success hauling freight as well as passengers and mail to 
+achieve victory here in either single or multi player.
+
+This map features a series of events, which differ from game to game, 
+that provide opportunities of various kinds. You will have to play the 
+map to get an idea of what I mean.
+
+The map goals are industry oriented, and they are intended to be very 
+tough. Achieving a bronze or even silver victory should be within the 
+grasp of most players. The gold is tough, but highly possible. To get 
+the bronze, you must haul 120 loads in a single year. To get the silver 
+your company must also acquire $10,000,000 worth of industries. To get 
+the gold, your industries must earn PROFIT in excess of $2,500,000 in 
+a single year. There are many lucrative starting positions, and the map 
+has a lot of random elements. You have 50 years to work with. Good luck.
+
+In multiplayer, a steep goal has been set of hauling 150 or more loads 
+in a single year. If no players achieve this goal within 50 years, the 
+game ends and the player whose company has hauled the most loads for 
+the whole game will be the winner.
+
+Conditions: Low passenger traffic, Low running costs for steam engines.
+
+Steel Mill Event: Steel revenue up 1/2, minor bonuses to iron and coal.
+Lumber Event:     Lumber and Paper up 1/3, pulpwood production up
+Dairy Event:      Milk revenue up 1/2, food revenue up 1/6
+Aluminum Event:   Bauxite up 1/3, Aluminum up 1/2, Food and Goods up a bit
+Department Store: Wool up 1/2, Goods up 1/5, Grain and Cattle up a bit
+Auto Plant Event: Auto revenue up 2/3, tires up 1/3, steel up slightly,
+                  rubber imports up 1/4, passenger traffic down 1/4
+
+Note: Passenger traffic will be at its highest between 1903 and 1915. In 
+      that time period, it will be low. All other times, VERY LOW.
+
+
+I made this map completely from scratch. It represents an imaginary place.
+
+Special thanks to Ceebee and MarshalN for helping me beta test this map.
+
+
+Sirian ... aka ... Robert B. Thomas

@@ -1,0 +1,57 @@
+Free Four All - a map for Railroad Tycoon 2 - v1.0 - by Sirian
+
+Map size     : 360x360
+Date Released: Jan 24, 1999
+
+Single Player: Yes
+Map Goals    : Yes
+Map Events   : Yes
+Multiplayer  : Yes
+Max Players  : 4
+Max Total    : 4
+
+Default Start: 1935
+Earlier Start: 1845
+Latest Start : 1995
+
+
+Free Four All is primarily a multiplay map for up to four players. 
+
+Each player controls one quarter of the map, and can only build or 
+buy in that territory. Stocks play a minor role at best, as there 
+are no mergers or takeovers allowed, you cannot resign as chairman, 
+and personal net worth factors into the victory conditions only as 
+the tiebreaker in case of a three-way tie.
+
+You must use connected track on this map.
+
+Electric train costs are reduced. All other settings are normal.
+
+Free Four All map has NO TIME LIMIT. Players play until all the 
+victory conditions have been met. There are three conditions for 
+victory, and the first player to meet each condition scores a 
+Victory Point. Earning two Victory Points wins the game, however 
+if the same company earns the first two points, game play can 
+continue until someone earns the third point if players wish. The 
+game ends when any combination of players meet all three conditions.
+
+Victory Condition: First company to haul 250 loads in a single year.
+Victory Condition: First company with Book Value exceeding $125,000,000
+Victory Condition: First to earn industry profits of $2,500,000 in one year.
+Tie Breaker:       Player with highest personal net worth.
+
+There are two events of note in the game.
+
+Coal Hill to Oreville: you have 10 years to make the connection, and then 
+an unlimited amount of time to haul the loads, if the connection is made.
+
+Priority Mail: will increase mail supply by 1/3, revenue by 1/4, and a 
+slight increase in revenue for paper and pulpwood.
+
+Single player works just like multiplayer, except you are racing only the AIs.
+
+
+Good luck!
+
+
+Sirian ... aka ... Robert B. Thomas

@@ -1,0 +1,13 @@
+BORDURIA RRT2, TSC version 1.2
+
+As a contractor you have signed a contract with a small tropical kingdom called Borduria to 
+build and run a railway system , in order to provide the main island with better comunications 
+within 25 years. If you fail, your company will recieve a fine of £2 million.
+
+Start year 1869, Start economy 100% with a groth rate of 0.9%. Import: Goods, food and lumber. 
+Export: Coffee, rubber and bauxite. Due to road competition, the loads of milk, wool and 
+cattle will dwindle to almost nothing from approx. 1970. Steam can be replaced by diesels 
+from 1956. No electric locomotives are avaiable before 1972.
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk).
+Last update: 2000-04-14
