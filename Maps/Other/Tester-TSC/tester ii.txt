@@ -1,0 +1,33 @@
+The Tester II Map for Railroad Tycoon II TSC.
+version 2.0
+
+This map is used to test one engine against another.  It is not
+a scenario.  Line up your engines with a few passenger cars for
+a lap race along similar stretches of track.  See how much profit
+each engine makes over a few years or a lifetime.  Test the engines
+fitness for a specific type of track.  You may be surprised which 
+engines bring in the most revenue.
+
+The A1-S1 vs B1-T1 test.
+I've tried to get both these standard difficulty runs the same.  But with
+buildings and houses deforming terrain they may be slightly different.
+The test I do is to run 6 cars (4-pass 2-oil/ 250 tons) to each station.
+Press 'A' to see the book.  Check status page.
+After 6 years subtract the profit from gross to see expenses.
+Check the number of loads in the period. Good is 90.
+Total tons = 90/(6 carloads per trainload) times 250 (tons per train) = 4000 tons.
+Divide tons by (expenses + cost of engine).
+
+In TSC you have to know the ecomonics not just the abilities of each engine.
+
+Right now the world slope view (green, yellow, red numbers) doesn't seem to
+run quite right as the numbers seemed to be slightly different than true slope.
+(If you click the track building tool and run some track over the existing track
+and not build it, that should clear the numbers to the true value.)
+
+
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

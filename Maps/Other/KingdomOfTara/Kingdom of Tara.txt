@@ -1,0 +1,23 @@
+Kingdom of Tara 1862 version 2:
+
+Welcome to Arboria! The Goverment has signed a contract with your company to build and run a railway system over a 30 year 
+period. If you fail, your company will recieve a fine of 2 mill. The main buisines is mining and logging industry.
+
+Note:  Space is reserved for quadouble track and/or bypasses around most of the big population centres 
+Average distance between stations are approximately 5-10 km, using a scale of 2 squares = 1 km.
+
+PORTS:	IMPORT:		EXPORT:		OTHER DATA: RRT2, The second Century with
+	 Goods		 Coffee		 option for multiple companies.  Start year 1862,
+	 Goods		 Rubber		 Alternative engine avaibility.
+	 Food		 Logs		 Start economy: 87%. Growth: 0,8% per year.
+	 Food		 Bauxite
+
+Win conditions: BRONZE: 50 mill., SILVER: 75 mill., GOLD: 100 mill. of company book value within 30 years,
+And Tabora (the capital) connected to Finatere, Sina and Elguin. NOTE: No diesels avaiable before 1954 and no electrics 
+before 1973. Special features: Four places  on this map I have tried to simulate tunnels, (steep narrow and overgrown 
+gorges). Status over CBV, PNW, lenght of track, (single or double), and company type load hauled.
+Personally I prefer to simulate a minor railway system with pretty landscapes, without any disturbing competition or too 
+many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate all traincrashes.
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk).
+Last update: 2000-07-25.

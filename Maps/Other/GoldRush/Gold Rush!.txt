@@ -1,0 +1,23 @@
+--General Information-
+Full Map Title: Gold Rush!
+Author: Andrew Mark Schwartz
+Copyright: Please mention me somewhere in the Readme.txt
+Distribution: Map may be distributed, as is , or modified 
+Starting Year: 1864
+Start Range: 1864 to 1870
+Map Base: New Map
+Topography Base: This map is a totally and completely fictious map of a British colony.
+Territories: Yes
+Player Pool: All
+Manager pool: All
+Locomotive: All
+Limitations: None
+
+--- Single Player Data---
+No Scenario, sorry
+
+Multi-Player
+Multi-player: no
+
+Extra Information-
+I really like to make maps. However I am the type that just likes to throw down track with no rhyme or reason so I saw no reason to put in a scenario. Anyone who wants to make one knock your self out.

@@ -1,0 +1,22 @@
+TARESIA 1875 version 1:
+
+Welcome to Taresia! The Goverment has invited your company to build and run a railway system over a 50 year period.
+Geografy: Taresia is a small tropical island. The main buisiness is mainly agricultural  and crops are rice (grain), 
+citrus and bananas (produce), sugar, rubber plantations and some cattle. In the nortern part of the island there are 
+some mining and logging industry. In this scenario, a some events will have influence on the outcrop ("Record grain 
+harvest", "Record fruit harvest", "Locusts destroyes 50% of this years harvest").
+
+Note:
+As an attempt to avoid congestion, the train turnaround time is improved by 50%, traction +40% and acceleration +10%. 
+Average distance between stations are 5-10 km.
+PORTS:	IMPORT:		EXPORT:		OTHER DATA: RRT2, The second Century  with
+	 Food		 Produce	 Start year (1850)-1858)-(1875),
+	 Goods		 Coffee		 Limited engine avaibility *).
+	 Food		 Rubber		 Start economy: 100%. Growth: 0,6% per year.
+	 Goods		 Bauxite
+*) First diesel in 1954. There are no electric trains in this scenario.
+Win conditions: BRONZE: 50 mill., SILVER: 75 mill., GOLD: 100 mill. of company book value within 50 years.
+
+
+This map has been created by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 2000-12-20.

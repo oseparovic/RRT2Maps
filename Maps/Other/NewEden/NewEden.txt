@@ -1,0 +1,43 @@
+NEW EDEN
+
+by Marco Stefanutti - Udine - Italy (stefanutti@dgt.uniud.it)
+
+New Eden is a place I once dreamt of: a great cupola under which life is calm 
+and there's a lot of time to devote to ourselves. I thought it was a good idea to
+make it become a map for Railroad Tycoon II.
+
+
+NEW EDEN MAP: HISTORY AND HINTS
+
+It's 1950: a green light lands in Sahara desert, in Africa. A group of aliens founds New Eden:
+a great cupola made of glass in which earthlings can just enter, but they can't get out.
+So people inside grow. They're all happy and calm in this paradise, but New Eden can
+survive only if you bring the chemical and uranium cargos, coming from the space, that land on the waters of Hyper 
+Sea to the Geocore plant and to the nuclear plants placed in the centre of the cupola.
+
+The aim of this map is to haul as many chemical and uranium cargos as possible from Hyper 
+Sea to New Eden Geocore. Without these cargos New Eden can't survive!
+
+Follow the instructions that appear in the dialogs and on the newspapers.
+
+Hint: use electric engines so that you can exploit aliens technologies and devices to improve
+ acceleration, traction and speed of the engines.
+
+The game has been tested by myself: I've been able to haul more than 500 uranium and chemical
+cargos within 2000. So I fixed the gold medal condition to 500 cargos.
+
+If you find some difficulty or problem in New Eden map, please write me.
+
+Enjoy New Eden map!
+
+Other maps I made (with Alex Cucchiaro):
+	Italy.map (releases 1.0, 2.0, 2.1 for RT2, 3.0 for TSC)
+	Friuli-Venezia-Giulia (release -RT2 for RT2 and -TSC for TSC)
+
+
+Wait for new very detailed maps by Marco Stefanutti and Alex Cucchiaro:
+
+- Switzerland, heart of chocolate;
+- Italian regions;
+
+coming... as soon as possible... 

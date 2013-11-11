@@ -1,0 +1,22 @@
+SYLVANIA 1869 version 1:
+
+Welcome to Sylvania! The Goverment has invited your company to build and run a railway system over a 30 year period.
+Geografy: The coasts are subtropical lowland, mainly agricultural with dense population and the crops are grain, citrus and cotton and with 
+some milk and cattle. In the hihgland, only the valleys are populated. The main buisines there is grain, milk, cattle, sheep, logging and 
+heavy industry. In this scenario, a lot of events will have influence on the outcrop.
+
+Note:  Space is reserved for quadouble track and/or  bypasses around most of the big population centres in an attempt 
+to avoid congestion. The train turnaround time is improved by 50%.  Average distance between stations are 5-10 km.
+PORTS:	IMPORT:					EXPORT:		OTHER DATA: RRT2, The second Century  with
+	 Food (fish)   1 unit pr. dock.				 Start year 1869-75,
+	 Grave1   1 unit pr. dock.				 Alternative engine avaibility *).
+	 Produce				 Goods		 Start economy: 90%. Growth: 0,7% per year.
+	 Grain					 Sugar
+
+
+*) First diesel in 1955, first electrics in 1972 with speed +25%, no TGV or other high speed trains.
+Win conditions: BRONZE: 50 mill., SILVER: 75 mill., GOLD: 100 mill. of company book value within 30 years.
+
+
+This map has been created by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.tele.dk).
+Last update: 2000-10-25

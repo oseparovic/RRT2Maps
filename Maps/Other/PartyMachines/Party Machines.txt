@@ -1,0 +1,49 @@
+Scenario "Party Machines" for Railroad Tycoon II - The Second Century
+Map created by Lars Maischak, lama@zedat.fu-berlin.de
+
+This scenario has been inspired by the period of U.S. history when politics were dominated by party apparatuses which based their power on patronage (roughly 1890-1920). In this scenario, each railroad company represents a political party competing for votes. There are 21 districts (territories) on the map, each sending one member into Parliament. Elections are held annually, in September. Your candidate will get elected if your company is the one to have delivered the most loads to that district by election day (all loads ever delivered count). Districts not served by any company elect Independents.
+
+This map has been tested for single player games and should be bug-free (dare I say?).
+I have no idea whether or not it will work for multiplayer, but in theory it should.
+Please let me know if you are interested in a match.
+
+
+Players/Companies:	There are always three companies in the scenario,
+			all of which can be led by a human player.
+
+
+Timeframe:	1890 - 1915,
+		1895 - 1920,
+		1900 - 1925, or
+		1905 - 1930
+
+
+Victory conditions (to be met by the end of the 26th game year):
+
+Single Player:
+Bronze:		Hold 7 (out of 21) or more seats in Parliament;
+		hold more seats than any other party
+Silver:		Hold at least 11 seats in Parliament
+Gold:		Hold at least 11 seats in Parliament;
+		be the only company left.
+
+Multiplayer:
+Silver:		Hold more than 7 seats in Parliament;
+		hold more seats than any other party
+Gold:		Hold 11 seats in Parliament
+
+
+
+Restrictions:	-You may only build track connected to that of your own company.
+		-At the beginning, all companies will have access to a different group of three
+		districts. Further access rights have to be bought. AI players will gain access
+		to all districts in the 3rd game year.
+
+Other features:
+
+There is one feature in this scenario which I adopted from "Transport Tycoon": You will sometimes get the opportunity to purchase exclusive transportation rights to a district for one year (at a cost of $1.000.000). This can be a useful thing to do if you are trying to win over a district that has been held by another company for a while.
+You will be offered to purchase exclusive train access to a district if all of the following conditions apply: Two or more companies serve the territory; your company has *not* delivered the most loads to the district since the beginning of the game; your company *has* delivered more loads  to the district than any other company in the first half of the year; your company has at least $750.000 cash; the ID of the district is higher than 6 (i.e., the six districts in the center of the map, around the lake, will not offer to buy exclusive access rights).
+
+The first human-owned company to win 5, 7, and 9 seats in Parliament will receive benefits such as lower engine prices and lower track building costs; at an additional cost for bribes.
+
+In order to reach the Gold-conditions in a single player game, you can try to buy your competition, or try to force them into bancrupcty. The easier way, however, is to simply force the competition out of business by political means. Once you hold a majority in Parliament (11 seats), you can pass legislation granting your company a monopoly over the railroad market, IF your company goodwill is at least "very good", and if you can spare the $1.000.000 you will have to pay to make the legislative branch of government look the other way.

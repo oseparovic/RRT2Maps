@@ -1,0 +1,36 @@
+--- General Information ---
+Full Map Title : High Desert
+Author : Dave (davedonaldson@home.com)
+
+Copyright Info. : None
+Distribution : As you wish
+
+Usage Restrict. : As you wish
+
+--- Vital Statistics ---
+Starting Year : 1901
+Start Range : 1901
+Map Size :  450w x 300h
+Map Base : New Map / Base Map Name (pick one)
+Topography Base : Reno area
+Territories : 3
+Map Restrictions: none
+Special Restrct.: none
+Barred Industry : none, but no agricultural
+Player Pool : all
+Manager Pool : all
+Locomotive Pool : all
+
+--- Single Player Data ---
+Single Player : none
+Computer Players: no
+SP Gold Win : na
+SP Silver Win : na
+SP Bronze Win : na
+SP Loss : na
+
+--- Multi-Player Data ---
+na
+
+--- Extra Information ---
+Other Notes : Pretty good @ first pass; can be better.  Feel free to improve & re-post!

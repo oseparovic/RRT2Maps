@@ -1,0 +1,80 @@
+Grand Prix - a map for Railroad Tycoon 2 - version 1.0 - by Sirian
+
+Map size     : 180 x 500
+Date Released: Feb 2, 1999
+
+Single Player: Yes
+Map Goals    : Yes
+Map Events   : Yes
+Multiplayer  : Yes
+Max Players  : 2
+Max Total    : 2
+
+Default Start: 1861
+Earlier Start: 1826
+Latest Start : 1996
+
+
+Grand Prix is a bold and creative map idea I came up with after
+completing my Free Four All map. It took me about 4 evenings to 
+put Grand Prix together, 1/4 of that just on event scripting.
+
+In Grand Prix, you "race" your opponent to see who can connect 
+Starting Gate territory to Finish Line territory and haul 50 
+or more loads between them. However, there are 10 territories 
+on each players half of the map, and you start with rights to 
+only two of them. You must earn rights to each new territory 
+in sequence, by meeting various map goals along the way.
+
+Checkpoint 1 : Haul 30 loads between Starting Gate and Timber Corner.
+Effect       : Rights are granted to Heartland territory.
+Bonus        : $50,000 cash, and +2% Goodwill
+
+Checkpoint 2 : Earn profits from industry of $750,000 in a single year.
+Effect       : Rights are granted to Landbridge territory.
+Bonus        : $100,000 cash, +3% more Goodwill, 5% faster turnarounds
+
+Checkpoint 3 : Haul 20 loads between Landbridge and Timber Corner.
+Effect       : Rights are granted to the Desert.
+Bonus        : Company Overhead 10% cheaper, Car Maintenance 5% cheaper
+
+Checkpoint 4 : Haul 40 loads FROM the Desert TO the Heartland.
+Effect       : Rights are granted to the Swamp.
+Bonus        : Fuel Costs 10% cheaper
+
+Checkpoint 5 : Is a two-part goal. You must complete both to advance.
+Checkpoint 5a: Achieve a company book value of $100,000,000
+Checkpoint 5b: Haul 20 loads TO the Swamp from any combo of territories.
+Effect       : Rights are granted to the Plateau.
+Bonus        : Track Building -5%, Mtn Track -10%, Track Maintenance -10%
+
+Checkpoint 6 : Haul 50 loads between Plateau and the Desert.
+Effect       : Rights are granted to the Peaks. 
+Bonus        : Traction +10%, Acceleration +5%, 2-6-0 Camelback available
+
+Checkpoint 7 : Is a two-part goal. Can do either first, or simultaneous
+Checkpoint 7a: Haul 40 loads FROM the Peaks TO the Plateau.
+Bonus        : Engine Maintenance 5% cheaper
+Checkpoint 7b: Haul 20 loads FROM the Peaks TO the Swamp.
+Bonus        : Trains 10% safer, Turnaround another 5% faster
+Effect       : Rights are granted to the Wasteland.
+
+Checkpoint 8 : Is a two-part goal. Must do both at same time in one year.
+Checkpoint 8a: Earn profits from industry of $1,500,000 in a single year.
+Checkpoint 8b: Haul 150 loads in a single year.
+Bonus        : Train Speed 10% faster, GP9 Diesel Locomotive available.
+Effect       : Rights are granted to Finish Line territory.
+
+Grand Prix   : Haul 50 loads between Starting Gate and Finish Line.
+Effect       : Victory!
+
+
+If playing in single player, the AI won't be a factor. It can make it most 
+of the way, but it has no hope of completing the race. It is there just to 
+keep you company as you play. So you are on your own in a one-man race against 
+the clock. You have 100 years to win Bronze, 75 for Silver, 50 for Gold.
+
+Good luck!
+
+
+Sirian ... aka ... Robert B. Thomas

@@ -1,0 +1,18 @@
+UTOPIA (tsc):
+This is a new and very improved version of the very first map I made (Utopia,  by "Cecil Harper").
+
+Welcome to Utopia!
+You have been invited to the small Kingdom of Utopia to assist with management and construction af an efficirent ralilway 
+system, in order to provide the island with better communications. Though Utopia is rather montainious, it should be 
+possible to build most railways with a maximun incline of 2%. Notice: Five tunnels are pre-built to avoid to steep gradients.
+Note:: Until 1954 only steam locomotives are avaiable. From 1959 until 1972 you can only buy diesels.
+
+PORTS:	IMPORT:		EXPORT:		OTHER DATA: RRT2, The second Century
+	 Goods		 Pulpwood	 option for multiple companies.  Start year 1860.
+	 Cotton (1)			 Alternative Engine avaibility.
+	 Food (1)	 Logs		 Start economy: 75%. Growth: 1,0% per year.
+	 Automobiles	 Uranium
+Win conditions: BRONZE: 100 mill., SILVER: 200 mill., GOLD: 300 mill. of company book value within 40 years.
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk).
+Last update: 2000 -02-20.

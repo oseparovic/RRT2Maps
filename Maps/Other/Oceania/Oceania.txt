@@ -1,0 +1,18 @@
+The world is upside down. All oceans are land
+an vice versa. Try to connect Honululu to
+Wellington(NZ). Not across the Pacific, but the
+other way round! There are victory event in this
+game. I've tested them on a smaller scale but not
+against their real conditions. I hope, they work 
+nevertheless...
+
+Some geographical names may look or sound strange
+to non-german users. I'm sorry, but I only have
+german maps and atlases. So edit them, if you like...
+
+That's all folks.
+Have fun ;-)
+
+Eckhard Flor
+
+PS: Once again, thanks to the USGS for their DEM-data

@@ -1,0 +1,24 @@
+VENTURIA 1858 version 1:
+
+Welcome to Venturia! The Goverment has invited your company to build and run a railway system over a 30 year period. 
+Geografy: From the surrounding highland Venturia slopes towards the coast. The climate is tempearted with mild winters. 
+Along the mainly agricultural coasts crops are grain, citrus and wine and with some milk and cattle. In the hihgland, 
+only the valleys are populated. The main buisines there is grain, milk, cattle, sheep, logging  and heavy industry. In 
+this scenario, a some events will have influence on the outcrop ("Record grain harvest", "Grain harvest  30% below 
+average, "Cattle plague or "Wood fires") . This "build and have fun" scenario contains approximately 180 villages, 
+towns and cities.
+
+Note:  Space is reserved for quadouble track and/or  bypasses around most of the big population centres in an attempt 
+to avoid congestion. The train turnaround time is improved by 50%, traction +40% and acceleration +10%.  Average 
+distance between stations are 5-10 km.
+PORTS:	IMPORT:		EXPORT:			OTHER DATA: RRT2, The second Century  with    
+	 Food (fish)	 1 unit pr. dock.	 Start year (1850)-1858)-(1875),
+	 Cotton		 1 unit pr. dock.	 Alternative engine avaibility *).
+	 Goods		 Oil			 Start economy: 92%. Growth: 0,6% per year.
+	 Sugar		 Grain
+*) First diesel in 1954, first electrics in 1946 with speed +25%, no TGV or other high speed trains.
+Win conditions: BRONZE: 200 mill., SILVER: 300 mill., GOLD: 400 mill. of company book value within 50 years.
+
+
+This map has been created by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 2000-12-15

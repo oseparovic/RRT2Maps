@@ -1,0 +1,46 @@
+Starship Troopers
+Map for Railroad Tycoon II TSC.
+version 1.0
+
+'Bug Mr. Rico.  Zillions of them!'.
+After many years of terraforming the planet Kraken V and ridding
+it of the bug bests. (Basically dropping water ice asteroids on it). 
+The humans have developed a good eco-system here.  
+Only 10% of the water as earth and only 10% the plant life it 
+neverless provides a critical supply point for the space fleet.
+
+Some arachnids apparently have survived long hidden deep in the 
+planet and have multiplied many times over. They now are trying 
+to reclaim the surface.  
+
+Your job is to supply the many military bases and forts with enough 
+troops to fight the menace.  Also, you should be looking forward 
+to the day you leave this place and return to earth.
+Once you leave here only your own cash will matter.  
+Except the Federation may not send you back to earth if you have
+failed in your job of supplying the troops.
+
+Notes:
+Bug attacks destroy rail lines.  You may lose trains too if they 
+are on the track or in a station.  Buying a single expensive engine 
+will prove risky.  Also, double trackline outside the security area 
+may prove costly.  
+
+Suggestion:
+Use non-electric diesel or steam for your exploration train.
+If it survives a few years electrify and double track.
+
+Computer players don't have much chance.  But they can be of some use.  
+If a bug destroys their rails they will not rebuild them.  But, you can. 
+And if you do they will use your lines and pay you.
+
+version
+-------
+ 0.0  Beta
+ 1.0  Release
+
+  
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

@@ -1,0 +1,71 @@
+"Railroad Tycoon 2: The Second Century"
+
+Scenario "Tanagore Island.mp2"
+
+
+	Not based on anything but my imagination.
+
+General description: an island (okay, a small continent) with semi-limited
+	industries and raw materials, with plenty of events - good, bad,
+	and silly.
+
+
+Bronze: $10 million company book value, $5 million personal net worth
+
+Silver: $20 million company book value, $15 million personal net worth,
+	200 loads of bauxite hauled, 50% electric track
+
+Gold:   $40 million company book value, $25 million personal net worth,
+	400 loads of bauxite hauled, 87% electric track, connect 5 cities
+	(among them Oceanview and Mulden Port)
+
+
+
+Restrictions: no short selling, no buying on margin, no starting multiple
+		companies, no customs, new track must be connected to track
+		already laid down (yours or anyone elses)
+
+Opponents:    1 mandatory, 5 more optional
+
+Start year: 1967
+
+Revision number: who keeps track?  Call this 1.01
+
+
+
+General notes / development:  I actually started this back in late May, when I
+	first got the game (which was two weeks after I got RT2... addictive, you
+	say?) ... but then I got caught up in both real life and
+	fixing / troubleshooting the campaigns and scenarios in both games.
+
+	Various place names: "Winston Group" (islands in the NE) named after
+	the Columbus Group in Tom Clancy's "Debt of Honor".
+	Danang out on Laos Point... for those who are still there.
+	Penkovsky - the famous Russian spy, usually has a military depot.
+	Parker and Raines - from the NBC series "Pretender"... Raines will
+	almost always have a weapons factory (if they had oxygen factories
+	available, I would've used it) while Parker will almost always have a
+	fertilizer plant (cause she always swallows the Centre's bull) and a
+	meat packing plant (she's just another piece of TV meat and/or a pun
+	on 'heat packing', as she's always armed).
+	Rutherford and Solomon from NBC's "Third Rock from the Sun"...
+	Rutherford has a mission revival style station (their mission, of
+	course) and a barracks (another	reference to their mission) while
+	Solomon usually has a nuclear plant (cause Dick usually goes ballistic).
+
+	Why such a long scenario?  I wanted to start in the 60's, but I also
+	wanted to do some Y2K stuff... anyway, as bauxite isn't that plentiful
+	and must be delivered to ports in order to count, it needs a bit of
+	time.  There are definitely enough cities to keep you busy... enough
+	without being too much.
+
+	Okay, so they're not *good* jokes...
+
+
+
+
+
+David Masters / MasterWorks, Inc.
+dmasters@jlc.net -- http://www.jlc.net/~dmasters/index.html
+the Roundhouse -- http://members.xoom.com/1_nightwolf/index.html
+August 1999

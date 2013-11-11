@@ -1,0 +1,11 @@
+Ver 0.9
+
+Grosetania is a work in progress, I hope the win and lose triggers are working.
+Seems like everytime I change a little something I forget to take it into
+account for something else... Well play enjoy and hopefully I'll get a few
+comments back to keep adjusting it.
+
+Whitey@caspers.net
+
+P.S. - Map is 300x300 - It is a little sparse because I got tired of maps that 
+had tons of passengers and weren't challenging... Enough - Give it a try.

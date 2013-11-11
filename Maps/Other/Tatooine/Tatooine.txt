@@ -1,0 +1,33 @@
+Tatooine!
+------------------------------------------------------------------------
+A map for Railroad Tycoon II (full version) ++ A. Moorer (ver1.0 1/99)
+------------------------------------------------------------------------
+
+Iron horses in the deserts of Tatooine, the arid homeworld of smugglers,
+jawas and the occasional jedi wannabe...
+
+This scenario is designed for single play against computer opponents. 
+I put this together fairly quickly, so I haven't made provisions for
+multiple players. If I receive enough requests I'm willing to take this
+map to a version 2.0, so feel free to send an email to me with feedback.
+
+The land area is wide but quite navigable and resources are for the
+most part concentrated around the relatively few population centers.
+Rails may need to reach long distances for resources.
+
+Population growth is rising, due to the Emperor's recent policy of 
+forcing troublemakers on more populated planets into exile on Tatooine.
+However, a severe lack of resources and usuable land hinders industrial 
+development.
+
+As I was making this scenario I attempted to locate any official SWars
+maps in hopes of being as faithful to that universe as possible.
+Unfortunately, the closest I got was a reference to a map which was
+printed on the box-backs of a few early toys. My apologies for any
+deviations from the established world-fiction. Any diehard fans who
+have information or suggestions to improve the map, let me know.
+
++------======---------         <_
+|Andy Moorer, 01/99           /  
+|Giraffe Film Company    ,===/
+|andy@shadowolf.net     '\\ )\

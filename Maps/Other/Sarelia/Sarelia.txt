@@ -1,0 +1,18 @@
+SARELIA 1860 version 1:
+
+Welcome to Sarelia! The Goverment has invited your company to build and run a railway system over a 50 year period. 
+The main buisines is agriculture and heavy industry.
+
+Note:  Space is reserved for quadouble track and/or  bypasses around most of the big population centres in an attempt  
+to avoid congestion. The train turnaround time is improved by 50%.  Average distance between stations are 5-10 km.
+PORTS:   SUPPLIED:                                    OTHER DATA: RRT2, The second Century  with    
+                  Food (fish)   1 unit pr. dock.            option for multiple companies.  Start year 1840-70,                              
+                  Cotton          1 unit pr. dock.            Alternative engine avaibility.                                                                                                                                                                                                                                                                                
+                  Gravel          1 unit pr dock              Start economy: 86%. Growth: 0,5% per year. 
+                  Fertilizer      1 unit per dock.
+Win conditions: BRONZE: 100 mill., SILVER: 200 mill., GOLD: 300 mill. of company book value within 50 years.
+
+
+This map has been created by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 2000-09-30.
+

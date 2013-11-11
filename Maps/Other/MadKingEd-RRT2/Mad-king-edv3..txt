@@ -1,0 +1,68 @@
+Mad King Ed
+A map for the original Railroad Tycoon II 
+(Public Release 1: Version 3)
+by
+Eddie Bangor
+eddie@worzel.force9.net
+
+To use this map copy the Mad King Edv3.map file to  your Railroad Tycoon II MAP folder on your hard drive. 
+
+This is designed to be a long, drawn out map. My thanks to Graham Willard for advise and testing and to UK Rail Express - http://rrtii.future.easyspace.com/ - and to Slap - http://www.strategygames.net/games/RailroadTycoon2/ for having the best sites around. Oh and to Pop Top for the game itself, not to mention the wonderful add-on "The Second Century" (buy it!): http://www.poptop.com/
+
+--- Vital Statistics ---
+Starting Year : 1900
+Start Range : none - 1900 only
+Map Size : 400 * 400
+Map Base : New Map
+Topography Base : Fictional World 
+Territories : Yes (13)
+Map Restrictions: Map Restrictions (Track laying to existing track only)
+Special Restrictions.: None.
+Barred Industry : None.
+Player Pool : Custom 
+Manager Pool : Custom
+Locomotive Pool : Custom
+
+--- Single Player Data ---
+Single Player : Scenario
+Computer Players: Yes (4 compulsory: 4 more optional) 
+SP Gold Win : Be the only railroad.
+SP Silver Win : 50 Loads Palace Island to King Ed Country
+SP Bronze Win : N/A
+SP Loss : 2020.
+
+--- Multi-Player Data ---
+Multi-Player : NOT TESTED. 
+MP Gold Win : N/A.
+MP Silver Win : N/A.
+MP Bronze Win : N/A.
+MP Loss : N/A
+
+--- Extra Information ---
+Known Bugs : None: Removed in versions 1 and 2. Tested on both the original RT2 and RT2-TSC.
+
+Other Notes : The Stock Market is either won or lost in the first half of this game. In order to win gold you have to destroy all your opponents completely, as they can start other companies once you've bought up their first. 
+
+Playing with all eight opponents does clog up the map but, hay, that's the challenge.
+Various town and territories will reward you for your connection and, King Ed is likely to stick his nose into your business any time he sees fit. Some of what he does will be helpful some, well, won't be.
+
+A list of the requirements to get into all the territories follows. (Don't look if you'd rather be surprised.) All are based around your companies performance. You don't need all, but you do need more than you are given in order to win. Your  opponents start with different rights.
+
+
+Main South Land: Free at start-up
+Timber Island: Time delayed.
+South farms: Time delayed.
+Far South Passage: 100 loads in any year.
+South East: 100 Loads in any Year.
+Desert Island: Company Book Value over $25 million.
+North West: Industry Investments over $15 million.
+High Hills: Industry Profits in any year over $5 million.
+North West: Lifetime Company Revenue over $250 million.
+Upper Island: Lifetime Company Revenue over $250 million.
+Island Nation: Lifetime Company Revenue over $250 million.
+King Ed Country: Company Income in one year over $5 Million.
+Palace Island: Electric track cells numbering over 2,500.
+
+Cheers
+Edward Bangor
+02/05/99

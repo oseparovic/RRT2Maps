@@ -1,0 +1,67 @@
+RL TSC Tolnedra
+---------------
+
+RAILROAD TYCOON MAP DATA
+
+--- General Information ---
+Full Map Title : RL TSC Tolnedran Imperial Railway
+Author : RWMJ  (Richard Lally)
+Copyright Info. : n/a
+Distribution : unrestricted
+Usage Restrict. : none
+Usage guidelines. Not tested for multiplayer use.  Feel free to try it (but you’ll have to debug it yourselves).
+ 
+--- Vital Statistics ---
+Starting Year : 1830
+Start Range : between 1830 and 1985 (it was designed for 1830 but you can try later if you want).
+Map Size : 400 * 320
+Map Base : none
+Topography Base : 'The Rivan Codex' by David & Leigh Eddings
+Territories : yes
+General Restrictions : none
+Special Restrictions : none
+Barred Industry : Aluminium, Autos, Bauxite, Cotton (can be imported), Dairy, Nuclear, Rubber, Tires, Uranium.
+Player Pool : selected
+Manager Pool : selected
+Locomotive Pool : selected
+
+--- Single Player Data ---
+Single Player : Scenario 
+Computer Players: Yes (1 to 3 opponents)
+SP Gold Win : 2 loads from each of Cherek, Nadrak and Ctholl Murgos in 15 years
+SP Silver Win : 2 loads from two of Cherek, Nadrak and Ctholl Murgos in 15 years
+SP Bronze Win : 2 loads from one of Cherek, Nadrak and Ctholl Murgos in 15 years
+SP Loss : Failure to achieve a Bronze Win in 15 years.
+
+--- Multi-Player Data ---
+Multi-Player : No
+MP Gold Win : N/A
+MP Silver Win : N/A
+MP Bronze Win : N/A
+MP Loss : N/A
+
+--- Scenario Conditions ---
+Paper Revenue +25% (Paper represents Luxury Goods in this scenario.  Crafts and Industry are considered to be more advanced in Tolnedra than in the other countries).
+Coal Revenue +25% (I have imagined that the coal shortage in Tolnedra provides the business motivation to connect to Nadrak).
+Coal Fuel Cost +25% (Coal costs also reflect the coal shortage.  Kheldar Railways, based in Nadrak, do not suffer from this handicap).
+
+--- Options ---
+Choice 1 : company cash +200,000 OR Choice 2
+Choice 2 : speed & acceleration +5%, safety +10% OR fuel costs -20%
+Choice 3 : invest in Prussian development (it MIGHT arrive sooner)
+
+--- Parameter Usage ---
+CompanyVariable1 = victory conditions achieved (1 = Nadrak, 2 = Cherek, 4 = Cthol Murgos)
+CompanyVariable2 = coal load bonus tracker (bonus paid for first load and each 5 loads thereafter)
+CompanyVariable3 = Choice 2 trigger (temporary at end of year 1)
+CompanyVariable4 = Prussian Choice; after 1836, Maragor 'ghosts' tracker
+GameVariable1 = Arendish Civil War tracker (<1 = peace, 1 = first war, 2 = peace, 3 = second war, 4 = peace)
+
+--- Extra Information ---
+Known Bugs : None (yet).  You can mail me: richard.lally@virgin.net
+Bonds:
+The prime rate is set high to reflect the fact that railways have been invented prior to the development of large scale banking.  Tolnedra is the most advanced country and is roughly at the same level of development as the Roman Empire was (I do not consider it implausable that the ingenious Romans could have stumbled upon the principle of the steam engine given their other impressive engineering capabilities). 
+Trade:
+Paper is used to represent Luxury Goods produced in the workshops of Tolnedra.  Coffee is used to represent Drugs produced in Nyissa.  Cotton and Sugar represent 'exotic' materials (e.g. Silk, Spices).  Ports produce Cotton for Paper, Sugar for Coffee, Coal for Steel.  If playing in the 20th century (why not?) Fertilizer exports agenerate Grain imports.
+Other Notes : 
+This map is base on 'The Rivan Codex' by David & Leigh Eddings.  'The Rivan Codex' is the background book to the 'Belgariad' and 'Malloreon' books by David Eddings (which I heartily recommend).

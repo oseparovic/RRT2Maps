@@ -1,0 +1,11 @@
+Folks,
+   I was a little reluctant to submit these maps because I've never done anything like this before, but here they are for what they're worth.  The first might work for multiplayer, but I have never tried it.  The second is a single player scenario.
+Utopia
+   This is a map for people who like to make LOTS of money.  The environment is rich and the map is huge.  I wanted to create a scenario where you have to do research to get new engines and other goodies.  In the end, it wasn't quite as good as I thought it would be, but still if you just set all parameters to maximum, you won't be bothered much by it.  The maximum will cost you $30,000 out of ever million dollars net income.
+  Strategy Tip
+ Since the name of the game is to make a billion dollars, I do have one suggestion.  Start a very, very small company.  I usually get the minimum allowed outside investment and then find two towns very, very, close together,  (ideally with complementary resources).  If I choose correctly, it takes around $100k of double track and two $100k stations or perhaps one $100k and one $200k.  That leaves money for two trains usually.  I then, while the game is still paused, go in and set the dividend to zero.  I hate paying money to anyone but me.  I spend the rest of my money the first year, plus profits putting saloons, small hotels and telegraph poles in the stations, buying one sanding and one water tower, and most importantly buying back my stock.  I keep my eye on the stock market to see if I can pick up a thousand or so shares on the margin.  Usually, if I am careful and things go well, I can own my railroad completely by the middle of the second year.  Also, whenever I can, I borrow money and either add to the situation here, or look for two other close towns.
+Unity
+ In this scenario, the name of the game is connect the provinces.  The stock market is disabled because that was the only way I could be sure all the computer opponents built regional roads.
+
+Both of these are probably too easy.  Would love to know what others think.
+email- cecil.harper@mail.nhmccd.edu

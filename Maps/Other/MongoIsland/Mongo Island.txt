@@ -1,0 +1,18 @@
+MONGO ISLAND 1872 version 1:
+
+Welcome to Mongo Island! When Discovered at the end of the 17th  Century, Mongo Island was unpopulated, but soon after the island was colonized. Until 1865 the land was cultivated by slaves.    
+  You have been assigned by the Goverment to built and run a 3 ft. 6 in. Narrow guage railway system in order to im-         prove communications, and thereby bring new prosperity to the colony.
+Orginally, the economic system was based on agricultural feudalism, but huge iron deposits, and later on other minerals
+discovered in the mountains, will transform Mongo Island into an important industrial area. Still, the main problem is the lack of a railway system!                                                                                                                                                      I sugest the player to start with a small railway from Port Elizabeth to Newton, to bring imported goods from the port. to the inland.. After a few years to consolidate your company, you can start building the coastal trunk line to Garrick. and Southport. The Port Elizabeth area is a huge urban center, so there should be plenty of mail and passengers to carry to and from the provinces. By 1920 or so, the whole system should be built, and by this time it will take approximately 100 trains to run it. Note:: Until 1954 only  steam locomotives are avaiable, and from mid 1956 steam is out, and as more classes becomes avaiable, the diselization beginns. No electric trains will be avaiable.  
+Average distance between stations are approximately 5-10 km, using a scale of 2 squares = 1 km.
+PORTS:	IMPORT:				EXPORT:		OTHER DATA: RRT2, The second Century    
+	 Coal				 Iron ore	 no option for multiple companies.  Start year 1872.                               
+	 Goods				 Coffee		 Alternative engine avaibility.                                                                                                                                                                                                                                                                                
+	 Food				 Logs		 Start economy: 90%. Growth: 1,1% per year. 
+	 Goods: 1 unit per dock.
+Win conditions: BRONZE: 25 mill., SILVER: 50 mill., GOLD: 75 mill. of company book value within 25 years.
+By  drawing this map I have built all railway lines with a maximum gradient of 2,5%, and replaced them with reserve cells. When finished the map I have liqudated the company and then tested the game by playing it 2 times.   
+Personally I prefer to simulate a minor railway system with pretty landscapes, without any disturbing competition or too many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate all traincrashes.  
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 1999-10-24.

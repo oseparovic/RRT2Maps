@@ -1,0 +1,26 @@
+MONTANIA 1858 version 2:
+
+Montania is a very huge map. At the west coast the economy is based on  agriculture, in the centre of the contry there 
+are heavy industries based on coal, iron, bauxite and gravel. In the eastern part of the country, there is a mixture of 
+sheep, grain and logging camps. In the south the economy is based on oil, cattle and sugar beets.
+
+I sugest the player to start with a small railway from Kingston, the capital of the contry. After a few years to 
+consolidate your company, expand your railway to Galesburg and build up the steel industry there. Kingston/Newport 
+is a huge urban center, so there should be plenty of mail and passengers to carry to and from the provinces. By 1910 
+or so, the whole system should be built, and by this time it will take approximately 225 trains to run it.
+Note:: From 1950, until 1957 six classes of steam locomotives are avaiable. After then only electrics or diesels 
+are on the market
+PORTS:   IMPORT:                     EXPORT:      OTHER DATA: RRT2, The second Century  with    
+          Goods                       Oil          option for multiple companies.  Start year 1858.                          
+          Nothing                     Waste        Alternative engine avaibility.                                                                                                                                                                                                                                                                                
+          Cotton: 1 unit per dock.                 Start economy: 100%. Growth: 0,6% per year. 
+          Goods: 1 unit per dock.
+
+By  drawing this map I have built all railway lines with a maximum gradient of 2%, and replaced them with reserve 
+cells. When finished the map I have liqudated the company and then tested the game by playing it 2 times.
+Personally I prefer to simulate a minor railway system with pretty landscape, without any disturbing competition or 
+too many train crashes. If You agree, I recommend the following cheat: TAB. Then whrite NOWRECK to eleminate all 
+traincrashes.
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 1999-08-15

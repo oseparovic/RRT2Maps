@@ -1,0 +1,20 @@
+UTOPIA (tsc): version 2
+This is a new and very improved version of  UTOPIA (tsc)
+.                                
+
+Welcome to Utopia!
+You have been invited to the small Kingdom of Utopia to assist with management and construction af an efficirent ralilway 
+system, in order to provide the island with better communications. Though Utopia is rather montainious, it should be 
+possible to build most railways with a maximun incline of 2%.
+Note:: Until 1956 only steam locomotives are avaiable. From 1956 until 1973 you can only buy diesels.
+
+PORTS:	IMPORT:			EXPORT:		OTHER DATA: RRT2, The second Century
+	 Goods			 coal			Start year 1850-1875
+	 Cotton			 wool			Alternative Engine avaibility.
+	 Food  (fish)	(1)				Start economy: 81%. Growth: 0.7% per year.
+	 sugar			 grain
+Win conditions: BRONZE: 100 mill., SILVER: 200 mill., GOLD: 300 mill. of company book value within 50 years.
+
+
+This map has been ceeated by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.tele.dk).
+Latest update: 2000-10-18.

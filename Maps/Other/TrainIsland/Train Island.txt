@@ -1,0 +1,15 @@
+Train Island
+============
+
+Please note that this is a fictional map. If you do not like the
+engines in this map then I suggest pressing TAB and then typing in
+'show me the trains' to get all trains.
+
+This is a rather small map and is created from scratch. It does not
+have many events and there are only three engines available:
+
+-Electric GG1
+-Class 1020
+-Pennsylvania E44
+
+I hope you will enjoy playing this scenario! :)

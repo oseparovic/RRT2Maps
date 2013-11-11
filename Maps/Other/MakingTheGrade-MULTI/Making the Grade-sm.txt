@@ -1,0 +1,213 @@
+Making the Grade (Short Multiplayer version)
+- a map for Railroad Tycoon 2 - v1.0 - by Sirian
+
+Map size     : 240 x 240
+Date Released: March 3, 1999
+
+Single Player: Yes
+Map Goals    : Yes
+Map Events   : Yes
+Multiplayer  : Yes
+Max Players  : 5
+Max Total    : 8
+
+Default Start: 1883
+Earlier Start: 1878
+Latest Start : 1908
+
+Special Note: this version is indentical to the main version in every way 
+except the victory conditions in multiplayer. For those who want to play 
+this map in multi, but have a shorter game, use this version.
+
+
+Making the Grade is an all-mountains map, perhaps the first of its kind. It 
+is also one of the most challenging maps you will ever play.
+
+This map has complex victory conditions. There are eight map goals, for a
+combined total of nine Victory Points.
+
+In single player, you must earn one Victory Point within 40 years to 
+earn Bronze or you lose. If you qualify for Bronze, you then get extra 
+time (up to 80 years) to try and earn the Silver. You need four of the 
+nine Victory Points for a Silver Medal. If you manage that, you will 
+have up to 120 years to try and earn the Gold. You must earn ALL NINE 
+Victory Points to win the Gold Medal.
+
+Earning even one point will be a challenge. The terrain is unforgiving.
+
+In multiplayer, you may choose between a Short Game or a Full Game, by 
+playing either the original version or the "Short Multi" version. In the 
+Short Game, the first player to score any Victory Point is the winner. In 
+the Full Game, the first person to earn five Victory Points will win, or 
+the player with the most points once all nine have been earned will win. 
+Players may of course choose to play for other points totals, but you will 
+have to use the main version and then keep track on your own if, for 
+example, playing until someone earns two points.
+
+And of course, on a map this challenging, it won't be uncommon for players 
+to go completely bankrupt in multiplayer. If you go bankrupt, obviously 
+you are most likely finished. The map's only restriction is that you 
+cannot start multiple companies. If players are going bankrupt, the last 
+one still standing will be the victor.
+
+You may check the Briefing at *any* time to see how many total Victory 
+Points have been awarded so far that game, in single or multiplayer.
+
+
+Victory Points are awarded for the following accomplishments:
+
+* Connect Diva and Happy Valley and haul 12+ loads between them      - 1 point
+* Connect Happy Valley and Waterloo and haul 12+ loads between them  - 1 point
+* Connect Waterloo and Walrus Island and haul 12+ loads between them - 1 point
+* Connect Walrus Island and Serpent's Hold and haul 12+ loads        - 1 point
+* Connect Serpent's Hold and Diva and haul 12+ loads between them    - 1 point
+
+* Haul 100+ loads in a single year           - 1 point
+* Personal Net Worth of $30,000,000 or more  - 1 point
+* Company Book Value of $100,000,000 or more - 2 points!
+
+
+All train running costs are set to Low. All revenues are set to +10%. All 
+mountainous track building has been set to cost 25% less than normal for the 
+first 30 years, and 20% less than normal thereafter. Engine maintenance has 
+been set to 10% cheaper than normal. Only the powerful locomotives that 
+perform well on grades will be available for purchase. There is an economic 
+depression set to go off at a certain point fairly early in the game; ignore 
+the warning notice at your own peril. When nuclear plants eventually arrive, 
+they will provide some very lucrative opportunities.
+
+The economy is set to start at a VERY low level, meaning many towns won't even 
+have the minimum 4 houses required to create demand. Be careful. However, the 
+economy is set to grow at a HIGH rate, so hang in there. Town size will grow 
+eventually, and any towns receiving rail service will grow at a faster rate.
+You may even see a large abundance of industry in a busy town, or see a 
+village grow into a metropolis, over the decades.
+
+The AI players will tend not to purchase rights to the five nations, so you
+will likely only have to compete with them in the rest of the region.
+
+This open-ended Victory Point system allows you, the player, to choose your 
+own approach. You may tackle these goals in any order, and you only have to 
+reach ONE of them (any of them) to consider yourself a success on this map.
+
+Good luck!
+
+
+Sirian ... aka ... Robert B. Thomas
+
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+Advice, Tips, and Suggestions for playing this map.
+
+
+Making the Grade is a truly challenging map. Even with the aid of low costs, 
+you will be hard pressed to turn a profit, much less expand your rail network.
+
+If you are having trouble getting started, or just looking for some tips to 
+improve your performance, here are some things to consider.
+
+I recommend you either connect two cities, or one metropolis with two towns. 
+There are numerous places to start. Silver Star and Arcturan. Qaid to Torment 
+or Qaid to Northumberland. Peace Cross to Sussex or Badlands to Sussex. You 
+can go from Arcturan to Equinox, or Equinox to Riverbend. You can start in 
+Forsaken IF there are at least two towns with 4 houses nearby, but you have 
+to connect to more than one town right away. You can go from Essex to 
+Eastwick. Or you can hire a manager that boosts goodwill and lay out for 
+rights immediately and dive into yet more opportunities like starting in 
+San Angelino, Somerset Lakes, Walrus City, Serpento, or Barkman Plateau.
+
+RUN ONE CAR PER TRAIN!!! This is absolutely essential for all but the very 
+best grade performers. You can run any number of cars you want on a leg that 
+is downhill-all-the-way, but if there are any grades to be climbed (and there 
+almost always are) then it's one car max or go bankrupt, until you've 
+survived long enough to reach the Camelback and other power locos. Run one car 
+per train, or up to three on Shays. No more! No cabooses, either, except on 
+the Shays or empty legs. Running more Shays and cabooses helps with goodwill.
+
+Another advantage of running one car per train is higher demand levels, on 
+average, for each car that arrives. The demand will have time to recover a 
+bit, in most cases, before the next single-car train arrives.
+
+If you have too much trouble at first and you just cannot survive at all, you 
+can start in 1908 after the Camelback arrives. The Camelback can handle more 
+than one car -- it's better than the Shay in *every* way, including costs.
+
+Whatever you do, make sure you include industry in your plans. And have ALL 
+your trains ALWAYS wait until full: you can't afford to run any empty trains.
+
+Also, make sure you have enough SAND. You have to put a depot with nothing 
+but a sand tower on top of the hill between Silver Star and Arcturan, for 
+example, or on the steep hillside between Somerset Lakes and Nittany. Go 
+there and look! That short distance is TOO FAR to go without a pit stop for 
+sand, with slopes that steep (about 8% all the way up, and worse if you don't 
+pick the best route). On the other hand, you do not need a sand waypoint on 
+the run from Somerset Lakes up to Turkeyfoot. So it's not just about distance, 
+it's about grade. Keep an eye on it. Also, put a sand tower at EVERY station. 
+Running out of sand is like tossing cash out the nearest window. :)
+
+If you can keep the grades UNDER 6% for the most part, you'll be OK. Your 
+target on really steep hills is to keep most if not all of them under 8%. 
+Better to have a whole hill of 6.5% than to have ONE spot of 11% and a lot of 
+4%s. Try to avoid steep curves, those are the worst. 8% on a curve is like 
+glue: the trains stick there for months at a time. Grades worse than 8% are 
+*very* bad, but they are not fatal unless traffic levels are going to be high 
+in that area.
+
+Don't rely heavily on the Mogul when it arrives. It's actually not worth 
+choosing over the Consolidation for short runs. The BoBo is not a bad train, 
+but it will cost extra to electrify your rails and the fuel costs for the 
+BoBo can be prohibitively expensive for some runs. You will have to make hard 
+decisions when the time comes. If you can survive until the Camelback comes 
+out, you'll be in a strong position. Your towns will likely have grown a lot 
+in the first 23 years, so you'll be primed with higher levels of supply and 
+demand ready and waiting and eager for more deliveries.
+
+From that point on, conditions will improve. Better, more powerful locomotives 
+will become available over time. By the time that diesels come out, you'll be 
+sitting pretty -- assuming you made it through the lean early years intact. :)
+
+Keep in mind that there will be a very bad economic period after your first 
+decade of the game has passed. Don't overextend yourself early: just make 
+sure you are turning profit, and try to get your foot in the door on hauling 
+industrial cargo and buying up any industries you have made lucrative. This is 
+a great opportunity to sell short a few thousand shares of competitors' stocks 
+in anticipation of the big crash, and then to increase your holdings while 
+the prices are rock bottom. It is not uncommon for ALL the stocks on the 
+market to be in private hands by the time the depression is over.
+
+Don't panic if some of your Shays are actually losing money hauling. They are 
+slow and somewhat costly, but you CANNOT afford to ignore nearby industry. Not 
+only will you earn more than enough industry profits to cover the expense of 
+the Shays, they will keep you afloat through that early depression. Profits 
+from Bakeries, Dairy Processors, Textile Mills and similar industry will 
+remain high even in hard times, and can keep your company from going broke. 
+Just as importantly, Shays will cause your towns to grow, and they will lead 
+to improved goodwill, which will reduce the cost for Rights and improve the 
+availability level of cargo.
+
+Passengers and mail are big bread winners in prosperous times. You will make 
+a lot of money off of mail, hauling one load at a time. Buy those post offices 
+and hotels at the earliest opportunity, and double your tracks quickly if you 
+haven't already. Be careful of taking out too many bonds, particularly at high 
+interest rates. Too much interest can back fire on you.
+
+Finally, if you have difficulty getting started on this map, you may be playing 
+it at too steep a setup. Try restarting with more of a revenue bonus (or less of 
+a penalty). This will affect the map's value in terms of your high score board, 
+but it will let you have fun playing. This map can be highly addictive once you 
+really get into the swing of things. :)
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+Making the Grade is designed for the seasoned RRT2 player. New players should 
+make sure to learn how to be successful on less demanding maps before tackling 
+this one. For me personally, my test games on this map have been some of the 
+funnest games of RRT2 I have yet played. The map is unlike any other, and it 
+presents a unique and entertaining set of challenges.
+
+I hope you succeed at Making the Grade.
+
+
+Sirian ... aka ... Robert B. Thomas

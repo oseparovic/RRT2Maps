@@ -1,0 +1,13 @@
+Welcome to the Royal Empress!
+
+This is a single player builder-type map.  Plenty of events (you'll see why when you read the briefing) and an interesting challenge.  To replace the country's water-based transportation system with ... yup, a Railroad.
+
+You're dropped into the scenario in Londres and given a charter by the Royals to connect each and every one of the 26 communities on the map to Londres.  Not only do they want connections, they want those connections used and speed.  Each of the three medals have requirements for connections, loads hauled and lifetime average speed.  (This is one of the few reasons why it's a TSC scenario)
+
+The map is completely fictional (heck, the country itself doesn't have a name!), town names come from various places and languages, but have a mainly British slant.
+
+Questions, comments, feedback (please send me a note saying you've actually played the map) and bugs should be sent to my e-mail address:  joncalon@hotmail.com.  This is my first map, and I hope I've tested it thoroughly enough.  If something doesn't work properly, please e-mail me and let me know so I can squash it.
+
+This map is copyrighted by me.  While I fully endorse your efforts to distribute the map to your RTII friends, please do not distribute edited copies.  If you feel strongly about something being different, drop me a line.  I'll definitely listen to any feedback and will probably implement the changes...
+
+Have fun!

@@ -1,0 +1,8 @@
+Here is an RRT2 map in TSC format. It is quite small: the subject is a small island next to a much larger 
+neighbour. You have track laying rights in the island, and your goal is to expand the industry. Works well 
+in multiplayer: good for a game with 2-4 players (particuarly good for 3). Start at 1850 and finish in 1900. 
+Other information is included in the description and briefing in the map. (This is a fictional location).
+
+James E. Petts
+petts@geocities.com
+www.visitweb.com/computerlife

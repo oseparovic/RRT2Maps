@@ -1,0 +1,15 @@
+The Tester Map for Railroad Tycoon II.
+version 1.0
+
+This map is used to test one engine against another.  It is not
+a scenario.  Line up your engines with a few passenger cars for
+a lap race along similar stretches of track.  See how much profit
+each engine makes over a few years or a lifetime.  Test the engines
+fitness for a specific type of track.  You may be surprised which 
+engines bring in the most revenue.
+
+
+by Steve Lorenz
+rrtii@earthlink.net
+Heineken & Pacific Railroad
+http://home.earthlink.net/~rrtii

@@ -1,0 +1,21 @@
+OCEANIA RAILWAYS, version 2:
+
+This railway system is for people who likes heavy traffic and big junctions! There are many options for industrial si-
+dings. Space is reserved for quadouble track and bypasses around most of the big population centres. 
+
+I sugest the player to start with a railway from Kingston to the coal and iron deposits around Dudwell. It will take some years to consolidate your company, but soon the expansion will escalate. By 1915 or so, the whole system should be built, and by this time it will take approximately 250 trains to run it. 
+PORTS:	IMPORT:			EXPORT:		OTHER DATA: RRT2, The second Century  with    
+	 Goods			 Iron ore	 option for multiple companies.  Start year 1862.                          
+	 Goods			 Coffee		 Some events with effects on the game will happen
+	 Goods			 Logs		 underway. Alternative engine avaibility. Start economy:
+	 Wool x1 per dock.			 79%, growth: 0.8% a year.
+Note: In 1956 there will be a choice between continued steam traction or not. By choosing steam, the some new engines
+          will be avaiable, but by all means: The last steam engine will be avaiable in 1956 or 1960, depending on choice.
+
+By  drawing this map I have built all railway lines with a maximum gradient of 2.5%, and replaced them with reserve cells. When finished the map I have liqudated the company and then tested the game by playing it 2 times.   
+The average distance between stations are approximately 5-10 kilometres, using a scale of 2 squares = 1 km. 
+
+
+
+This map has been drawn by Anders Robert Pilgaard - Århus - Denmark.  (bx03638@post7.teledk). 
+Last update: 1999-12-05. More towns are added and I have made some improvements to the landscape. 

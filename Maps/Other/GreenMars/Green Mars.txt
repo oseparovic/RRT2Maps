@@ -1,0 +1,81 @@
+--- General Information ---
+Full Map Title : Green Mars
+Author : ===Gonzo===>
+Copyright Info. : Gonzo Industries 6/1999
+Distribution : If you want it you can have it
+
+Usage Restrictions : Feel free to modify this map, but if modified be sure to note it as such.  
+
+--- Vital Statistics ---
+Starting Year : 1825
+Start Range : 1825
+Map Size : 500 * 500 (Yes it's big)
+Map Base : New Map
+Topography Base : Ares Vallis, Mars.
+Territories : Yes (7) 
+Map Restrictions: None.
+Special Restrictions: None.
+Barred Industry : Tropical Industries(Cotton, Coffee, Rubber, Sugar)  products are available in the ports.
+Player Pool : N. America 
+Manager Pool : All
+Locomotive Pool : N. America + Special options to import 4-2-2 Iron Duke and 4-6-2 A4 Mallard
+
+--- Single Player Data ---
+Single Player : Scenario 
+Computer Players: Yes (3) Manditory
+SP Gold Win : Connect all seven territorial capitols, $100,000,000 personal net worth, and $750,000,000 
+company book value. 
+SP Silver Win: $100,000,000 personal net worth, and $750,000,000 company book value. 
+SP Bronze Win: $100,000,000 personal net worth.
+SP Loss: Fail to win.
+
+--- Multi-Player Data ---
+Multi-Player : No
+MP Gold Win : N/A.
+MP Silver Win : N/A.
+MP Bronze Win : N/A.
+MP Loss :  N/A.
+
+--- Extra Information ---
+Known Bugs : None (pick one)
+Other Notes :
+Original description of the landing site from NASA: 
+NASA has selected an ancient flood plain on Mars as the landing site for the 1996 mission of Mars Pathfinder, 
+one of the first in a new generation of small, low-cost spacecraft. Eons ago, when water flowed on Mars, great 
+floods inundated the landing site, located on a rocky plain in an area known today as Ares Vallis. The site is 
+850 kilometers (527 miles) southeast of the location of Viking Lander 1, which in 1976 became the first 
+spacecraft to land on Mars. Pathfinder will be the first to land on Mars since the twin Viking landers arrived 
+almost 20 years ago. The spacecraft, scheduled to arrive at Mars on July 4, 1997, will parachute down to Ares 
+Vallis at the mouth of an ancient outflow channel chosen for the variety of rock and soil samples it may 
+present. The target landing site, at the center of the landing ellipse pictured below, is 19.5 N, 32.8 W. 
+The purpose of the new Pathfinder mission is to demonstrate an inexpensive system for cruise, entry, descent 
+and landing on Mars, said Project Manager Anthony Spear and Project Scientist Dr. Matthew Golombek of 
+NASA's Jet Propulsion Laboratory. The lander, carrying the microrover, will aerobrake in the upper 
+Martian atmosphere using an aeroshell and a parachute. Just before impact, airbags will inflate to cushion 
+the landing. The microrover will then roll out to examine the rocks and soil nearby. Both lander and rover 
+will carry scientific instruments and cameras. The lander will make atmospheric and meteorological 
+observations during descent and function as a weather station on the surface, as well as a radio relay station 
+for the rover. The constraints on the location have to do with engineering considerations, Spear said. Since 
+the spacecraft are solar-powered, the best site is one with maximum sunshine and in July, 1997, the sun will 
+be directly over the 15 degrees north latitude region of the planet. The elevation must be as low as possible, 
+Spear added, so the descent parachute has sufficient time to open and slow the lander to the correct terminal 
+velocity. The landing will be within a 100- by 200-kilometer (60- by 120-mile) ellipse around the targeted site 
+due to uncertainties in navigation and atmospheric entry. 
+Ares Vallis, which meets the engineering constraints, was chosen after a workshop earlier this year that 
+involved the invited participation of the entire scientific community concerned with Mars. More than 60 
+scientists from the United States and Europe attended. The Ares Vallis site is also a "grab bag" location, 
+according to Golombek, set at the mouth of a large outflow channel in which a wide variety of rocks are 
+potentially within the reach of the rover. Even though the exact origins of the samples would not be known, 
+he said, the chance of sampling a variety of rocks in a small area could reveal a lot about Mars. The rocks 
+would have been washed down from highlands at a time when floods moved over the surface of Mars. Several 
+potential sites were listed where ancient flood channels emptied into Chryse Planitia, having cut through 
+crustal units and ridged plains where the water would have picked up material and deposited it on the plain. 
+Other sites that were considered included Oxia Palus, a dark highlands region that contains highland crust 
+and dark wind-blown deposits; Maja Valles Fan, a delta fan which drained an outflow channel; and the Maja 
+Highlands, just south of Maja Valles. All of the sites were studied using Viking orbiter data. 
+Both the Pathfinder lander and rover have stereo imaging systems. The rover, additionally, carries an alpha 
+proton x-ray spectrometer with which it will examine the composition of the rocks. The imaging system will 
+reveal the mineralogy of surface materials as well as the geologic processes and surface-atmosphere 
+interactions that created and modified the surface. The instrument package will also enable scientists to 
+determine dust particle size and water vapor abundance in the atmosphere. 
+ 

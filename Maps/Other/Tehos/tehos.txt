@@ -1,0 +1,24 @@
+
+
+This is my first map.It is for RRT2 Classic PC version
+
+Place is fictious,and map includes all types of terrains. 
+
+-size 500x500
+-Players 1-9
+-inserted also nuclear plants and uranium mines,but as usual, uranium mine does not produce anything,,
+-few events(newspapers,suggestions to connect to town,robbers,,)
+-all traffic is heavy,,
+
+extract it to maps folder,,
+
+
+-i dont take any responsibility about the map,,
+
+teho_boy@hotmail.com
+
+this is version3
+
+-new events
+-one territory
+-Many new cities
